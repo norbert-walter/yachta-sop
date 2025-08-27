@@ -12,9 +12,12 @@ Terms
 	* **FP/ICT** – Flying Probe / In‑Circuit Test
 	* **FCT** – Functional Circuit Test
 	* **MSL** – Moisture Sensitivity Level
-	* **NCR/NCMR** – Nonconformance / Material Review
+	* **NCR/NCMR** – Non-Conformance Report / Material Review
+	* **SMT** - Surface Mounted Technology
 	* **SN** – Serial Number
 	* **SOP** - Standard Operating Procedure
+	* **THT** - Through-Hole Technology
+	
 
 
 

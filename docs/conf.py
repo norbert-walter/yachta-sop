@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Yachta SOP"
+project = "Yachta PCB SOP"
 copyright = "2025, Open Boat Projects"
 author = "Norbert Walter"
 
