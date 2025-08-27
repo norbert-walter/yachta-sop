@@ -7,14 +7,14 @@ inkl. reST-Masking, Plural-Support, Batching/Throttle und optionaler Nachbearbei
 
 ENV-Variablen:
   GOOGLE_API_KEY          # dein Google Cloud Translation API-Key (v2, Basic)
-  TARGET_LANG=en          # Zielsprache (ISO, z. B. en, fr, es). Default: de
+  TARGET_LANG=en          # Zielsprache (ISO/BCP-47, z. B. en, fr, es, zh_CN, zh-CN). Default: de
   REWRITE_FUZZY=true      # fuzzy-Einträge neu befüllen (Default: true)
   REWRITE_FILLED=false    # bereits gefüllte, nicht-fuzzy Einträge überschreiben (Default: false)
   DNT=Foo,Bar             # Kommagetrennte „Do Not Translate“-Phrasen (optional)
   BATCH_SIZE=128          # max. 128 Texte/Request (Default: 128)
   THROTTLE_SECONDS=0.0    # Pause zwischen Requests in Sekunden (Default: 0.0)
 
-  POSTPROCESS=none|capitalize_first|title_case   # Nachbearbeitung (Default: none, capitalize_first = große Anfangsbuchstaben bei Überschriften, title_case = heuristische Title Case für Überschriften, kleine Stoppwörter bleiben klein)
+  POSTPROCESS=none|capitalize_first|title_case   # Nachbearbeitung (Default: none)
   POSTPROCESS_LANGS=en,fr                        # Für welche Zielsprachen anwenden (Default: en)
   HEADING_MAX_LEN=70                             # Heuristik-Grenze für Title-Case (Default: 70)
 
@@ -59,6 +59,39 @@ def chunked(iterable, n):
 def need_nplurals(po: polib.POFile) -> int:
     m = re.search(r"nplurals\s*=\s*(\d+)", po.metadata.get("Plural-Forms", "") or "")
     return int(m.group(1)) if m else 2
+
+# ---- Sprach-Helper ----
+def normalize_sphinx_lang(tag: str) -> str:
+    """
+    Normalisiert eine Sprachkennung für Sphinx/Dateipfade:
+      - Bindestrich -> Unterstrich
+      - Sprache lower-case, Region upper-case
+    Beispiele:
+      'zh-CN'/'zh_cn'/'ZH-cn' -> 'zh_CN'
+      'pt-br' -> 'pt_BR'
+      'de'    -> 'de'
+    """
+    t = (tag or "").replace("-", "_")
+    parts = t.split("_")
+    if len(parts) == 2 and parts[1]:
+        return f"{parts[0].lower()}_{parts[1].upper()}"
+    return parts[0].lower()
+
+def google_target_code(tag: str) -> str:
+    """
+    Liefert einen BCP-47-Code für die Google API:
+      - Unterstrich -> Bindestrich
+      - Sprache lower-case, Region upper-case
+    Beispiele:
+      'zh_CN' -> 'zh-CN'
+      'pt_br' -> 'pt-BR'
+      'de'    -> 'de'
+    """
+    t = (tag or "").replace("_", "-")
+    parts = t.split("-")
+    if len(parts) == 2 and parts[1]:
+        return f"{parts[0].lower()}-{parts[1].upper()}"
+    return parts[0].lower()
 
 # --------------------- Google v2 (API key) ---------------------
 def google_translate_batch(texts: List[str], target: str) -> List[str]:
@@ -130,7 +163,8 @@ def translate_many_preserving_markup(texts: List[str]) -> List[str]:
         m, tab = mask_text(t)
         masked.append(m)
         tables.append(tab)
-    outs = google_translate_batch(masked, TARGET_LANG.lower())
+    # Nutze BCP-47-Zielcode für Google (z. B. 'zh-CN', 'pt-BR')
+    outs = google_translate_batch(masked, google_target_code(TARGET_LANG))
     return [unmask_text(o, tab) for o, tab in zip(outs, tables)]
 
 # --------------------- Nachbearbeitung (Groß-/Kleinschreibung) ---------------------
@@ -265,8 +299,14 @@ def process_po_file(path: str) -> bool:
     return changed
 
 def default_po_dir() -> str:
-    # Standard: locale/<TARGET_LANG>/LC_MESSAGES relativ zum aktuellen Arbeitsverzeichnis
-    return os.path.join("locale", TARGET_LANG.lower(), "LC_MESSAGES")
+    """
+    Standard-Verzeichnis relativ zum aktuellen Arbeitsverzeichnis (z. B. docs/):
+      locale/<lang>_<REGION>/LC_MESSAGES
+    Sprach-Tag wird robust normalisiert, damit sowohl 'zh-CN' als auch 'zh_CN'
+    zum gleichen Pfad 'zh_CN' führen.
+    """
+    norm = normalize_sphinx_lang(TARGET_LANG)
+    return os.path.join("locale", norm, "LC_MESSAGES")
 
 # --------------------- Main ---------------------
 if __name__ == "__main__":
@@ -280,3 +320,4 @@ if __name__ == "__main__":
         for fn in files:
             if fn.endswith(".po"):
                 process_po_file(os.path.join(root, fn))
+
