@@ -31,7 +31,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    'sphinxcontrib.svg2pdfconverter',
 ]
 
 intersphinx_mapping = {
