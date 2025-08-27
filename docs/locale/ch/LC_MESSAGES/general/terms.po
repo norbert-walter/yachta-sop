@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/terms.rst:2 0f627dcdfb4a435e8741307b8618b846
+#, fuzzy
+msgid "Terms"
+msgstr "Tetminu siha"
+
+#: ../../general/terms.rst:4 54af006002a7460eae7c2f6b06761d14
+#, fuzzy
+msgid "**AOI** - Automated Optical Inspection"
+msgstr "**AOI** - Inspeksion Optiku ni' Ma'a'a'ñao"
+
+#: ../../general/terms.rst:5 069ca5ae97994d5cbab1515ae54a8dcd
+#, fuzzy
+msgid "**AQL** - Acceptable Quality Level"
+msgstr "**AQL** - Aceptapble na Kålidåt na Nivel"
+
+#: ../../general/terms.rst:6 9209d098d6b64ccdacf2914f7a039982
+#, fuzzy
+msgid "**BOM** – Bill of Materials"
+msgstr "**BOM** – I lai put i matiriåt siha"
+
+#: ../../general/terms.rst:7 8af0daff412e4dfab356aa698b7dcf9e
+#, fuzzy
+msgid "**CPL/XY** – Placement coordinates"
+msgstr "**CPL/XY** – I lina'la' i taotao siha"
+
+#: ../../general/terms.rst:8 571d66dbea524ecaa5a871a6bf3ac51f
+#, fuzzy
+msgid "**DFM/DRC** – Design for Manufacturability / Design Rule Check"
+msgstr ""
+"**DFM/DRC** – Disision para i Manmafa'tinas / Chek i Areklamenton Disision"
+
+#: ../../general/terms.rst:9 1008b98f734642bc9f179ab561cfe270
+#, fuzzy
+msgid "**DVM** - Digital Volt Meter"
+msgstr "**DVM** - Digital Volt Meter"
+
+#: ../../general/terms.rst:10 917bc5e10e334f71af6e7b4592c89c08
+#, fuzzy
+msgid "**EMS** – Electronics Manufacturing Services"
+msgstr "**EMS** – Setbisio siha ni' Manmafa'tinas i Elektronika siha"
+
+#: ../../general/terms.rst:11 caeaa27492a944c98e219e669a30fb80
+#, fuzzy
+msgid "**ESD** – Electrostatic Discharge"
+msgstr "**ESD** – Discharge Electrostatic"
+
+#: ../../general/terms.rst:12 d01999c85c424ef4a6cf23fe976667e5
+#, fuzzy
+msgid "**FP/ICT** – Flying Probe / In‑Circuit Test"
+msgstr "**FP/ICT** – Flying Probe / In‐Circuit Test"
+
+#: ../../general/terms.rst:13 3bff8476671547138a3d7173212b86fd
+#, fuzzy
+msgid "**FCT** – Functional Circuit Test"
+msgstr "**FCT** – Prueba gi i Sirkuit ni' Funsionåt"
+
+#: ../../general/terms.rst:14 885f7f8b104c4768ac4584d2a2ffd17d
+#, fuzzy
+msgid "**ICT** - In Circuit Test"
+msgstr "**ICT** - Gi i Prublema gi i Sirkuito"
+
+#: ../../general/terms.rst:15 96171c644c5d45c0a397029099b9f9fb
+#, fuzzy
+msgid "**MSL** – Moisture Sensitivity Level"
+msgstr "**MSL** – Nivel na Sensitibu gi i Hånom"
+
+#: ../../general/terms.rst:16 f4e40789f78849fcb28c4a1d169c3f1d
+#, fuzzy
+msgid "**NCR/NCMR** – Non-Conformance Report / Material Review"
+msgstr "**NCR/NCMR** – Repot put Ti Konfotme / Ribisa i Materiåt"
+
+#: ../../general/terms.rst:17 568e4d1eae744f16a086aea47719a928
+#, fuzzy
+msgid "**SMT** - Surface Mounted Technology"
+msgstr "**SMT** - Teknolohian Ma'a'atan gi i Tåno'"
+
+#: ../../general/terms.rst:18 4f7820482c1347f48f8beeb787e28176
+#, fuzzy
+msgid "**SN** – Serial Number"
+msgstr "**SN** – Numeron Seriåt"
+
+#: ../../general/terms.rst:19 3930f2326ead4c5abb16c73695d129dd
+#, fuzzy
+msgid "**SOP** - Standard Operating Procedure"
+msgstr "**SOP** - I Standard na Prugråman Operasion"
+
+#: ../../general/terms.rst:20 a73c86fb4ca64fec858b0eed2bf45847
+#, fuzzy
+msgid "**THT** - Through-Hole Technology"
+msgstr "**THT** - Teknolohian Through-Hole"

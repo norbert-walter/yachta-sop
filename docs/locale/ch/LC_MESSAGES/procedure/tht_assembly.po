@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/tht_assembly.rst:2 60f1d354e19f40bbbedc669492ea20d3
+#, fuzzy
+msgid "THT Assembly & Soldering"
+msgstr "THT Inayek yan Inayek"
+
+#: ../../procedure/tht_assembly.rst:4 ff6ecc9c0bc541e89e0fbe71f9656113
+#, fuzzy
+msgid "Insert parts; lead length/stand‑off per drawing"
+msgstr "Na'halom i påtte siha; i lina'la'/stand‐off gi kada dibuho"
+
+#: ../../procedure/tht_assembly.rst:5 1f98bd8d72a14cf68b3d0b98c7fea171
+#, fuzzy
+msgid "Selective/wave solder with proper masking"
+msgstr "Solder ni' ma'ayek/ma'ayek yan maolek na maskåra"
+
+#: ../../procedure/tht_assembly.rst:6 3080af7e79c4461d8bd521b977b9e6a1
+#, fuzzy
+msgid "Hand solder only if specified; clean flux residues as required."
+msgstr ""
+"Solda gi kannai ha' yanggen ma espisifiku; na'gasgas i hånom tåsi yanggen "
+"nisisåriu."

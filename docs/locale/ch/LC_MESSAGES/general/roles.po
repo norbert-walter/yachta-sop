@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/roles.rst:2 42bad37ef6d44415b9a2155f60ef693b
+#, fuzzy
+msgid "Roles & Responsibilities"
+msgstr "Che'cho' yan Responsabilidåt siha"
+
+#: ../../general/roles.rst:4 1f7f04d36a214daf99928f4e92eada30
+#, fuzzy
+msgid ""
+"**Project Management:** Overall responsibility, approvals, schedule/cost "
+"control."
+msgstr ""
+"**Manehanten Prohekto:** Todu i responsipåblidåt, i inaprueba siha, i "
+"eskedyul/i gaston-ñiha."
+
+#: ../../general/roles.rst:5 d97d1462622d413e974699aee2e22945
+#, fuzzy
+msgid ""
+"**Hardware Engineering:** Provides and maintains manufacturing data, test "
+"instructions, programming packages."
+msgstr ""
+"**Hardware Engineering:** Ha na'i yan ha na'siguru i dañuyan na infotmasion "
+"put i fina'tinas, i instruksion siha put i prublema, yan i paketen prugråma "
+"siha."
+
+#: ../../general/roles.rst:6 18343cb16116483eb9b59d4399b97bdb
+#, fuzzy
+msgid ""
+"**Purchasing/Logistics:** Procurement of PCBs/components, supplier "
+"management, obsolescence check."
+msgstr ""
+"**Purchasing/Logistics:** I fina'tinas i PCBs/komponente siha, i mana'dokko'"
+" i supottadot siha, i che'cho' i manma'pos na tiempo."
+
+#: ../../general/roles.rst:7 ea8c3b66501b4b2aa21c0402064ff11f
+#, fuzzy
+msgid ""
+"**Manufacturing (SMT/THT):** Paste print, placement, soldering, rework per "
+"standards."
+msgstr ""
+"**Manmafa'tinas (SMT/THT):** Pega i prinitehi, i puesto, i pineddong, i "
+"fina'tinas ta'lo sigun ginen i estao siha."
+
+#: ../../general/roles.rst:8 4e74b4f8e25e4068a721c0e9c2c71f1a
+#, fuzzy
+msgid ""
+"**Quality Assurance (QA):** Incoming inspections, accept/reject versus "
+"criteria, release/hold."
+msgstr ""
+"**Quality Assurance (QA):** I inspeksion siha ni' para u fanmatto, ma "
+"aksepta/ma na'suha kontra i kriteria, ma na'huyong/ma håtsa."
+
+#: ../../general/roles.rst:9 d2852419a6b84586a05a9f71f40bd058
+#, fuzzy
+msgid "**Test Lab:** Electrical tests, programming, FCT, logging."
+msgstr ""
+"**Test Lab:** Prubåba siha put elektrisidåt, prugråma, FCT, yan logging."
+
+#: ../../general/roles.rst:10 e6c1c0e2e5ef4197b8dc0ee50a4c19c4
+#, fuzzy
+msgid "**Documentation:** Checklists, records, traceability."
+msgstr "**Dokumentåsion:** Lista siha, rekot siha, yan siña ma'ayek."

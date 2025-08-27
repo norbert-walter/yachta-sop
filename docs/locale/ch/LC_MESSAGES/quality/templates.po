@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../quality/templates.rst:2 18ae036ed4aa406a9bf708ce276e635f
+#, fuzzy
+msgid "Checklists & Templates"
+msgstr "Lista yan Plantilan Siha"
+
+#: ../../quality/templates.rst:5 f9feabbb44ff486f812a25b858852652
+#, fuzzy
+msgid "Form A1 – PCB Incoming Inspection"
+msgstr "Form A1 – Inspeksion PCB"
+
+#: ../../quality/templates.rst:7 6bf468948b1d4ee39c9dff83949f89cb
+#, fuzzy
+msgid ""
+"Check item      Result (OK/NOK) Comment Inspector       Date "
+"Packaging/ESD/humidity card Solder mask/legend/finish "
+"Drills/milling/dimensions Markings (rev., date code) Electrical E‑test "
+"provided"
+msgstr ""
+"Chek i kosas Resulta (OK/NOK) Kuentos Inspektot Fecha Packaging/ESD/humidity"
+" card Solder mask/legend/finish Drilles/milling/dimensions Markings (rev., "
+"date code) Electrical E‐test provided"
+
+#: ../../quality/templates.rst:15 5a16adf7958843df834e049fd9368656
+#, fuzzy
+msgid "Form B1 – Component Incoming Inspection"
+msgstr "Form B1 – Inspeksion ni' Manmåtto gi i Komponente"
+
+#: ../../quality/templates.rst:17 81c98c5c12834936b36bb028a5497d6e
+#, fuzzy
+msgid ""
+"Pos.    MPN     Qty     Date/lot code   MSL     Check (OK/NOK)  Comment"
+msgstr "Pos.    MPN Kantidå Fecha/kode' lote MSL Chek (OK/NOK) Kuentos"
+
+#: ../../quality/templates.rst:20 5447bcf0b0344477bd988946aabd3aef
+#, fuzzy
+msgid "Form C1 – Visual Inspection"
+msgstr "Form C1 – Inspeksion Bisuåt"
+
+#: ../../quality/templates.rst:22 82e0c84712a6457c8288621c1d6ff11a
+#, fuzzy
+msgid ""
+"SN      Scope   IPC class       OK/NOK  Finding/photo ID        Inspector"
+"       Date"
+msgstr "SN Scope IPC class OK/NOK Finding/photo ID Inspector Date"
+
+#: ../../quality/templates.rst:25 e4681792868841169b6212e2566c3a5d
+#, fuzzy
+msgid "Form D1 – Electrical Bring‑Up"
+msgstr "Form D1 – Electrical Bring‐Up"
+
+#: ../../quality/templates.rst:27 01f9b0ab15b14521bfa12cf66cd3d367
+#, fuzzy
+msgid ""
+"SN      Shorts OK       Power‑on OK     Vref (V)        I_in (mA)       "
+"Interfaces      OK/NOK  Inspector"
+msgstr ""
+"SN Shorts OK Power‐on OK Vref (V) I_in (mA) Interfaces OK/NOK Inspector"
+
+#: ../../quality/templates.rst:30 84a01ec4e7154842bd1e0a6c8e0b5b61
+#, fuzzy
+msgid "Form E1 – Programming"
+msgstr "Form E1 – Prugraman"
+
+#: ../../quality/templates.rst:32 f4b335fa696a4a59a90b38f1cc8637dd
+#, fuzzy
+msgid ""
+"SN      FW version      Tool/adapter    Erase   Program Verify  "
+"Parameterization        OK/NOK  Timestamp"
+msgstr ""
+"SN FW version Tool/adapter Na'suha i Prugråma Na'siguru na Parameterization "
+"OK/NOK Timestamp"
+
+#: ../../quality/templates.rst:35 1821e0898a19408cb09d3455926fda66
+#, fuzzy
+msgid "Form F1 – Functional Test (FCT)"
+msgstr "Form F1 – Functional Test (FCT)"
+
+#: ../../quality/templates.rst:37 d5ba92770b7b40cea690ee14cda62860
+#, fuzzy
+msgid ""
+"SN      Test script     Test points     Within limits   Duration        "
+"OK/NOK  Log archived    Inspector"
+msgstr ""
+"SN Test script Test points Gi halom i lina'la' Duration OK/NOK Log archived "
+"Inspector"

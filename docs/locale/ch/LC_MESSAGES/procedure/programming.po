@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/programming.rst:2 d8bef2fc13134eb2839e9ce4782da745
+#, fuzzy
+msgid "Programming (Flashing)"
+msgstr "Prugråma (Manma'lak)"
+
+#: ../../procedure/programming.rst:4 6d4e152cc31849cf855a77f01b0a8620
+#, fuzzy
+msgid "Connect USB programmer bracket"
+msgstr "Na'daña' i USB programmer bracket"
+
+#: ../../procedure/programming.rst:5 bd84150f1941444fb6c5a35436d67aa7
+#, fuzzy
+msgid "UART communication"
+msgstr "kumunidåt UART"
+
+#: ../../procedure/programming.rst:6 c9e5cd4b80b3442a818d28b736736bc0
+#, fuzzy
+msgid "Verify firmware package (version V1.20, checksum, release status)"
+msgstr ""
+"Na'siguru i firmware na pakete (båli V1.20, checksum, estao ma na'huyong)"
+
+#: ../../procedure/programming.rst:7 bd756b07997448849c571430364da03e
+#, fuzzy
+msgid "Programming sequence:"
+msgstr "Sikuensian prugråma:"
+
+#: ../../procedure/programming.rst:8 0e3c7471b805405b9de39788982dc2d2
+#, fuzzy
+msgid "Web flashtool"
+msgstr "Web flashtool"
+
+#: ../../procedure/programming.rst:9 9eeaafc6bcd9445dbc144d0bcef885ab
+#, fuzzy
+msgid "USB-Connection"
+msgstr "USB-Koneksion"
+
+#: ../../procedure/programming.rst:10 0e507f8f147346a39a4430717d895114
+#, fuzzy
+msgid ""
+"Erase → Program → Verify → Set option bytes/fuses → load defaults (Complete "
+"automatic sequence)"
+msgstr ""
+"Na'suha → Prugråma → Na'siguru → Na'setbe i option bytes/fuses → na'lå'la' i"
+" defaults (Kumple i sekuensian automatiku)"
+
+#: ../../procedure/programming.rst:11 5c1aa9aa1c324eee81f03a7f4d4da9af
+#, fuzzy
+msgid "Save log with SN, FW version, timestamp (Form E1, CSV export)"
+msgstr "Na'setbe i log gi SN, FW na båndan, timestamp (Form E1, CSV export)"
+
+#: ../../procedure/programming.rst:12 5cca95c3bcb94d8281d57148e7fab498
+#, fuzzy
+msgid "On failure:"
+msgstr "Gi i pineddong:"
+
+#: ../../procedure/programming.rst:13 812384621421488a99e7d418600c12dd
+#, fuzzy
+msgid "one retry permitted"
+msgstr "siña un prubåba ta'lo"
+
+#: ../../procedure/programming.rst:14 3c9148e1216447d4924daaa1c4f2571f
+#, fuzzy
+msgid "otherwise NCR and analysis"
+msgstr "yanggen ti, NCR yan inanalisa"
+
+#: ../../procedure/programming.rst:17 5249d5bbd51e4d79aefc29bee18cf0db
+#, fuzzy
+msgid "Web Flashtool"
+msgstr "Web Flashtool"
+
+#: ../../procedure/programming.rst:19 5624a05f95094478931361ba5e20c191
+#, fuzzy
+msgid ""
+"The web flash tool allows you to transfer the firmware for the OBP60 to the "
+"device using a web browser via a USB connection. To do this, connect the "
+"OBP60 to a PC or laptop via the USB-C port and launch the Chrome or Edge web"
+" browser. The OBP60 has a built-in USB-to-serial converter for data "
+"transfer. The USB-C cable can only be used to transfer the firmware. "
+"Operating the device via USB is not possible."
+msgstr ""
+"I web flash na åmot ha na'siña hao para un na'hanao i firmware para i OBP60 "
+"para i dipattamenton-mu ni' un usa i web browser gi i USB. Para un cho'gue "
+"este, konne' i OBP60 gi un PC pat laptop gi i USB-C port ya un lansa i "
+"Chrome pat Edge na web browser. I OBP60 guaha un USB-to-serial na "
+"konbetsasion para u na'hanao i dañu. I USB-C na kable siña ha' ma'usa para u"
+" na'hanao i firmware. Ti siña ma'usa i dipattamenton USB."
+
+#: ../../procedure/programming.rst:22 13e22b5bb8a7401bb08d8a14c0eee775
+#, fuzzy
+msgid ""
+"Web browsers other than **Chrome** or **Edge** are not currently supported "
+"because the functionality for accessing a serial port is not implemented in "
+"other web browsers."
+msgstr ""
+"Ti ma supotte i web browser siha ni' ti **Chrome** pat **Edge** sa' i siñat "
+"para u ma aksesepta i serial port ti ma implementa gi otro na web browser "
+"siha."
+
+#: ../../procedure/programming.rst:25 825b0d2a688d418188c511e96570e054
+#, fuzzy
+msgid ""
+"Please note that the web flash tool can only be used with an OBP60 V2.1 that"
+" uses an **ESP32-S3 N16R8** processor and a **GDEY042T81** e-paper display. "
+"If you use other hardware, you will need to compile a customized firmware "
+"version for your hardware. Follow the instructions in the Compiling and "
+"Downloading section."
+msgstr ""
+"På'go, i web flash tool siña ha' ma'usa gi un OBP60 V2.1 ni' umespiha un "
+"**ESP32-S3 N16R8** na prusisådot yan un **GDEY042T81** na e-paper display. "
+"Yanggen un usa otro na håtdin, debi di un kompila un kustumbren firmware "
+"para i håtdin-mu. Sige i instruksion siha gi i seksion Kompilasion yan "
+"Dinaña'."
+
+#: ../../procedure/programming.rst:27 d40b727713fe452a8ba86385ca8ac7a2
+#, fuzzy
+msgid "For the flashing process you need the following things:"
+msgstr "Para i prugråman flashing, nisisåriu i sigiente siha:"
+
+#: ../../procedure/programming.rst:28 c05e98e5e38947269c9bf91c9c5120a6
+#, fuzzy
+msgid "Yachta PCB V2.1"
+msgstr "Yachta PCB V2.1"
+
+#: ../../procedure/programming.rst:29 ade4c45a981143d185876aa74a3a2f0a
+#, fuzzy
+msgid "USB programmer bracket"
+msgstr "USB programmer bracket"
+
+#: ../../procedure/programming.rst:30 9df76a8f754241088f69d9c9c1c1fe42
+#, fuzzy
+msgid "Power supplay 12V"
+msgstr "I fuetsan elektrisidåt 12V"
+
+#: ../../procedure/programming.rst:31 43c412cb220e4a44acdab8d04a636611
+#, fuzzy
+msgid "PC mit Chrome- oder Edge-Browser"
+msgstr "PC yan Chrome pat Edge na browser"
+
+#: ../../procedure/programming.rst:33 0a6a9060cf354e8582b3b00b424ed202
+#, fuzzy
+msgid "**1. Yachta PCB put into flash mode**"
+msgstr "**1. I Yachta PCB ma po'lo gi i flash mode**"
+
+#: ../../procedure/programming.rst:36 917f03543f3d429f884678a9aaf42306
+#, fuzzy
+msgid "**2. Flashtool starten**"
+msgstr "**2. tutuhon i Flashtool**"
+
+#: ../../procedure/programming.rst:38 6081160cb8b443d79d8d7285c614e11e
+#, fuzzy
+msgid "Next, go to the `Online Flashtool`_ website."
+msgstr "Pues, fanhånao para i `Online Flashtool`_ na website."
+
+#: ../../procedure/programming.rst:44 6ad57c160b7343f5bf86582dde516788
+#, fuzzy
+msgid "Fig.: Home Web Flashtool"
+msgstr "Fig.: Home Web Flashtool"
+
+#: ../../procedure/programming.rst:46 c5ae75ba77ef481eba2b7a51377acdf2
+#, fuzzy
+msgid ""
+"Then press **Connect** and select the appropriate serial port. Depending on "
+"the operating system you're using, the ports are labeled differently."
+msgstr ""
+"Pues, chagi i **Connect** ya un selekta i propiu na puerto. Debidi u ma'usa "
+"i sisteman operasion ni' un usa, diferentes i na'an i puerto siha."
+
+#: ../../procedure/programming.rst:48 bbad40e59cce4fedb4c80f4ea3d66799
+#, fuzzy
+msgid "**Windows:** USB JTAG/serial debug unit COMx"
+msgstr "**Windows:** USB JTAG/serial debug unit COMx"
+
+#: ../../procedure/programming.rst:49 a937571805e2488cb668b30f33625847
+#, fuzzy
+msgid "**Linux:** /dev/ttyACMx"
+msgstr "**Linux:** /dev/ttyACMx"
+
+#: ../../procedure/programming.rst:53 9e08345952d84693b29e64dcba685120
+#, fuzzy
+msgid "Fig.: Selecting the interface"
+msgstr "Fig.: Inayek i inetnon"
+
+#: ../../procedure/programming.rst:56 21c691426e2c41a0ac412faf739a3da7
+#, fuzzy
+msgid ""
+"Please note that other serial ports may still be in use in the system. "
+"Select the port that appears after connecting the OBP60 to the USB port. Do "
+"not use existing ports; they are already in use for another device."
+msgstr ""
+"På'go, guaha otro na serial ports ni' siña ma'usa gi i sistema. Na'i i port "
+"ni' para u fanhuyong despues di un konnekta i OBP60 gi i USB port. Chamo usa"
+" i esta gaige na puerto siha; esta ma'usa para otro na dipattamenton."
+
+#: ../../procedure/programming.rst:58 e772f85e51c5472aaf770f3bf46d2516
+#, fuzzy
+msgid "**3. Transmit Firmware**"
+msgstr "**3. Na'hanao i Firmware**"
+
+#: ../../procedure/programming.rst:61 77c6cf8ea53043168af60043d3e4f08c
+#, fuzzy
+msgid "Fig.: Start flashing process"
+msgstr "Fig.: Tutuhon i lina'la'"
+
+#: ../../procedure/programming.rst:63 cc684db91b9844c8916b46f0cdd0332c
+#, fuzzy
+msgid ""
+"Start the installation process by selecting \"INSTALL XXX FIRMWARE.\" A "
+"message will appear after the transfer is successful."
+msgstr ""
+"Tutuhon i prugråman inestotba yanggen un selekta \"INSTALL XXX FIRMWARE.\" "
+"Guaha mensåhi para u fanhuyong despues di i translada."
+
+#: ../../procedure/programming.rst:67 79a482889fa84529a51d9febe82a82cf
+#, fuzzy
+msgid "Pic.: Transferring the firmware"
+msgstr "Pic.: Ha na'hanao i firmware"
+
+#: ../../procedure/programming.rst:69 9e9cba5fdd514338ac50181ef6142aca
+#, fuzzy
+msgid "**4. Starting Yachta PCB**"
+msgstr "**4. Ha tutuhon i Yachta PCB**"
+
+#: ../../procedure/programming.rst:70 c286996d54dd4bd6911d2c23383e0a62
+#, fuzzy
+msgid ""
+"Briefly disconnect the USB connection bracket. The firmware starts. After a "
+"short time, the LED on the microcontroller board (U2) should light up."
+msgstr ""
+"Na'suha i USB na båndan koneksion. Ha tutuhon i firmware. Despues di un "
+"dididi' na tiempo, debi di u fanma'lak i LED gi i microcontroller board "
+"(U2)."

@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/basic_test.rst:2 36d94799697c4f7abf8894b6a25d3de6
+#, fuzzy
+msgid "Basic electrical test"
+msgstr "Prubåban elektrisidåt"
+
+#: ../../procedure/basic_test.rst:4 b255047b09a440e7af975b1bcf377174
+#, fuzzy
+msgid "Visual inspection passed"
+msgstr "Ma pasa i inspeksion bisuåt"
+
+#: ../../procedure/basic_test.rst:5 a49b14d7e64a41a988833c9dab2274f9
+#, fuzzy
+msgid ""
+"Short/continuity test of power rails to GND (power supplay current limiter)"
+msgstr ""
+"Prubåba put i lina'la' i riles siha asta GND (power supplay current limiter)"
+
+#: ../../procedure/basic_test.rst:6 43fe39bdbc094663a0a9e93ec2d99ccb
+#, fuzzy
+msgid ""
+"Power‑on with bench PSU (current limit power source 50 mA; typically start <"
+" 20  mA)"
+msgstr ""
+"Na'lå'la' i PSU (50 mA na fuetsan elektrisidåt; ti siña ha tutuhon < 20 mA)"
+
+#: ../../procedure/basic_test.rst:7 3e2626d6fc67418d9d7b0de18353f032
+#, fuzzy
+msgid "Verify reference voltages/regulators 3,3 V +/- 0,3 V"
+msgstr "Na'siguru na i boltahi/reguladot siha 3,3 V +/- 0,3 V"
+
+#: ../../procedure/basic_test.rst:8 75bbbd18b5f94598bf67fdedd10767c1
+#, fuzzy
+msgid "Check power supplay"
+msgstr "Chek i fuetsan elektrisidåt"
+
+#: ../../procedure/basic_test.rst:9 744c2c5e04d44ef9ae37ac7a03f5bf9f
+#, fuzzy
+msgid "12V -> max 0,3 mA"
+msgstr "12V -> mas takhilo' 0,3 mA"
+
+#: ../../procedure/basic_test.rst:10 8466b7339e7c468590fff039b4cc2175
+#, fuzzy
+msgid "24V -> max 0,15 mA"
+msgstr "24V -> mas takhilo' 0,15 mA"
+
+#: ../../procedure/basic_test.rst:11 3afc716e6a4f4ea183102af0b532fb57
+#, fuzzy
+msgid "Overvoltage > 26V -> on power supplay current limiter activ"
+msgstr "Overvoltage > 26V -> gi i power suplay current limiter activ"
+
+#: ../../procedure/basic_test.rst:12 48ed0a098e724bc998c7909b55b56bd5
+#, fuzzy
+msgid "Basic comms (UART) and programming interface check (USB login on PC)"
+msgstr "Basic comms (UART) yan programming interface check (USB login on PC)"
+
+#: ../../procedure/basic_test.rst:13 81ae3b94d99b4968a0dd395b92a2fe0a
+#, fuzzy
+msgid "Record results (Form D1)"
+msgstr "Na'i i risulta siha (Form D1)"
+
+#: ../../procedure/basic_test.rst:16 cef10c2f64b544adad0bb99ad75978a5
+#, fuzzy
+msgid "Equipment"
+msgstr "Ramenta"
+
+#: ../../procedure/basic_test.rst:17 b3f0150268b9413cb4cd06c67a5bc102
+#, fuzzy
+msgid "Power source 30V/1A with current limiter"
+msgstr "I fuetsan enerhian 30V/1A yan i limitåt i kurentå"
+
+#: ../../procedure/basic_test.rst:18 76556a9e8c734bf0a88b0c4f2b3a1937
+#, fuzzy
+msgid "Programming adapter"
+msgstr "Adaptadot prugraman"
+
+#: ../../procedure/basic_test.rst:19 08d3807cf4764c7b8f128e8fe89c65a9
+#, fuzzy
+msgid "Digital volt meter"
+msgstr "Voltmeter digital"
+
+#: ../../procedure/basic_test.rst:22 b6a6c3370d1d487d93af758555866dd6
+#, fuzzy
+msgid "Test Circuit"
+msgstr "Sirkuit Prubåba"
+
+#: ../../procedure/basic_test.rst:27 b303979ed0dc4cf8a2285eab9f461fe7
+#, fuzzy
+msgid "Pic.: Test circuit"
+msgstr "Pic.: Sirkuit prubåba"

@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../quality/nio_process.rst:2 d6c1f0c58f1c4e058a40ea7893766598
+#, fuzzy
+msgid "Nonconformity / Deviations"
+msgstr "Ti Konfotme / Dibiåsion siha"
+
+#: ../../quality/nio_process.rst:4 96d5cd32d6314702a658f7b719ad0399
+#, fuzzy
+msgid "Isolate NCR units in quarantine"
+msgstr "Na'fanhålom i NCR na unit siha gi i kuarentina"
+
+#: ../../quality/nio_process.rst:5 44da0beeb111481eacf554c6b42025a5
+#, fuzzy
+msgid "MRB: rework, scrap, supplier claim, deviation permit"
+msgstr ""
+"MRB: cho'cho' ta'lo, ma'utot, ma'a'agang i supottadot, permit para i "
+"dibiåsion"
+
+#: ../../quality/nio_process.rst:6 fccf4451954d47a2bc8491d00c09bc7b
+#, fuzzy
+msgid "8D/root cause analysis for recurring issues; record lessons learned"
+msgstr ""
+"8D/analisa i rason put i asunto siha ni' manmafa'nu'i ta'lo; rikohi i "
+"leksion siha ni' ma tungo'"

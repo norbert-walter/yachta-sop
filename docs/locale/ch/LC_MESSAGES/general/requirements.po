@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/requirements.rst:2 4f0e202a327946f28265c532146a0c88
+#, fuzzy
+msgid "Requirements"
+msgstr "I nisisidåt siha"
+
+#: ../../general/requirements.rst:4 2c879a477d8749018d059a3bb68cc427
+#, fuzzy
+msgid "**Released inputs from Engineering:**"
+msgstr "**Ma na'huyong i tinige' ginen i Inhenyero:**"
+
+#: ../../general/requirements.rst:5 55c82e6546da4d9faa6ac63a6f5b827c
+#, fuzzy
+msgid "Gerber/ODB++/drill data, stack‑up, impedance targets"
+msgstr "Gerber/ODB++/drill na datos, stack up, impedance targets"
+
+#: ../../general/requirements.rst:6 2e8b5b97353448aeb28143ffe5775286
+#, fuzzy
+msgid ""
+"Schematic (PDF), BOM (with manufacturer MPN & approved alternates), CPL/XY"
+msgstr ""
+"Eskema (PDF), BOM (yan i MPN ni' ha fa'tinas yan i ma'aprueba na alternatibu"
+" siha), CPL/XY"
+
+#: ../../general/requirements.rst:7 04e1cbc293914731af4bae0d31a44f85
+#, fuzzy
+msgid "Assembly drawings (top/bottom, polarities, special notes)"
+msgstr ""
+"Dibuho siha put i inetnon (gi sanhilo'/sanpapa', polaridat siha, nota siha "
+"ni' espesiåt)"
+
+#: ../../general/requirements.rst:8 fdd68a5179ee4525b4c09eaaf81ab4b3
+#, fuzzy
+msgid "Test instruction (ICT/FCT), limits, fixture data"
+msgstr "Instruksion prubåba (ICT/FCT), i lina'la', i dañuyan na infotmasion"
+
+#: ../../general/requirements.rst:9 7609bd899d9745ef97f96ce38223686b
+#, fuzzy
+msgid ""
+"Programming package (HEX/BIN/ELF, offsets, fuses, bootloader, SN/calibration"
+" rules)"
+msgstr ""
+"Påtten prugråma (HEX/BIN/ELF, offsets, fuses, bootloader, SN/calibration "
+"rules)"
+
+#: ../../general/requirements.rst:10 e4f777f8f5b147c2a17bf541e1db915b
+#, fuzzy
+msgid "Labeling/marking data (SN, Data‑Matrix/QR)"
+msgstr "I ma'a'atan/ma'a'atan i datos (SN, Data‐Matrix/QR)"
+
+#: ../../general/requirements.rst:12 ee606166821842039e6aacd8a6dcc21c
+#, fuzzy
+msgid "**Equipment/Software:**"
+msgstr "**Ekipåpble/Software:**"
+
+#: ../../general/requirements.rst:13 840e80eb65e24007942284fd2f04c811
+#, fuzzy
+msgid "Stencil printer + stencil, SMT pick‑and‑place, reflow oven"
+msgstr "Printer stencil + stencil, SMT pick‐and‐place, reflow oven"
+
+#: ../../general/requirements.rst:14 2d119dc89cbc4304967b8b039e8cf478
+#, fuzzy
+msgid "Selective/wave soldering (for THT)"
+msgstr "Selective/wave soldering (para THT)"
+
+#: ../../general/requirements.rst:15 165c781858a24e06bdfd8c4a0b5b7735
+#, fuzzy
+msgid "AOI/microscope, X‑ray for BGA as needed"
+msgstr "AOI/mikroskopiu, X ray para BGA yanggen nisisåriu"
+
+#: ../../general/requirements.rst:16 3c9e4f30526d40f1a3dd4992f715dbe1
+#, fuzzy
+msgid ""
+"ICT/Flying Probe or bed‑of‑nails fixture, bench PSU with current limit, DMM,"
+" oscilloscope"
+msgstr ""
+"ICT/Flying Probe pat bed‐of‐nails fixture, bench PSU yan i current limit, "
+"DMM, oscilloscope"
+
+#: ../../general/requirements.rst:17 2fff1cb5a19b4a2c8e90e1488702d303
+#, fuzzy
+msgid "Programmer (e.g., J‑Link, ST‑LINK, AVR‑ISP, PICkit, etc.)"
+msgstr ""
+"Programmer (pot hemplo, J-Link, ST-LINK, AVR-ISP, PICkit, yan otro siha)"
+
+#: ../../general/requirements.rst:18 227da6d4c200410a99882a560eb0cbb6
+#, fuzzy
+msgid "ERP/MES/traceability system"
+msgstr "ERP/MES/sistema ni' siña ma'ayek"

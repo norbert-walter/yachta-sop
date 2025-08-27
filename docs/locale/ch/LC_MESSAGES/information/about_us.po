@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../information/about_us.rst:2 80a1dde5e41941a3bae4a9efde1383b3
+#, fuzzy
+msgid "About Us"
+msgstr "Put Hamyo"
+
+#: ../../information/about_us.rst:4 db7a72a25a634e28b2557484e34a1464
+#, fuzzy
+msgid ""
+"Open Boat Projects is a platform where technology-savvy water sports "
+"enthusiasts present their DIY projects related to water sports. The idea for"
+" this platform was born in the sailing forum and launched by a few people. "
+"It all began with a trade fair appearance at Boot 2020, where a variety of "
+"DIY projects were presented live. The goal is to demonstrate the tools and "
+"technical possibilities available for implementing one's own projects. The "
+"projects presented are intended to inspire interested parties to implement "
+"their own projects and contribute their own ideas that can be used by "
+"others. The focus is on the idea of ​​open source and open hardware as well "
+"as the exchange of ideas. A number of interesting projects have already been"
+" realized, and more projects will be added in the future. The main exchange "
+"of ideas takes place in the sailing forum under the section open-boat-"
+"projects.org. We invite all interested parties to participate in the "
+"exchange of ideas. You don't have to be an expert. Anyone with great ideas "
+"is welcome to contribute."
+msgstr ""
+"I Open Boat Projects un lugåt anai i manma'å'ñao nu i teknolohiha gi i hanom"
+" ma prisenta i prohektos-ñiha ni' ma cho'gue gi i hanom. I idea put este na "
+"plånta mafañågu gi i forum ni' ma'a'agang \"sailing forum\" ya ma lansa ni' "
+"unos kuantos na taotao. Todu ha tutuhon gi un trade fair gi Boot 2020, anai "
+"ma prisenta meggai na prohektos DIY. I minalago'-ña para u ma demonstra i "
+"åmot yan i siña ma cho'gue para u ma cho'gue i prohektos-ñiha. I prohektos "
+"ni' mapresenta, para u na'fanmagof i manmalago' para u ma'implementa i "
+"prohektos-ñiha yan u ma'ayuda i ideha-ñiha ni' siña ma'usa ni' otro siha. I "
+"focus gi i idea put open source yan open hardware yan lokkue' i inayek ideha"
+" siha. Meggai na prohektos ni' maninteresante esta ma cho'gue, yan guaha mas"
+" na prohektos para u ma addåpta gi i mamaila' na tiempo. I mas takhilo' na "
+"inayek ideha siha ma cho'gue gi i forum gi papa' i seksion open-boat-"
+"projects.org. In invite todu i manmalago' para u fanma'ayuda gi i inayek-"
+"måmi. Ti debi di un eksperto. Todu i guaha maolek na ideha-ña siña ma ayuda."
+
+#: ../../information/about_us.rst:6 818985857ff3436abb2c702448b5a5a5
+#, fuzzy
+msgid "**Open Boat Projects**"
+msgstr "**Prohekton Batko ni' Mababa**"
+
+#: ../../information/about_us.rst:8 ac89abfed75f4b37baf149330b8f0fc9
+#, fuzzy
+msgid "Located in Germany, Düsseldorf"
+msgstr "Gaige gi iya Alemania, Düsseldorf"
+
+#: ../../information/about_us.rst:10 ba8f71ebea9548d1b04f501f55bf26ff
+#, fuzzy
+msgid "Contact: `Contact form`_"
+msgstr "Kontakto: `Contact form`_"

@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ch <LL@li.org>\n"
+"Language: ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/components.rst:2 7fceb4a02d9b453d8129d0356dc58418
+#, fuzzy
+msgid "Component Sourcing & Incoming Inspection"
+msgstr "Manma'a'agang i Komponente siha yan i Inspeksion ni' para u fåtto"
+
+#: ../../procedure/components.rst:5 d9c18303bc954725b998bcb4921e5284
+#, fuzzy
+msgid "Sourcing"
+msgstr "Manma'ayek"
+
+#: ../../procedure/components.rst:6 9e13114053d040c487986b26ff178324
+#, fuzzy
+msgid ""
+"Check BOM for obsolescence; confirm MPN, package, tolerances, temp ranges"
+msgstr ""
+"Chek i BOM para i lina'la'-ña; konfitma i MPN, i pakete, i toleransia siha, "
+"i rangon temperatura"
+
+#: ../../procedure/components.rst:7 a4b93f538b89468f88d2e9991333b4fe
+#, fuzzy
+msgid ""
+"Purchase from authorized distributors/OEMs; document approved alternates"
+msgstr ""
+"Fa'tinas ginen i manma'a'a'ñao na distribitdot/OEMs; ma'aprueba na dukumento"
+
+#: ../../procedure/components.rst:10 4089c6a730244808a849bd58388526f1
+#, fuzzy
+msgid "Incoming inspection"
+msgstr "Inspeksion ni' para u fatto"
+
+#: ../../procedure/components.rst:11 f050c3ee0b6b421ebca55f7b9309011c
+#, fuzzy
+msgid "Label check: manufacturer, MPN, qty, lot/date code, RoHS/REACH"
+msgstr ""
+"Chek i lepblo: manmafa'tinas, MPN, kantidå, lot/fecha na kodu, RoHS/REACH"
+
+#: ../../procedure/components.rst:12 fa8d23ce61bc42b9839c91c5a0c0e2b5
+#, fuzzy
+msgid "Visual check: package damage, leads, MSL bag/indicator"
+msgstr "Chek: daño gi i pakete, i lina'la', i MSL na sakkan/indikåtdot"
+
+#: ../../procedure/components.rst:13 13b1aeb4620b4d1e9766d926571864e8
+#, fuzzy
+msgid "Verify MSL; observe moisture handling (dry storage/bake per JEDEC)"
+msgstr ""
+"Na'siguru i MSL; atan i mana'dokko' i hånom (ma'gåsi/ma'gåsi kada JEDEC)"
+
+#: ../../procedure/components.rst:14 4fdc4c16aa7641bdb05a96eb1599b121
+#, fuzzy
+msgid "Plausibility checks (sample measure resistors/capacitors)"
+msgstr "Chek i siña maayek (i resistor/capacitor ni' midi i sample)"
+
+#: ../../procedure/components.rst:15 07af409827e14be5aa8199b6c3463fc1
+#, fuzzy
+msgid "Release/hold documented (Form B1)"
+msgstr "Na'huyong/ma'a'atan madokumenta (Form B1)"
