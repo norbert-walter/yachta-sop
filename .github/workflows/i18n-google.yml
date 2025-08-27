@@ -22,7 +22,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        lang: [zh_CN]  # weitere Sprachen hier ergänzen
+        lang: [zh_CN]  # weitere Sprachen hier ergänzen [en, fr, es, zh_CN, zh_TW]
 
     steps:
       - uses: actions/checkout@v4
@@ -33,10 +33,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install system packages for CairoSVG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libcairo2 \
+            libpango-1.0-0 \
+            libgdk-pixbuf-2.0-0 \
+            libffi-dev \
+            pkg-config
+
       - name: Install Sphinx and tools
         run: |
           python -m pip install --upgrade pip
-          pip install -U sphinx sphinx-intl polib requests
+          pip install -U sphinx sphinx-intl polib requests sphinxcontrib-svg2pdfconverter[CairoSVG]
 
       - name: Detect Sphinx docs directory
         id: detect_docs
@@ -79,9 +89,9 @@ jobs:
           REWRITE_FILLED: "false"
           BATCH_SIZE: "128"
           THROTTLE_SECONDS: "0.2"
-          POSTPROCESS: "capitalize_first"       # POSTPROCESS: "none|capitalize_first|title_case"  Nachbearbeitung (Default: "none")
-          POSTPROCESS_LANGS: "en,fr"            # Für welche Zielsprachen anwenden (Default: "en"), weitere "en,fr"
-          HEADING_MAX_LEN: "70"                 # Heuristik-Grenze für Title-Case (Default: 70)
+          POSTPROCESS: "capitalize_first"       # "none|capitalize_first|title_case"
+          POSTPROCESS_LANGS: "en,fr"            # nur für diese Sprachen Nachbearbeitung
+          HEADING_MAX_LEN: "70"
         run: python ../scripts/mt_po.py
 
       - name: Commit translation updates
@@ -105,10 +115,9 @@ jobs:
             exit 0
           fi
 
-          # Erst committen, damit der Arbeitsbaum sauber ist
           git commit -m "chore(i18n): update ${{ matrix.lang }} translations [skip ci]"
 
-          # Danach rebasen & pushen (mit kleinem Retry, falls race)
+          # Rebase & Push (mit kleinem Retry)
           for attempt in 1 2 3; do
             git fetch origin
             git pull --rebase --autostash || true
@@ -122,3 +131,4 @@ jobs:
 
           echo "Push failed after retries"
           exit 1
+
