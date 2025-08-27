@@ -36,7 +36,7 @@ This document relates to the production of a circuit board for the Yachta wind s
    :caption: Procedure
    :name: sec-procedure
 
-   PCB manufacturing <procedure/pcb_manufactoring>
+   PCB manufacturing <procedure/pcb_manufacturing>
    Component procurement & goods receipt <procedure/components>
    Assembly preparation <procedure/preparation>
    SMT assembly & reflow <procedure/assembly>
