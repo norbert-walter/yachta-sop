@@ -56,7 +56,5 @@ sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 urllib3==1.26.9
     # via requests
-
-# SVG -> PDF Konvertierung für LaTeX/PDF-Builds
-sphinxcontrib-svg2pdfconverter[CairoSVG]>=1.2
-
+cairosvg>=2.7
+sphinxcontrib-svg2pdfconverter>=1.2
