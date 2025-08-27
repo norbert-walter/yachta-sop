@@ -7,11 +7,11 @@ Final versions of an SOP for a production run are marked with a label and releas
 
 The document is automatically translated into the respective target languages ​​when changes are made. In case of ambiguities in the wording, the original English document must be used.
 
-+---------+-------------+-----------------------------+--------+
-| Release | Date	    | Changes                     | Author |
-+=========+=============+=============================+========+
-| 0.1     | 2025-08-27  | Initial                     | NW     |
-+---------+-------------+-----------------------------+--------+
-|         |      	    |                             |        |
-+---------+-------------+-----------------------------+--------+
++--------+-------------+-----------------------------+--------+
+|Release |Date	       |Changes                      |Author  |
++========+=============+=============================+========+
+|0.1     |2025-08-27   |Initial                      |NW      |
++--------+-------------+-----------------------------+--------+
+|        |             |                             |        |
++--------+-------------+-----------------------------+--------+
 
