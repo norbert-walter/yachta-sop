@@ -1,6 +1,7 @@
 Terms
 =====
 
+	* **AOI** - Automated Optical Inspection
 	* **AQL** - Acceptable Quality Level
 	* **BOM** – Bill of Materials
 	* **CPL/XY** – Placement coordinates

@@ -13,7 +13,7 @@ Process Overview
 
 **6)** Visual inspection (AOI/manual)
 
-**7)** Electrical Bring‑Up
+**7)** Basic Electrical Test
 
 **8)** Programming (Flashing)
 
