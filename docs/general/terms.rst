@@ -11,6 +11,7 @@ Terms
 	* **ESD** – Electrostatic Discharge
 	* **FP/ICT** – Flying Probe / In‑Circuit Test
 	* **FCT** – Functional Circuit Test
+	* **ICT** - In Circuit Test
 	* **MSL** – Moisture Sensitivity Level
 	* **NCR/NCMR** – Non-Conformance Report / Material Review
 	* **SMT** - Surface Mounted Technology
