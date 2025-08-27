@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/functional_test.rst:2 7bc57a226f564f3ebcd035d986d5531e
+#, fuzzy
+msgid "Functional Test (FCT)"
+msgstr "功能测试（FCT）"
+
+#: ../../procedure/functional_test.rst:4 9d6948494a2e40149a4c258583bdd73f
+#, fuzzy
+msgid "Connect fixture (bed‑of‑nails/connectors); run defined scripts"
+msgstr "连接固定装置（钉床/连接器）；运行定义的脚本"
+
+#: ../../procedure/functional_test.rst:5 21655ca5842048dda73ae78cd5216d3e
+#, fuzzy
+msgid "Typical coverage:"
+msgstr "典型覆盖范围："
+
+#: ../../procedure/functional_test.rst:6 9821679d019243b9a0182c01682a4077
+#, fuzzy
+msgid "Current consumption in run/standby"
+msgstr "运行/待机时的电流消耗"
+
+#: ../../procedure/functional_test.rst:7 31834baf412041b48d5f9a067098a793
+#, fuzzy
+msgid "Digital I/O, pull‑ups/downs"
+msgstr "数字 I/O，上拉/下拉"
+
+#: ../../procedure/functional_test.rst:8 fbd6d4e1ccc04bbfbbaf5e2f6a1a140f
+#, fuzzy
+msgid "Analog paths (ADC/DAC linearity, references)"
+msgstr "模拟路径（ADC/DAC线性度、参考）"
+
+#: ../../procedure/functional_test.rst:9 bce405d31b894b30a8034eef9cff74ad
+#, fuzzy
+msgid "Communications (CAN, RS‑485, Ethernet, BLE/Wi‑Fi)"
+msgstr "通信（CAN、RS-485、以太网、BLE/Wi-Fi）"
+
+#: ../../procedure/functional_test.rst:10 d82fcc6b045d49efadd0d60b9b462609
+#, fuzzy
+msgid "Sensors/actuators simulated or attached"
+msgstr "模拟或连接的传感器/执行器"
+
+#: ../../procedure/functional_test.rst:11 516cdc92c7f640ceab5f42f9a35f0041
+#, fuzzy
+msgid "Memories (EEPROM/Flash/RAM) read/write"
+msgstr "存储器（EEPROM/Flash/RAM）读/写"
+
+#: ../../procedure/functional_test.rst:12 79bf56f1c06945528a44c71fd3884542
+#, fuzzy
+msgid "Safety features (watchdog, brown‑out)"
+msgstr "安全功能（看门狗、掉电）"
+
+#: ../../procedure/functional_test.rst:13 bb34d258e66f4145987a872bad17a53e
+#, fuzzy
+msgid "Limits and pass/fail per test instruction"
+msgstr "根据测试指令的限制和通过/失败"
+
+#: ../../procedure/functional_test.rst:14 9afc87377b5a4e678a81ca45365d125c
+#, fuzzy
+msgid "Auto‑attach test results to SN and archive (Form F1, add log)"
+msgstr "自动将测试结果附加到 SN 并存档（表格 F1，添加日志）"

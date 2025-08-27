@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/safety.rst:2 da148f12445741be919e2164624a78f1
+#, fuzzy
+msgid "Safety"
+msgstr "安全"
+
+#: ../../general/safety.rst:4 e460cc6d5b9243f0b480838d5a5ae276
+#, fuzzy
+msgid ""
+"Work only inside ESD protected areas (EPA) with wrist strap, ESD "
+"footwear/flooring, ESD furniture, grounded tools."
+msgstr "仅在 ESD 保护区 (EPA) 内工作，并配备腕带、ESD 鞋/地板、ESD 家具和接地工具。"
+
+#: ../../general/safety.rst:5 de023e6449064d9a915f7a8bc04021d5
+#, fuzzy
+msgid ""
+"PPE as per risk assessment (safety glasses, gloves, fume extraction for "
+"soldering/rework)."
+msgstr "根据风险评估的 PPE（安全眼镜、手套、焊接/返工的烟雾提取）。"
+
+#: ../../general/safety.rst:6 92295e312894418195178b8021f905bd
+#, fuzzy
+msgid "Handle chemicals (flux, cleaners) per SDS and dispose properly."
+msgstr "按照 SDS 处理化学品（助焊剂、清洁剂）并妥善处置。"
+
+#: ../../general/safety.rst:7 181082faa8074c2fa74035e4f659b12d
+#, fuzzy
+msgid "Observe MSL handling; dry storage and bake per JEDEC as required."
+msgstr "遵守 MSL 处理；按 JEDEC 要求进行干燥储存和烘烤。"

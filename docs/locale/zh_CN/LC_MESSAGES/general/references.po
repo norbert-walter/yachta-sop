@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/references.rst:2 c3431011d8884a30b3c78fafb6abda51
+#, fuzzy
+msgid "References / Standards"
+msgstr "参考文献/标准"
+
+#: ../../general/references.rst:4 9e9d5dd1c0af44f088b606ec863ad26b
+#, fuzzy
+msgid "IPC‑A‑600: Acceptability of Printed Boards"
+msgstr "IPC-A-600：印刷电路板的可接受性"
+
+#: ../../general/references.rst:5 cb64c086f9bb46f1a9474a9441432d52
+#, fuzzy
+msgid "IPC‑A‑610: Acceptability of Electronic Assemblies"
+msgstr "IPC-A-610：电子组件的可接受性"
+
+#: ../../general/references.rst:6 15e6f201f6854f91a35260c4541d62a1
+#, fuzzy
+msgid ""
+"IPC‑J‑STD‑001: Requirements for Soldered Electrical and Electronic "
+"Assemblies"
+msgstr "IPC-J-STD-001：焊接电气和电子组件的要求"
+
+#: ../../general/references.rst:7 720087f1840b4f21a72bb0b7b928c6b9
+#, fuzzy
+msgid "IPC‑7711/7721: Rework, Modification and Repair"
+msgstr "IPC-7711/7721：返工、修改和维修"
+
+#: ../../general/references.rst:8 50525911a58f43958e4ced6125eb5e25
+#, fuzzy
+msgid "IEC 61340‑5‑1: ESD control in electronics manufacturing"
+msgstr "IEC 61340-5-1：电子制造中的 ESD 控制"
+
+#: ../../general/references.rst:9 6187e7f592ea4987af7269df7b17f294
+#, fuzzy
+msgid "JEDEC J‑STD‑033: Handling of moisture sensitive devices (MSL)"
+msgstr "JEDEC J‑STD‑033：湿敏器件（MSL）的处理"
+
+#: ../../general/references.rst:10 be9e9793eadb45f4800fbf571482b43d
+#, fuzzy
+msgid "ISO 9001: Quality Management"
+msgstr "ISO 9001：质量管理"
+
+#: ../../general/references.rst:11 470570252e954d02a44e252040d1013d
+#, fuzzy
+msgid "ISO 2859‑1: Sampling procedures / AQL"
+msgstr "ISO 2859-1：抽样程序/AQL"

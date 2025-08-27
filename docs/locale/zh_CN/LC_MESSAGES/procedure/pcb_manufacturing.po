@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/pcb_manufacturing.rst:2 ab003a14afb64decb8e7b7e6ff3d9e06
+#, fuzzy
+msgid "PCB Manufacturing"
+msgstr "PCB制造"
+
+#: ../../procedure/pcb_manufacturing.rst:5 3d65bfc8f8c14adfb36322fefcbb44cc
+#, fuzzy
+msgid "CAM / data check"
+msgstr "CAM/数据检查"
+
+#: ../../procedure/pcb_manufacturing.rst:6 c34deffb0fdc40298dc17390f139ecde
+#, fuzzy
+msgid "Perform DFM/DRC (clearances, drill/mill, solder mask, impedance)"
+msgstr "执行 DFM/DRC（间隙、钻孔/铣削、阻焊层、阻抗）"
+
+#: ../../procedure/pcb_manufacturing.rst:7 22aba054427b4286b25b7790a0fc24f7
+#, fuzzy
+msgid ""
+"Define stack‑up, copper thickness, surface finish (e.g., ENIG/OSP/ImAg) and "
+"colors"
+msgstr "定义堆叠、铜厚度、表面处理（例如 ENIG/OSP/ImAg）和颜色"
+
+#: ../../procedure/pcb_manufacturing.rst:8 6aa7b870f2ef42afa3e4bc1ae466042b
+#, fuzzy
+msgid "Document manufacturing sign‑off"
+msgstr "记录制造签收"
+
+#: ../../procedure/pcb_manufacturing.rst:11 fd99737b5c2a4450a38f9f860ce341ea
+#, fuzzy
+msgid "Order / fabrication"
+msgstr "订购/制造"
+
+#: ../../procedure/pcb_manufacturing.rst:12 4ac194e8c77f4d7e8ff0dbed35a42de1
+#, fuzzy
+msgid ""
+"Use approved supplier; define quality level (IPC class) and certificates "
+"(e.g., CoC)"
+msgstr "使用认可的供应商；定义质量等级（IPC 等级）和证书（例如 CoC）"
+
+#: ../../procedure/pcb_manufacturing.rst:13 97c216aeda2643a2884ffe1ab53a3dcd
+#, fuzzy
+msgid "Define lot size, panelization, depanel method (V‑score/break‑tabs)"
+msgstr "定义批次大小、拼板、分板方法（V-score/break-tabs）"
+
+#: ../../procedure/pcb_manufacturing.rst:16 e1d55c6714db4e5d8785463cc510b037
+#, fuzzy
+msgid "PCB incoming inspection"
+msgstr "PCB进货检验"
+
+#: ../../procedure/pcb_manufacturing.rst:17 41b1b38b6e6b47e883a8806c4a171985
+#, fuzzy
+msgid "Check packaging (ESD, humidity card, desiccant, integrity)"
+msgstr "检查包装（ESD、湿度卡、干燥剂、完整性）"
+
+#: ../../procedure/pcb_manufacturing.rst:18 5a186e887d8b4ceab9ab849d7b080d8e
+#, fuzzy
+msgid ""
+"Sample per IPC‑A‑600: solder mask registration, drill quality, vias, surface"
+" finish, dimensions, markings (date code, rev., UL)"
+msgstr "按照 IPC-A-600 进行采样：阻焊层对准、钻孔质量、通孔、表面光洁度、尺寸、标记（日期代码、修订版、UL）"
+
+#: ../../procedure/pcb_manufacturing.rst:19 524c7e00a4624a81b5cea74eea72ad44
+#, fuzzy
+msgid ""
+"Ensure electrical test (E‑test) certificate included or verify by sample"
+msgstr "确保包含电气测试 (E-test) 证书或通过样品验证"
+
+#: ../../procedure/pcb_manufacturing.rst:20 408267ca3eed4c62a8df1fb49687c54e
+#, fuzzy
+msgid "Release/hold in ERP/MES; record results (Form A1)"
+msgstr "在ERP/MES中发布/暂停；记录结果（表格A1）"

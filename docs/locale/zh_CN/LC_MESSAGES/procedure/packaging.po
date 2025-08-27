@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/packaging.rst:2 6214308a4daa4b1aa57b05b164b03a05
+#, fuzzy
+msgid "Final Acceptance & Packaging"
+msgstr "最终验收和包装"
+
+#: ../../procedure/packaging.rst:4 f68cede05e274c5bac724c5f803ac5b4
+#, fuzzy
+msgid ""
+"Completeness: all checks “pass”, labels applied, protective covers/spacers "
+"installed (if specified)"
+msgstr "完整性：所有检查均“通过”，标签已贴，保护盖/垫片已安装（如指定）"
+
+#: ../../procedure/packaging.rst:5 733b36cb04f14ed386502dc5a7cfa55b
+#, fuzzy
+msgid "Cleaning/conformal coating (if required) performed and documented"
+msgstr "执行并记录清洁/保形涂层（如果需要）"
+
+#: ../../procedure/packaging.rst:6 a81e06a8f214466cbbddb15429a24f3c
+#, fuzzy
+msgid ""
+"ESD‑safe packaging (ESD bag, desiccant, markings), packing slip with "
+"SN/Rev./FW version"
+msgstr "ESD 安全包装（ESD 袋、干燥剂、标记）、带有 SN/Rev./FW 版本的装箱单"
+
+#: ../../procedure/packaging.rst:7 6a1bebb82bf4488182a5b838667e1d23
+#, fuzzy
+msgid "Handover to stock/shipping with full data set"
+msgstr "交付库存/发货，并附带完整数据集"

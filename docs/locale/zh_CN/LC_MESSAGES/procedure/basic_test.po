@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/basic_test.rst:2 f7189af837784c4a86749b97e611706d
+#, fuzzy
+msgid "Basic electrical test"
+msgstr "基本电气测试"
+
+#: ../../procedure/basic_test.rst:4 4a0a58ad6ed544079ffaa738e5eb1641
+#, fuzzy
+msgid "Visual inspection passed"
+msgstr "目视检查已通过"
+
+#: ../../procedure/basic_test.rst:5 bbbc617d6e8f4efc8a82be19c12fe620
+#, fuzzy
+msgid ""
+"Short/continuity test of power rails to GND (power supplay current limiter)"
+msgstr "电源轨至 GND 的短路/连续性测试（电源电流限制器）"
+
+#: ../../procedure/basic_test.rst:6 444b5d9f2f0c48d68747d04b04ab4049
+#, fuzzy
+msgid ""
+"Power‑on with bench PSU (current limit power source 50 mA; typically start <"
+" 20  mA)"
+msgstr "使用台式电源 (电源电流限制为 50 mA；通常启动时电流小于 20 mA)"
+
+#: ../../procedure/basic_test.rst:7 577f17e5b99a4649ba1de249c3aea9fc
+#, fuzzy
+msgid "Verify reference voltages/regulators 3,3 V +/- 0,3 V"
+msgstr "验证参考电压/调节器 3.3 V +/- 0.3 V"
+
+#: ../../procedure/basic_test.rst:8 a5c4181258784311bf5d1ec88226ee47
+#, fuzzy
+msgid "Check power supplay"
+msgstr "检查电源"
+
+#: ../../procedure/basic_test.rst:9 942272f2a5514a0eb62454537210a08a
+#, fuzzy
+msgid "12V -> max 0,3 mA"
+msgstr "12V -> 最大 0.3 mA"
+
+#: ../../procedure/basic_test.rst:10 1bbdb285fe4946c3b556a74afb703d8c
+#, fuzzy
+msgid "24V -> max 0,15 mA"
+msgstr "24V -> 最大 0.15 mA"
+
+#: ../../procedure/basic_test.rst:11 c3e929c1472b4ea2b318e6749cdefe1d
+#, fuzzy
+msgid "Overvoltage > 26V -> on power supplay current limiter activ"
+msgstr "过压> 26V -> 电源电流限制器激活"
+
+#: ../../procedure/basic_test.rst:12 74d5c9e30a574bb7b0b650dcb779cc04
+#, fuzzy
+msgid "Basic comms (UART) and programming interface check (USB login on PC)"
+msgstr "基本通信（UART）和编程接口检查（PC 上的 USB 登录）"
+
+#: ../../procedure/basic_test.rst:13 dd4234f6300a4755b707b4bfd4b77890
+#, fuzzy
+msgid "Record results (Form D1)"
+msgstr "记录结果（表格D1）"
+
+#: ../../procedure/basic_test.rst:16 ab855540b4924f4cb28abec2d3591585
+#, fuzzy
+msgid "Equipment"
+msgstr "设备"
+
+#: ../../procedure/basic_test.rst:17 68194dafb4e34c36956046162d1c8b56
+#, fuzzy
+msgid "Power source 30V/1A with current limiter"
+msgstr "带限流器的电源 30V/1A"
+
+#: ../../procedure/basic_test.rst:18 a1540571bc4544179e89665d0b08da1f
+#, fuzzy
+msgid "Programming adapter"
+msgstr "编程适配器"
+
+#: ../../procedure/basic_test.rst:19 cf5dac6d823a4cb095bd94ec59fcf641
+#, fuzzy
+msgid "Digital volt meter"
+msgstr "数字电压表"
+
+#: ../../procedure/basic_test.rst:22 6c9f5e9a995f430fb230b83224e68a01
+#, fuzzy
+msgid "Test Circuit"
+msgstr "测试电路"
+
+#: ../../procedure/basic_test.rst:27 29c70b67e1424fe68bd9cca774b1121c
+#, fuzzy
+msgid "Pic.: Test circuit"
+msgstr "图片：测试电路"

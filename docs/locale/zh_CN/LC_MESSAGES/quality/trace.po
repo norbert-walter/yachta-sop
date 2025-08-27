@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../quality/trace.rst:2 bab91a7671434a39b122a7e87716fe57
+#, fuzzy
+msgid "Traceability & Records"
+msgstr "可追溯性和记录"
+
+#: ../../quality/trace.rst:4 743fd2b1e9244a399c8b88fba157e548
+#, fuzzy
+msgid "For each unit:"
+msgstr "对于每个单位："
+
+#: ../../quality/trace.rst:5 98e860f914b041529f0d7acf4f5d76c9
+#, fuzzy
+msgid "SN"
+msgstr "序号"
+
+#: ../../quality/trace.rst:6 b9101920d8a243d1a2b1759c56d884cd
+#, fuzzy
+msgid "PCB lot/date code"
+msgstr "PCB 批次/日期代码"
+
+#: ../../quality/trace.rst:7 3d300ca64394461a9ff273c701c18e32
+#, fuzzy
+msgid "Component lots (critical ICs)"
+msgstr "元件批次（关键 IC）"
+
+#: ../../quality/trace.rst:8 76dc94a4dcc64c7991c5e104b16ba51e
+#, fuzzy
+msgid "Build date"
+msgstr "建造日期"
+
+#: ../../quality/trace.rst:9 b3c1a9e859f541efa3a5d46f13943e4a
+#, fuzzy
+msgid "Line/oven/profile ID"
+msgstr "生产线/炉子/型材 ID"
+
+#: ../../quality/trace.rst:10 e59a690a664141c79cd10651bd20e743
+#, fuzzy
+msgid "Operator"
+msgstr "操作员"
+
+#: ../../quality/trace.rst:11 da960f1ecbd44befbb12a69801657441
+#, fuzzy
+msgid "Inspection/programming/test logs"
+msgstr "检查/编程/测试日志"
+
+#: ../../quality/trace.rst:12 0efad7f6014742da910756016b88d803
+#, fuzzy
+msgid ""
+"Retention: at least (define period, e.g., 10 years) or per customer/standard"
+msgstr "保留：至少（定义期限，例如 10 年）或每个客户/标准"
+
+#: ../../quality/trace.rst:13 215faa663f244bfe90d2b88547b68e51
+#, fuzzy
+msgid ""
+"Change control via ECN/ECO with version updates on layout/FW/test equipment"
+msgstr "通过 ECN/ECO 进行变更控制，并对布局/FW/测试设备进行版本更新"

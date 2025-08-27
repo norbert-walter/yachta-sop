@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../quality/templates.rst:2 b44d697ce2914d66bdd21ee984ef72c5
+#, fuzzy
+msgid "Checklists & Templates"
+msgstr "清单和模板"
+
+#: ../../quality/templates.rst:5 ec65302c8742485a9c05858827de9649
+#, fuzzy
+msgid "Form A1 – PCB Incoming Inspection"
+msgstr "表格A1 – PCB进货检验"
+
+#: ../../quality/templates.rst:7 c33b62f981f44cb388e17160def12a5f
+#, fuzzy
+msgid ""
+"Check item      Result (OK/NOK) Comment Inspector       Date "
+"Packaging/ESD/humidity card Solder mask/legend/finish "
+"Drills/milling/dimensions Markings (rev., date code) Electrical E‑test "
+"provided"
+msgstr ""
+"检查项目 结果（OK/NOK） 注释 检查员 日期 包装/ESD/湿度卡 阻焊层/图例/表面处理 钻孔/铣削/尺寸 标记（修订版、日期代码） "
+"提供电气电子测试"
+
+#: ../../quality/templates.rst:15 c246c2a39b454e738427996502b14ddb
+#, fuzzy
+msgid "Form B1 – Component Incoming Inspection"
+msgstr "表格 B1 – 零部件进货检验"
+
+#: ../../quality/templates.rst:17 0644f96c3a25445dba3887e27d955e04
+#, fuzzy
+msgid ""
+"Pos.    MPN     Qty     Date/lot code   MSL     Check (OK/NOK)  Comment"
+msgstr "位置 MPN 数量 日期/批号 MSL 检查 (OK/NOK) 备注"
+
+#: ../../quality/templates.rst:20 59eee252bfb9432aaa94f3424f48f269
+#, fuzzy
+msgid "Form C1 – Visual Inspection"
+msgstr "表格 C1 – 目视检查"
+
+#: ../../quality/templates.rst:22 41ac1676388c430290f1ca79fa611335
+#, fuzzy
+msgid ""
+"SN      Scope   IPC class       OK/NOK  Finding/photo ID        Inspector"
+"       Date"
+msgstr "SN 范围 IPC 等级 OK/NOK 发现/照片 ID 检查员 日期"
+
+#: ../../quality/templates.rst:25 d063e2d9ddbf4932970a88fb5e29d64c
+#, fuzzy
+msgid "Form D1 – Electrical Bring‑Up"
+msgstr "D1 表格 – 电气启动"
+
+#: ../../quality/templates.rst:27 1aeb4daceda44a9895e53a4196e7b476
+#, fuzzy
+msgid ""
+"SN      Shorts OK       Power‑on OK     Vref (V)        I_in (mA)       "
+"Interfaces      OK/NOK  Inspector"
+msgstr "SN 短路 OK 上电 OK Vref (V) I_in (mA) 接口 OK/NOK 检查器"
+
+#: ../../quality/templates.rst:30 f998c6c597c74696918f358bf99bb798
+#, fuzzy
+msgid "Form E1 – Programming"
+msgstr "表格 E1 – 编程"
+
+#: ../../quality/templates.rst:32 69302e8bdb594ad29ddbbc97ffee0e11
+#, fuzzy
+msgid ""
+"SN      FW version      Tool/adapter    Erase   Program Verify  "
+"Parameterization        OK/NOK  Timestamp"
+msgstr "SN FW 版本工具/适配器擦除程序验证参数化 OK/NOK 时间戳"
+
+#: ../../quality/templates.rst:35 f3ea7f52f82946efa179ec84b1f944f3
+#, fuzzy
+msgid "Form F1 – Functional Test (FCT)"
+msgstr "表格 F1 – 功能测试 (FCT)"
+
+#: ../../quality/templates.rst:37 e51fb94d9c724c7fa3046077792231cf
+#, fuzzy
+msgid ""
+"SN      Test script     Test points     Within limits   Duration        "
+"OK/NOK  Log archived    Inspector"
+msgstr "序列号 测试脚本 测试点 在限制范围内 持续时间 OK/NOK 日志存档 检查员"

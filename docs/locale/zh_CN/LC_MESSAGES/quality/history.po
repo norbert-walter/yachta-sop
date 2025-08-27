@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../quality/history.rst:2 6d385f5460d346c28e07b8e0f8a61361
+#, fuzzy
+msgid "Revision History"
+msgstr "修订历史"
+
+#: ../../quality/history.rst:4 3c5f6423835649c681859d705b944c94
+#, fuzzy
+msgid ""
+"Changes to the document are made in the original document in English and "
+"tracked primarily via the GitHub repository. Meaningful commit descriptions "
+"must be used. A separate GitHub user must be created for each responsibility"
+" level, who can propose corresponding changes to the document via pull "
+"requests. The project maintainer then grants approval."
+msgstr ""
+"文档的修改在原始英文文档中进行，主要通过 GitHub 仓库进行跟踪。必须使用有意义的提交描述。必须为每个责任级别创建单独的 GitHub "
+"用户，该用户可以通过拉取请求 (Pull Request) 提出相应的文档修改建议。然后由项目维护者批准。"
+
+#: ../../quality/history.rst:6 2f7a863352224693a7c7b5e4e8c9a93c
+#, fuzzy
+msgid ""
+"Final versions of an SOP for a production run are marked with a label and "
+"released as a release. The releases must be entered in the list below. The "
+"initials of the person responsible for release must be provided."
+msgstr "生产运行的 SOP 的最终版本会贴上标签，并以发布形式发布。发布必须填写在下方列表中。必须提供负责发布人员的姓名首字母。"
+
+#: ../../quality/history.rst:8 011a2482948b41e7891f2ad117087fa8
+#, fuzzy
+msgid ""
+"The document is automatically translated into the respective target "
+"languages ​​when changes are made. In case of ambiguities in the wording, "
+"the original English document must be used."
+msgstr "文档修改后会自动翻译成相应的目标语言。如遇措辞歧义，则必须使用英文原版文档。"
+
+#: ../../quality/history.rst:11 917b7dcbf5ac42f897221dc2efb5a383
+#, fuzzy
+msgid "Release"
+msgstr "发布"
+
+#: ../../quality/history.rst:11 d835504e94a74299a044b325968b6e59
+#, fuzzy
+msgid "Date"
+msgstr "日期"
+
+#: ../../quality/history.rst:11 00bcd4a11d6d42b7ab3cfc3f164a5ba2
+#, fuzzy
+msgid "Changes"
+msgstr "变化"
+
+#: ../../quality/history.rst:11 d13d12e9eaea4271aabd5a0bfba80a0a
+#, fuzzy
+msgid "Author"
+msgstr "作者"
+
+#: ../../quality/history.rst:13 8b18106b5bf9416abd246fe24a37acae
+#, fuzzy
+msgid "0.1"
+msgstr "0.1"
+
+#: ../../quality/history.rst:13 14d45d19a5884e7a8a208c3821eaac91
+#, fuzzy
+msgid "2025-08-27"
+msgstr "2025年8月27日"
+
+#: ../../quality/history.rst:13 f0430d2895074d26aa7cf38b58f7637c
+#, fuzzy
+msgid "Initial"
+msgstr "最初的"
+
+#: ../../quality/history.rst:13 9b1bb344fea74c5591ad84c5332c0a02
+#, fuzzy
+msgid "NW"
+msgstr "西北"

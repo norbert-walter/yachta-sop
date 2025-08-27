@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/components.rst:2 bde49da8e79f4fed91708e0435fe85b0
+#, fuzzy
+msgid "Component Sourcing & Incoming Inspection"
+msgstr "零部件采购和进货检验"
+
+#: ../../procedure/components.rst:5 f095a08f5dc24ee9aa8ce7ce9b73f35d
+#, fuzzy
+msgid "Sourcing"
+msgstr "采购"
+
+#: ../../procedure/components.rst:6 f6468ea11aea4cd5a1195e0cdb0a7936
+#, fuzzy
+msgid ""
+"Check BOM for obsolescence; confirm MPN, package, tolerances, temp ranges"
+msgstr "检查 BOM 是否过时；确认 MPN、封装、公差、温度范围"
+
+#: ../../procedure/components.rst:7 83039afa9ce24d68b2829a04dafd8c29
+#, fuzzy
+msgid ""
+"Purchase from authorized distributors/OEMs; document approved alternates"
+msgstr "从授权经销商/OEM 购买；记录批准的替代品"
+
+#: ../../procedure/components.rst:10 78b72c367b724a23a2a6d7224f0a65b1
+#, fuzzy
+msgid "Incoming inspection"
+msgstr "进货检验"
+
+#: ../../procedure/components.rst:11 61ab46d856494c8e8144867e72a8c17d
+#, fuzzy
+msgid "Label check: manufacturer, MPN, qty, lot/date code, RoHS/REACH"
+msgstr "标签检查：制造商、MPN、数量、批号/日期代码、RoHS/REACH"
+
+#: ../../procedure/components.rst:12 09f604fcad144e278f6aa603a17d0c46
+#, fuzzy
+msgid "Visual check: package damage, leads, MSL bag/indicator"
+msgstr "目视检查：包装损坏、引线、MSL 袋/指示器"
+
+#: ../../procedure/components.rst:13 fcdde49b7314428793f9b858f27db6d6
+#, fuzzy
+msgid "Verify MSL; observe moisture handling (dry storage/bake per JEDEC)"
+msgstr "验证 MSL；观察防潮处理（按照 JEDEC 进行干燥储存/烘烤）"
+
+#: ../../procedure/components.rst:14 6072fb8570f74553ae03ab7064907c30
+#, fuzzy
+msgid "Plausibility checks (sample measure resistors/capacitors)"
+msgstr "合理性检查（样品测量电阻器/电容器）"
+
+#: ../../procedure/components.rst:15 7c7107d5b8b64f68ad24822ad879d744
+#, fuzzy
+msgid "Release/hold documented (Form B1)"
+msgstr "释放/扣留记录（表格 B1）"
