@@ -3,13 +3,13 @@ Yachta SOP
 ##########
 Last update |today|
 
-.. image:: https://readthedocs.org/projects/obp-plotter-v4-info/badge/?version=latest
-    :target: https://obp-plotter-v4-info.readthedocs.io/de/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/yachta-sop-en/badge/?version=latest
+    :target: https://yachta-sop-en.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. note::   These pages are still under construction.
 
-.. image:: /pics/OBP_Plotter_Direct_View_AVnav_t.png
+.. image:: /pics/Yachta_BCP_V2.1.png
              :scale: 50%
 
 The SOP document describes standard operating procedures for the manufacture of sub-products or finished products and describes in detail how a specific task or process is to be carried out step by step. This written instruction aims to standardize procedures, minimize errors, increase efficiency, and ensure compliance with company policies and legal requirements. SOPs are particularly important in manufacturing to ensure consistency and quality.
