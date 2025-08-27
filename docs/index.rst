@@ -1,6 +1,6 @@
-##########
-Yachta SOP
-##########
+##############
+Yachta PCB SOP
+##############
 Last update |today|
 
 .. image:: https://readthedocs.org/projects/yachta-sop-en/badge/?version=latest
