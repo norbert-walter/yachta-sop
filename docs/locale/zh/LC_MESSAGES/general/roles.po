@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/roles.rst:2 1a44ddb0382348bb8bc05b53bf4900ae
+#, fuzzy
+msgid "Roles & Responsibilities"
+msgstr "角色和职责"
+
+#: ../../general/roles.rst:4 4f01b3fbf7494ca7b68ee04e3162b22a
+#, fuzzy
+msgid ""
+"**Project Management:** Overall responsibility, approvals, schedule/cost "
+"control."
+msgstr "**项目管理**：总体责任、审批、进度/成本控制。"
+
+#: ../../general/roles.rst:5 4641e6b1cb704fda8fc3eeb263dedbbf
+#, fuzzy
+msgid ""
+"**Hardware Engineering:** Provides and maintains manufacturing data, test "
+"instructions, programming packages."
+msgstr "**硬件工程：**提供和维护制造数据、测试说明、编程包。"
+
+#: ../../general/roles.rst:6 11680eccb2334bdcba32bb4963b20bbc
+#, fuzzy
+msgid ""
+"**Purchasing/Logistics:** Procurement of PCBs/components, supplier "
+"management, obsolescence check."
+msgstr "**采购/物流：**采购 PCB/组件、供应商管理、过时检查。"
+
+#: ../../general/roles.rst:7 a072c00aa803433c970b404971923374
+#, fuzzy
+msgid ""
+"**Manufacturing (SMT/THT):** Paste print, placement, soldering, rework per "
+"standards."
+msgstr "**制造（SMT/THT）：**按照标准进行焊膏印刷、放置、焊接、返工。"
+
+#: ../../general/roles.rst:8 d5b355d85bc34ef897a048004d6f895c
+#, fuzzy
+msgid ""
+"**Quality Assurance (QA):** Incoming inspections, accept/reject versus "
+"criteria, release/hold."
+msgstr "**质量保证 (QA)**：进货检验、根据标准接受/拒绝、发布/保留。"
+
+#: ../../general/roles.rst:9 cdd91b1611cf4a2a9aa7a223925a05dd
+#, fuzzy
+msgid "**Test Lab:** Electrical tests, programming, FCT, logging."
+msgstr "**测试实验室**：电气测试、编程、FCT、记录。"
+
+#: ../../general/roles.rst:10 ed31ce41b2bf4685a5304c5d931a4d40
+#, fuzzy
+msgid "**Documentation:** Checklists, records, traceability."
+msgstr "**文档：**清单、记录、可追溯性。"

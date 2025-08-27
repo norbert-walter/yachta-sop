@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/inspection.rst:2 03da2a970d4941ef83476916d802b671
+#, fuzzy
+msgid "Visual Inspection (AOI/manual)"
+msgstr "视觉检测（AOI/手动）"
+
+#: ../../procedure/inspection.rst:4 5776c5eecfb9459182f8819734f7f8e5
+#, fuzzy
+msgid "Acceptance per IPC‑A‑610 class 1 (consumer products)"
+msgstr "符合 IPC-A-610 1 级验收标准（消费品）"
+
+#: ../../procedure/inspection.rst:5 c4c0893ca127483cb2d02f7e63edcf10
+#, fuzzy
+msgid "Check:"
+msgstr "查看："
+
+#: ../../procedure/inspection.rst:6 7957e45603c743f8b2a4d20d856676c0
+#, fuzzy
+msgid "wetting/fill"
+msgstr "润湿/填充"
+
+#: ../../procedure/inspection.rst:7 0d1e455e2b84415d9b097d2aadd0d77a
+#, fuzzy
+msgid "undersolded / oversolded"
+msgstr "售罄/售罄"
+
+#: ../../procedure/inspection.rst:8 5b9e1ef110854eb5a7dfc1204b030fc0
+#, fuzzy
+msgid "holes in solderings"
+msgstr "焊接孔"
+
+#: ../../procedure/inspection.rst:9 97a81ac418074459a066361a743adabd
+#, fuzzy
+msgid "flux balls"
+msgstr "助焊剂球"
+
+#: ../../procedure/inspection.rst:10 0cca2cb5a3b7429ba5116ca0e15088c8
+#, fuzzy
+msgid "bridges"
+msgstr "桥梁"
+
+#: ../../procedure/inspection.rst:11 23748f8cb9af44e39d2d73dc7f48b586
+#, fuzzy
+msgid "tombstoning"
+msgstr "墓碑效应"
+
+#: ../../procedure/inspection.rst:12 fe5d806daf78481fa04deb20b612f7ac
+#, fuzzy
+msgid "offset and missmatching"
+msgstr "偏移和错配"
+
+#: ../../procedure/inspection.rst:13 4088cc47157a495da04ffa2207a29aa5
+#, fuzzy
+msgid "cold joints"
+msgstr "冷接头"
+
+#: ../../procedure/inspection.rst:14 94ba2a1c71b5494f8c65b7f214725975
+#, fuzzy
+msgid "polarities"
+msgstr "极性"
+
+#: ../../procedure/inspection.rst:15 8cfbaa6e45a74927974454561f9c8e86
+#, fuzzy
+msgid "missing/twisted parts"
+msgstr "缺失/扭曲的部件"
+
+#: ../../procedure/inspection.rst:16 4c04b625817643d5b028c98c146dcbdf
+#, fuzzy
+msgid "presets soldering jumper"
+msgstr "预设焊接跳线"
+
+#: ../../procedure/inspection.rst:17 4513a133312f44758ebd8229393b1f39
+#, fuzzy
+msgid "Additional Check:"
+msgstr "附加检查："
+
+#: ../../procedure/inspection.rst:18 5927488d077d415c816480248595e82e
+#, fuzzy
+msgid "mechanical damage"
+msgstr "机械损伤"
+
+#: ../../procedure/inspection.rst:19 8c416b6015114d64ae2775552ddf9c1a
+#, fuzzy
+msgid "scratches on surface"
+msgstr "表面有划痕"
+
+#: ../../procedure/inspection.rst:20 7fde9c9bfbee4b30bb20e9f0412c4634
+#, fuzzy
+msgid "scratches on matal housings"
+msgstr "金属外壳上的划痕"
+
+#: ../../procedure/inspection.rst:21 ebc2a7b3fd7b45c39340032ff3151fba
+#, fuzzy
+msgid "sharp edges from cutting"
+msgstr "切割时产生的锋利边缘"
+
+#: ../../procedure/inspection.rst:22 b28209fef15c49ba9ed1294106516892
+#, fuzzy
+msgid "cutting rests"
+msgstr "切削刀架"
+
+#: ../../procedure/inspection.rst:23 1d1cd79aeb704f03a901c62bc5e8f146
+#, fuzzy
+msgid "finger prints"
+msgstr "指纹"
+
+#: ../../procedure/inspection.rst:24 a9ccd41762b642c18e5bf43349c5c7d6
+#, fuzzy
+msgid "hairs"
+msgstr "毛发"
+
+#: ../../procedure/inspection.rst:25 9170eea0fb0e4263a42be27661926156
+#, fuzzy
+msgid "dust"
+msgstr "灰尘"
+
+#: ../../procedure/inspection.rst:26 9cdedf9e108e40a2b45feee2e1e25850
+#, fuzzy
+msgid "flux residues"
+msgstr "助焊剂残留物"
+
+#: ../../procedure/inspection.rst:27 ed4f2a8425d3466c9e006b1f225ceee2
+#, fuzzy
+msgid "Record in inspection log (Form C1) incl. photos for NCR"
+msgstr "记录在检查日志（表格 C1）中，包括 NCR 的照片"
+
+#: ../../procedure/inspection.rst:28 148914edf8a642ebbea064ace007cae3
+#, fuzzy
+msgid "Segregate NCR units and start MRB process"
+msgstr "隔离 NCR 单元并启动 MRB 流程"
+
+#: ../../procedure/inspection.rst:31 b25a7677f0ce48af993d76e8c4165236
+#, fuzzy
+msgid "Chritical shortcut positions"
+msgstr "关键快捷位置"
+
+#: ../../procedure/inspection.rst:33 950d5b052aee495d8191018fc59a4f53
+#, fuzzy
+msgid "**U5 - High Voltage Protection**"
+msgstr "**U5-高压保护**"
+
+#: ../../procedure/inspection.rst:35 929ddb68271942be92a79c6c5342d16b
+#, python-format, fuzzy
+msgid ""
+"The spacing between the tips does not comply with soldering guidelines and "
+"could potentially lead to short circuits. Therefore, a 100% short-circuit "
+"test must be performed by the PCB manufacturer. Any problems that arise must"
+" be resolved immediately with the supplier."
+msgstr "焊嘴间距不符合焊接规范，可能导致短路。因此，PCB 制造商必须进行 100% 短路测试。如发现任何问题，必须立即与供应商联系解决。"
+
+#: ../../procedure/inspection.rst:40 ../../procedure/inspection.rst:49
+#: ../../procedure/inspection.rst:58 5ec6d6ccf6ee4ddaa850ac094c49bd93
+#: c923b1ee72454fb49ef40f8ef8f32b60 d8485b06d6994530a755714a13e698b5
+#, fuzzy
+msgid "Fig.: U5 passive high voltage protection"
+msgstr "图：U5被动高压保护"
+
+#: ../../procedure/inspection.rst:42 649b9259dfd746619c312304e3cabcc7
+#, fuzzy
+msgid "**Q3 - Hall sensor**"
+msgstr "**Q3 - 霍尔传感器**"
+
+#: ../../procedure/inspection.rst:44 9ca80803220f4886a7f5da30b8b0014f
+#, fuzzy
+msgid ""
+"The spacing between the pins on Q3 is very tight. If Q3 is manually "
+"populated as an option, high-quality soldering is required there. Q3 is not "
+"normally populated."
+msgstr "Q3 上的引脚间距非常小。如果选择手动安装 Q3，则需要高质量的焊接。Q3 通常不进行安装。"
+
+#: ../../procedure/inspection.rst:51 c19cd56e241f4003b5853f4c52b1e394
+#, fuzzy
+msgid "**U2 - Micro Controller**"
+msgstr "**U2——微控制器**"
+
+#: ../../procedure/inspection.rst:53 952794fc85da499286351f0e9fb5bbb0
+#, fuzzy
+msgid ""
+"U2 must not mismatch the solder pads. All pins must be evenly and centered "
+"on the solder pads. The WiFi antenna must not protrude beyond the board."
+msgstr "U2 不得与焊盘错位。所有引脚必须均匀分布并位于焊盘的中心。WiFi 天线不得超出电路板。"

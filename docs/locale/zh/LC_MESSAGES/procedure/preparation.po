@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../procedure/preparation.rst:2 908181375c794253bc60079795c6b3fd
+#, fuzzy
+msgid "Build Preparation"
+msgstr "构建准备"
+
+#: ../../procedure/preparation.rst:4 651f14e37eeb4a57984927559c500cd5
+#, fuzzy
+msgid "Verify stencil (thickness, apertures)"
+msgstr "验证模板（厚度、孔径）"
+
+#: ../../procedure/preparation.rst:5 1f3a0f08d8374f49930b2f1787e935c9
+#, fuzzy
+msgid "Solder paste type (e.g., SAC305 lead‑free), shelf life/conditioning"
+msgstr "焊膏类型（例如，SAC305 无铅）、保质期/条件"
+
+#: ../../procedure/preparation.rst:6 3c86af351ca44033b54f6560ca4d478c
+#, fuzzy
+msgid ""
+"Line setup: feeders to positions; cross‑check MPN ↔ BOM/CPL (four‑eyes "
+"principle)"
+msgstr "生产线设置：供料器到位置；交叉检查 MPN ↔ BOM/CPL（四眼原则）"
+
+#: ../../procedure/preparation.rst:7 2262287523cd4cd09ed20b21d9ec62ed
+#, fuzzy
+msgid ""
+"First article run (1–5 boards) to optimize paste/placement/reflow profile "
+"(record & archive)"
+msgstr "首次运行（1-5 块电路板）以优化粘贴/放置/回流曲线（记录和存档）"
+
+#: ../../procedure/preparation.rst:8 c36febe7c07e417c94c42eb27aa79508
+#, fuzzy
+msgid "Enable labeling (SN/QR) and traceability"
+msgstr "启用标签（SN/QR）和可追溯性"

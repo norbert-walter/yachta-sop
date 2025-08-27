@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 18:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../information/glossar.rst:2 ccdfc1725b5c414eb4ca58036462156c
+#, fuzzy
+msgid "Glossar"
+msgstr "词汇表"
+
+#: ../../information/glossar.rst:4 254a8facd24f450aaf81d534af9a0c5e
+#, fuzzy
+msgid ""
+"Here, the highlights used in the text and their meaning are shown. The "
+"highlights are shown in colored boxes. The colors follow the traffic light "
+"principle. Green colors correspond to notes and recommendations, while "
+"yellow and red colors indicate important and dangerous practices that should"
+" be avoided."
+msgstr ""
+"这里展示了文中突出显示的内容及其含义。突出显示的内容以彩色框显示。颜色遵循交通信号灯原则。绿色代表注意事项和建议，黄色和红色表示重要且危险的做法，应避免。"
+
+#: ../../information/glossar.rst:7 30b083ad259f4a429d35be4f1bc8ce01
+#, fuzzy
+msgid "A remark highlights a particular fact."
+msgstr "一条评论强调了某一特定事实。"
+
+#: ../../information/glossar.rst:10 f55791b242bb438d988f9e0c850e205c
+#, fuzzy
+msgid "A note serves as an aid."
+msgstr "注释起到辅助作用。"
+
+#: ../../information/glossar.rst:13 9ce3e9aa70aa4c128d753aac1f804197
+#, fuzzy
+msgid "Sections marked as Important should be given special attention."
+msgstr "标记为“重要”的部分应给予特别关注。"
+
+#: ../../information/glossar.rst:16 2c58791a3b774af8bd3dff1fa092312c
+#, fuzzy
+msgid "A tip makes it easier to deal with a situation."
+msgstr "小费可以让情况处理得更容易。"
+
+#: ../../information/glossar.rst:19 f477d13263bb4d1295a28124282d9fa6
+#, fuzzy
+msgid "Caution indicates a specific situation that may occur."
+msgstr "警告表示可能发生的特定情况。"
+
+#: ../../information/glossar.rst:22 a101822c339a43ccb577118db68fc76f
+#, fuzzy
+msgid ""
+"Caution indicates procedures that should be avoided and could become "
+"critical."
+msgstr "警告表示应避免某些程序，并且这些程序可能会变得很严重。"
+
+#: ../../information/glossar.rst:25 4aee119ebc06444785f87c4599b729dd
+#, fuzzy
+msgid ""
+"A warning indicates a procedure or situation that should not be performed. "
+"Warnings have the character of a recommendation."
+msgstr "警告表示不应执行的操作或情况。警告具有建议的性质。"
+
+#: ../../information/glossar.rst:28 be84b068442c43f0be48a691b462add1
+#, fuzzy
+msgid ""
+"Areas designated as hazardous can cause harm. You should strictly follow the"
+" instructions."
+msgstr "被指定为危险的区域可能会造成伤害。您应该严格遵循指示。"
+
+#: ../../information/glossar.rst:31 9ea1b48b578b44a5a27f211592751f9b
+#, fuzzy
+msgid ""
+"Places marked with errors show how errors occur and how they can be avoided."
+msgstr "标有错误的地方显示了错误是如何发生的以及如何避免错误。"
