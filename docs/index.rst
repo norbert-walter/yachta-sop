@@ -61,10 +61,10 @@ This document relates to the production of a circuit board for the Yachta wind s
    
 .. toctree::
    :maxdepth: 3
-   :caption: Documents
-   :name: sec-ducuments
+   :caption: Attachments
+   :name: sec-attachments
 
-   Documents <documents/documents>
+   Documents <attachments/collections>
    
 .. toctree::
    :maxdepth: 3
