@@ -87,7 +87,7 @@ html_theme_options = {
 html_static_path = ["_static"]
 
 # ---- i18n / translation ----
-language = "de"                 # Basis language German
+language = "en"                 # Basis language English
 locale_dirs = ['locale/']       # Path for translations .po/.mo
 gettext_compact = False         # Better file separation
 gettext_uuid = True             # Stable IDs for text (recommended)
