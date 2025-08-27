@@ -10,7 +10,7 @@ Last update |today|
 .. note::   These pages are still under construction.
 
 .. image:: /pics/Yachta_BCP_V2.1.png
-             :scale: 50%
+             :scale: 30%
 
 The SOP document describes standard operating procedures for the manufacture of sub-products or finished products and describes in detail how a specific task or process is to be carried out step by step. This written instruction aims to standardize procedures, minimize errors, increase efficiency, and ensure compliance with company policies and legal requirements. SOPs are particularly important in manufacturing to ensure consistency and quality.
 
@@ -53,11 +53,11 @@ This document relates to the production of a circuit board for the Yachta wind s
    :name: sec-quality
 
    Acceptance criteria <quality/acceptance>
-   Traceability & Records
-   NIO process / Deviations
-   Checklists & Forms (templates)
-   Process parameters
-   Change history
+   Traceability & Records <quality/trace>
+   NIO process / Deviations <quality/nio_process>
+   Checklists & Forms (templates) <quality/templates>
+   Process parameters <quality/parameters>
+   Change history <quality/history>
    
 .. toctree::
    :maxdepth: 3
