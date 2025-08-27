@@ -22,7 +22,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        lang: [zh-CN]  # weitere Sprachen hier ergänzen
+        lang: [zh_CN]  # weitere Sprachen hier ergänzen
 
     steps:
       - uses: actions/checkout@v4
