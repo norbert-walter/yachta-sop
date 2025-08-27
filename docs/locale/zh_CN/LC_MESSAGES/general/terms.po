@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/terms.rst:2 ab8f482273a5418bbda034154c414ed2
+#, fuzzy
+msgid "Terms"
+msgstr "条款"
+
+#: ../../general/terms.rst:4 ef5de4a32ecd412f87d92557119dbc8b
+#, fuzzy
+msgid "**AOI** - Automated Optical Inspection"
+msgstr "AOI——自动光学检测"
+
+#: ../../general/terms.rst:5 c1b9eef6c34d4101a539e8f20ed28e50
+#, fuzzy
+msgid "**AQL** - Acceptable Quality Level"
+msgstr "**AQL** - 可接受质量水平"
+
+#: ../../general/terms.rst:6 e7debf412da2468890a4901b4a53fa5a
+#, fuzzy
+msgid "**BOM** – Bill of Materials"
+msgstr "**BOM** – 物料清单"
+
+#: ../../general/terms.rst:7 35edbc3ef0284fb09637161037b92fa5
+#, fuzzy
+msgid "**CPL/XY** – Placement coordinates"
+msgstr "**CPL/XY** – 放置坐标"
+
+#: ../../general/terms.rst:8 d28faed0fef04e6cb875fedf195914f6
+#, fuzzy
+msgid "**DFM/DRC** – Design for Manufacturability / Design Rule Check"
+msgstr "**DFM/DRC** – 可制造性设计/设计规则检查"
+
+#: ../../general/terms.rst:9 7e2edb2dfaf6445aa9f4274443873d1e
+#, fuzzy
+msgid "**DVM** - Digital Volt Meter"
+msgstr "**DVM** - 数字电压表"
+
+#: ../../general/terms.rst:10 5e02acaeb5774a75bd417214497a2ec1
+#, fuzzy
+msgid "**EMS** – Electronics Manufacturing Services"
+msgstr "**EMS** – 电子制造服务"
+
+#: ../../general/terms.rst:11 462197c26f9c4157b85a2455f985fad5
+#, fuzzy
+msgid "**ESD** – Electrostatic Discharge"
+msgstr "**ESD** – 静电放电"
+
+#: ../../general/terms.rst:12 5ad9153f348e456895b601a0e9af8e6a
+#, fuzzy
+msgid "**FP/ICT** – Flying Probe / In‑Circuit Test"
+msgstr "**FP/ICT** – 飞针/在线测试"
+
+#: ../../general/terms.rst:13 b8bc6ccf913e478d97f297d840530f39
+#, fuzzy
+msgid "**FCT** – Functional Circuit Test"
+msgstr "**FCT** – 功能电路测试"
+
+#: ../../general/terms.rst:14 2cd11ab0ad004d28856f822132279f57
+#, fuzzy
+msgid "**ICT** - In Circuit Test"
+msgstr "**ICT** - 在线测试"
+
+#: ../../general/terms.rst:15 a4f5cbdd0f6545c6afd865cb9bef8721
+#, fuzzy
+msgid "**MSL** – Moisture Sensitivity Level"
+msgstr "**MSL** – 湿度敏感度等级"
+
+#: ../../general/terms.rst:16 4480ab8a8e5346c2b6a11cb24089d3d0
+#, fuzzy
+msgid "**NCR/NCMR** – Non-Conformance Report / Material Review"
+msgstr "**NCR/NCMR** – 不合格报告/材料审查"
+
+#: ../../general/terms.rst:17 f6e8a9ae0ef5408d98a38483eeea5076
+#, fuzzy
+msgid "**SMT** - Surface Mounted Technology"
+msgstr "**SMT** - 表面贴装技术"
+
+#: ../../general/terms.rst:18 930b23ec5a50437da61bda92f9a0887c
+#, fuzzy
+msgid "**SN** – Serial Number"
+msgstr "**SN** – 序列号"
+
+#: ../../general/terms.rst:19 6f0a3f24185f43e39474410d19cbfaf6
+#, fuzzy
+msgid "**SOP** - Standard Operating Procedure"
+msgstr "**SOP** - 标准操作程序"
+
+#: ../../general/terms.rst:20 5f19042130274543ba0def4a19e5cb0e
+#, fuzzy
+msgid "**THT** - Through-Hole Technology"
+msgstr "**THT** - 通孔技术"

@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../quality/parameters.rst:2 65a934b273c0477b9c7582cf883e2ed5
+#, fuzzy
+msgid "Process Parameters"
+msgstr "工艺参数"
+
+#: ../../quality/parameters.rst:4 a028c471a04b49fd98841ff4129921c3
+#, fuzzy
+msgid "Reflow (lead‑free, reference):"
+msgstr "回流焊（无铅，参考）："
+
+#: ../../quality/parameters.rst:5 a6cf39060b494deca0e1defa2c68845a
+#, fuzzy
+msgid "Preheat 120–170 °C / 60–120 s"
+msgstr "预热 120–170°C / 60–120秒"
+
+#: ../../quality/parameters.rst:6 fbbbc579f9d943b6a981163e65a8f7fa
+#, fuzzy
+msgid "Soak 150–180 °C / 60–120 s"
+msgstr "浸泡温度：150–180°C / 60–120秒"
+
+#: ../../quality/parameters.rst:7 ba8b8aa2e59f45e695fc4b6b336704f7
+#, fuzzy
+msgid "Peak 235–250 °C / 10–40 s above liquidus"
+msgstr "峰值温度 235–250°C / 高于液相线 10–40 秒"
+
+#: ../../quality/parameters.rst:8 7d901a8e963546b1a5dea9dc37d9e4c7
+#, fuzzy
+msgid "Record actual values per alloy/parts"
+msgstr "记录每个合金/零件的实际值"
+
+#: ../../quality/parameters.rst:10 1dc4a9b3a5d44f8e854cc7d60cc1c921
+#, fuzzy
+msgid "Selective/wave:"
+msgstr "选择性/波动："
+
+#: ../../quality/parameters.rst:11 d76d65ada2db41acb843282cd9b0ab86
+#, fuzzy
+msgid "Preheat per machine"
+msgstr "每台机器预热"
+
+#: ../../quality/parameters.rst:12 a3f4a57e8cea4381aa5b741e123441d4
+#, fuzzy
+msgid "Solder temp ~260 ± 5 °C"
+msgstr "焊接温度~260±5°C"
+
+#: ../../quality/parameters.rst:13 0217c723d16f4036b645ff921e2f845e
+#, fuzzy
+msgid "Contact time 2–4 s (layout/part dependent)"
+msgstr "接触时间 2-4 秒（取决于布局/部件）"
+
+#: ../../quality/parameters.rst:15 a09ba4a710d84348896546d019c9663d
+#, fuzzy
+msgid "ESD environment:"
+msgstr "ESD环境："
+
+#: ../../quality/parameters.rst:16 b8f786664b6949c795d142e5d6e16f0b
+#, fuzzy
+msgid "40–60 % RH"
+msgstr "40–60％ 相对湿度"
+
+#: ../../quality/parameters.rst:17 b398fdbe82fb4da7bc4f3940d315c7b4
+#, fuzzy
+msgid "20–26 °C"
+msgstr "20–26°C"
+
+#: ../../quality/parameters.rst:18 43ee3afb81b54e8892689b4d777c2d12
+#, fuzzy
+msgid "Grounding resistance < 1 GΩ"
+msgstr "接地电阻<1GΩ"
+
+#: ../../quality/parameters.rst:19 8e42194e0e6f4d08bcd1b5b1a291b966
+#, fuzzy
+msgid "test wrist straps daily"
+msgstr "每天测试腕带"
+
+#: ../../quality/parameters.rst:21 481368e2b1e742c28174565a5d59fc56
+#, fuzzy
+msgid "AQL (if applied):"
+msgstr "AQL（如适用）："
+
+#: ../../quality/parameters.rst:22 e6e706b569e446c388222ccc4590ae1d
+#, fuzzy
+msgid "Critical 0.65"
+msgstr "关键 0.65"
+
+#: ../../quality/parameters.rst:23 e69e6544bc314274a8fba839f13f1cf1
+#, fuzzy
+msgid "Major 1.0"
+msgstr "主要版本 1.0"
+
+#: ../../quality/parameters.rst:24 68a180928e9b4fdab496f66d62a7d755
+#, fuzzy
+msgid "Minor 2.5 (define per project)"
+msgstr "次要 2.5（每个项目定义）"

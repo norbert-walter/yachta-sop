@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../general/requirements.rst:2 7b34ab9d4f4f447ba08e68173738c903
+#, fuzzy
+msgid "Requirements"
+msgstr "要求"
+
+#: ../../general/requirements.rst:4 0f496b550a6540c68d3eaabd38159703
+#, fuzzy
+msgid "**Released inputs from Engineering:**"
+msgstr "**工程部门发布的输入：**"
+
+#: ../../general/requirements.rst:5 b5748253d7f24099923148f329d009d3
+#, fuzzy
+msgid "Gerber/ODB++/drill data, stack‑up, impedance targets"
+msgstr "Gerber/ODB++/钻孔数据、堆叠、阻抗目标"
+
+#: ../../general/requirements.rst:6 56cd971cf41447ef920cee4602436c9a
+#, fuzzy
+msgid ""
+"Schematic (PDF), BOM (with manufacturer MPN & approved alternates), CPL/XY"
+msgstr "原理图 (PDF)、BOM（含制造商 MPN 和批准的替代品）、CPL/XY"
+
+#: ../../general/requirements.rst:7 7bf608bcd33b4d198fb5d14034d07897
+#, fuzzy
+msgid "Assembly drawings (top/bottom, polarities, special notes)"
+msgstr "装配图（顶部/底部、极性、特殊说明）"
+
+#: ../../general/requirements.rst:8 5b9ca0a2cf6b49f8a4d1f07e93288a81
+#, fuzzy
+msgid "Test instruction (ICT/FCT), limits, fixture data"
+msgstr "测试说明（ICT/FCT）、限值、夹具数据"
+
+#: ../../general/requirements.rst:9 ad28d44ce3a04b6b8a14cd0ce6f8472a
+#, fuzzy
+msgid ""
+"Programming package (HEX/BIN/ELF, offsets, fuses, bootloader, SN/calibration"
+" rules)"
+msgstr "编程包（HEX/BIN/ELF、偏移量、保险丝、引导加载程序、SN/校准规则）"
+
+#: ../../general/requirements.rst:10 7fac36488e7c491c8eef83eaed166520
+#, fuzzy
+msgid "Labeling/marking data (SN, Data‑Matrix/QR)"
+msgstr "标签/标记数据（SN、Data-Matrix/QR）"
+
+#: ../../general/requirements.rst:12 6979c35d757448b2854e4bf6bdb88dd0
+#, fuzzy
+msgid "**Equipment/Software:**"
+msgstr "**设备/软件：**"
+
+#: ../../general/requirements.rst:13 0e95f90733354fd38adf174827f37d35
+#, fuzzy
+msgid "Stencil printer + stencil, SMT pick‑and‑place, reflow oven"
+msgstr "模板印刷机 + 模板、SMT 贴片机、回流焊炉"
+
+#: ../../general/requirements.rst:14 0e9d6ef9ec8c46f38f94bb4c49bc92ec
+#, fuzzy
+msgid "Selective/wave soldering (for THT)"
+msgstr "选择性焊接/波峰焊接（用于 THT）"
+
+#: ../../general/requirements.rst:15 b4f8457333a047eebc6375b06e992620
+#, fuzzy
+msgid "AOI/microscope, X‑ray for BGA as needed"
+msgstr "根据需要，AOI/显微镜、BGA X 射线"
+
+#: ../../general/requirements.rst:16 11d5c5ee70eb483083a7174a2aa03a5e
+#, fuzzy
+msgid ""
+"ICT/Flying Probe or bed‑of‑nails fixture, bench PSU with current limit, DMM,"
+" oscilloscope"
+msgstr "ICT/飞针或钉床夹具、带电流限制的台式电源、数字万用表、示波器"
+
+#: ../../general/requirements.rst:17 c3aa0b38a6ce44489bc5d5b647f8fcfe
+#, fuzzy
+msgid "Programmer (e.g., J‑Link, ST‑LINK, AVR‑ISP, PICkit, etc.)"
+msgstr "编程器（例如 J-Link、ST-LINK、AVR-ISP、PICkit 等）"
+
+#: ../../general/requirements.rst:18 47e1070f2f884a5793aa79550ab1b254
+#, fuzzy
+msgid "ERP/MES/traceability system"
+msgstr "ERP/MES/追溯系统"
