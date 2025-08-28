@@ -16,24 +16,43 @@ Programming (Flashing)
 Web Flashtool
 -------------
 
-The web flash tool allows you to transfer the firmware for the OBP60 to the device using a web browser via a USB connection. To do this, connect the OBP60 to a PC or laptop via the USB-C port and launch the Chrome or Edge web browser. The OBP60 has a built-in USB-to-serial converter for data transfer. The USB-C cable can only be used to transfer the firmware. Operating the device via USB is not possible.
+The web flash tool allows you to transfer the firmware for the Yachta PCB to the device using a web browser via a USB connection. To do this, connect the to the programming adapter and a PC or laptop via the USB-C port and launch the Chrome or Edge web browser. The USB-C cable can only be used to transfer the firmware. Operating the device via USB is not possible.
 
 .. note::
 	Web browsers other than **Chrome** or **Edge** are not currently supported because the functionality for accessing a serial port is not implemented in other web browsers.
 	
 .. warning::
-	Please note that the web flash tool can only be used with an OBP60 V2.1 that uses an **ESP32-S3 N16R8** processor and a **GDEY042T81** e-paper display. If you use other hardware, you will need to compile a customized firmware version for your hardware. Follow the instructions in the Compiling and Downloading section.
+	Please note that the web flash tool can only be used with an Yachta PCB V2.1. If you use other hardware, you must use a customized firmware version for the hardware.
 	
-For the flashing process you need the following things:
+Euipment
+--------
+
 	* Yachta PCB V2.1
-	* USB programmer bracket
+	* Programming adapter
 	* Power supplay 12V
-	* PC mit Chrome- oder Edge-Browser
+	* USB cable
+	* PC mit Chrome- oder Edge-Browser (Win / Linux / Mac)
+	* Actial Chrome web browser on PC
+	* WiFi router
+	
+Test conditions
+---------------
+
+    * Successfully completed basic test with PCB in test circuit
+    * WiFi-Router connected with a Ethernet cable to PC
+        * Setup SSID: MyBoat
+        * Setup WiFi assword: S6587rr94P
+    * Same elektrical conditions as before
+    * Set power source 12V
+    
+Flash procedure
+---------------    
+    
 
 **1. Yachta PCB put into flash mode**
 	
 	
-**2. Flashtool starten**
+**2. Start Flashtool**
 
 	Next, go to the `Online Flashtool`_ website.
 
@@ -68,3 +87,16 @@ For the flashing process you need the following things:
 	
 **4. Starting Yachta PCB**
 	Briefly disconnect the USB connection bracket. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
+	
+**5. Check PCB current with running firmware (current < 35 mA)
+
+**6. Automatic WiFi login in MyBoat (LED off)
+
+Acceptance
+----------
+
+    * Connection with programming adapter okay
+    * Flashing firmware okay (max. 3 flash cycles by flash problems)
+    * Current < 35 mA
+    * LED permanently on after reboot (search for known WiFi networks)
+    * LED off (connected to known WiFi network)
