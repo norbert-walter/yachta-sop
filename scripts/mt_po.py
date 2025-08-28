@@ -111,12 +111,96 @@ def google_translate_batch(texts: List[str], target: str) -> List[str]:
         return outs
     except requests.RequestException as ex:
         raise RuntimeError(f"HTTP error calling Google Translate v2: {ex}")
+# --------------------- RTD-/reST-spezifische Behandlung ---------------------
+RTD_REF_RE = re.compile(r"`([^`]+)`_")
+RTD_TARGET_RE = re.compile(r"(?m)^_([^:\n]+):\s*(\S+)\s*$")
+
+def rtd_preprocess(s: str):
+    items = []
+    out = s
+    def repl_ref(m):
+        inner = m.group(1)
+        key = f"[[RTDREF{len(items)}]]"
+        if "<" in inner and ">" in inner:
+            items.append(("ref_explicit", key, m.group(0)))
+            return key
+        else:
+            items.append(("ref", key, inner))
+            return key
+    out = RTD_REF_RE.sub(repl_ref, out)
+    def repl_target(m):
+        name = m.group(1).strip()
+        url = m.group(2).strip()
+        key = f"[[RTDTARGET{len(items)}]]"
+        items.append(("target", key, name, url))
+        return key
+    out = RTD_TARGET_RE.sub(repl_target, out)
+    return out, items
+
+def rtd_reconstruct(s_translated: str, items):
+    out = s_translated
+    for it in items:
+        kind = it[0]
+        if kind == "ref_explicit":
+            _, key, original = it
+            out = out.replace(key, original)
+        elif kind == "ref":
+            _, key, name_tr = it
+            out = out.replace(key, f"`{name_tr}`_")
+        elif kind == "target":
+            _, key, name_tr, url = it
+            out = out.replace(key, f"_{name_tr}: {url}")
+    return out
+
+def mask_text_generic(s: str):
+    table = {}
+    i = 0
+    def sub_all(pats, txt):
+        nonlocal i
+        for pat in pats:
+            def repl(m):
+                nonlocal i
+                k = f"[[[[M{i}]]]]"
+                table[k] = m.group(0)
+                i += 1
+                return k
+            txt = pat.sub(repl, txt)
+        return txt
+    s2 = sub_all(MASK_PATTERNS, s)
+    if DNT_PATTERNS:
+        s2 = sub_all(DNT_PATTERNS, s2)
+    return s2, table
+
+def translate_one_rtd_aware(src: str) -> str:
+    base, items = rtd_preprocess(src)
+    masked, table = mask_text_generic(base)
+    main_tr = google_translate_batch([masked], google_target_code(TARGET_LANG))[0]
+    translated_items = []
+    for it in items:
+        kind = it[0]
+        if kind == "ref":
+            _, key, name = it
+            name_tr = google_translate_batch([name], google_target_code(TARGET_LANG))[0]
+            name_tr = postprocess_text(name_tr, name)
+            translated_items.append(("ref", key, name_tr))
+        elif kind == "target":
+            _, key, name, url = it
+            name_tr = google_translate_batch([name], google_target_code(TARGET_LANG))[0]
+            name_tr = postprocess_text(name_tr, name)
+            translated_items.append(("target", key, name_tr, url))
+        else:
+            translated_items.append(it)
+    demasked = unmask_text(main_tr, table)
+    final = rtd_reconstruct(demasked, translated_items)
+    final = postprocess_text(final, src)
+    return final
+
 
 # --------------------- Masking für reST & Platzhalter ---------------------
 MASK_PATTERNS: List[re.Pattern] = [
     re.compile(r"``[^`]+``"),                # inline code
     re.compile(r":[\w.-]+:`[^`]+`"),         # :role:`...`
-    re.compile(r"`[^`]+`_"),                 # `text`_
+    # re.compile(r"`[^`]+`_"),              # NICHT hier maskieren; RTD-Logik übernimmt
     # Fett/Kursiv NICHT maskieren, damit Inhalt übersetzt wird:
     # re.compile(r"\*\*[^*\n]+\*\*"),        # **bold**
     # re.compile(r"\*[^*\s][^*\n]*\*"),      # *italic*
@@ -253,8 +337,7 @@ def process_plural(e: polib.POEntry, nplurals: int) -> bool:
         if current.strip() and not REWRITE_FILLED and not ("fuzzy" in e.flags and REWRITE_FUZZY):
             continue
         src = e.msgid if i == 0 else (e.msgid_plural or e.msgid)
-        tr = translate_many_preserving_markup([src])[0]
-        tr = postprocess_text(tr, src)
+        tr = translate_one_rtd_aware(src)
         if e.msgstr_plural.get(i, "") != tr:
             e.msgstr_plural[i] = tr
             changed = True
@@ -274,22 +357,19 @@ def process_po_file(path: str) -> bool:
             if process_plural(e, npl):
                 changed = True
 
-    # 2) Singuläre Einträge sammeln und in Batches übersetzen
+    # 2) Singuläre Einträge einzeln RTD-bewusst übersetzen
     pending_entries: List[polib.POEntry] = [e for e in po if not e.msgid_plural and should_translate_entry(e)]
     total = len(pending_entries)
     if total:
-        print(f"Translating {total} singular entries in {path} (batch={BATCH_SIZE})")
-    for group in chunked(pending_entries, BATCH_SIZE):
-        texts = [e.msgid for e in group]
-        translated = translate_many_preserving_markup(texts)
-        for e, tr in zip(group, translated):
-            tr = postprocess_text(tr, e.msgid)
-            if e.msgstr != tr:
-                e.msgstr = tr
-                changed = True
-            if "fuzzy" not in e.flags:
-                e.flags.append("fuzzy")
-                changed = True
+        print(f"Translating {total} singular entries in {path} (RTD-aware)")
+    for e in pending_entries:
+        tr = translate_one_rtd_aware(e.msgid)
+        if e.msgstr != tr:
+            e.msgstr = tr
+            changed = True
+        if "fuzzy" not in e.flags:
+            e.flags.append("fuzzy")
+            changed = True
         if THROTTLE_SECONDS > 0:
             time.sleep(THROTTLE_SECONDS)
 
