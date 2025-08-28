@@ -159,7 +159,7 @@ msgstr "**2. 启动 Flashtool**"
 #: ../../procedure/programming.rst:38 ea83a93e06884c07a4975a13239cd0a4
 #, fuzzy
 msgid "Next, go to the `Online Flashtool`_ website."
-msgstr "接下来，请访问 `Online Flashtool`_ 网站。"
+msgstr "接下来，转到 `在线Flash工具`_ 网站。"
 
 #: ../../procedure/programming.rst:44 f3440995963c43b8b3cea539aae061d5
 #, fuzzy

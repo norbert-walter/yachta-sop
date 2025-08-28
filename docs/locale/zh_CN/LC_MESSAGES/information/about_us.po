@@ -62,4 +62,4 @@ msgstr "位于德国杜塞尔多夫"
 #: ../../information/about_us.rst:10 7deb37f0c4a34884bded1ece571d2d08
 #, fuzzy
 msgid "Contact: `Contact form`_"
-msgstr "联系方式：`Contact form`_"
+msgstr "联系方式：`联系表格`_"
