@@ -80,7 +80,7 @@ msgstr "警告表示不应执行的操作或情况。警告具有建议的性质
 msgid ""
 "Areas designated as hazardous can cause harm. You should strictly follow the"
 " instructions."
-msgstr "被指定为危险的区域可能会造成伤害。您必须严格遵循指示。"
+msgstr "被指定为危险的区域可能会造成伤害。您应该严格遵循指示。"
 
 #: ../../information/glossar.rst:31 e70c41793fd44b56b5d8b9d08b7f049c
 #, fuzzy
