@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 19:59+0000\n"
+"POT-Creation-Date: 2025-08-29 14:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,87 +20,87 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../procedure/programming.rst:2 e052177fee9b4693b86ffb6dd9cb9968
+#: ../../procedure/programming.rst:2 fcd47f3f3b774c9a990bc02560d45378
 #, fuzzy
 msgid "Programming (Flashing)"
 msgstr "编程（闪烁）"
 
-#: ../../procedure/programming.rst:4 a9d5378291a2416c86280c79e93b35d3
+#: ../../procedure/programming.rst:4 06cd2a42c6634fec8c11cadf3b45ea9b
 #, fuzzy
 msgid "Connect USB programmer bracket"
 msgstr "连接USB编程器支架"
 
-#: ../../procedure/programming.rst:5 a2b12752b5b6431993162f96083f6c0a
+#: ../../procedure/programming.rst:5 f580301f19754c48a5a1ee81d62c7998
 #, fuzzy
 msgid "UART communication"
 msgstr "UART通信"
 
-#: ../../procedure/programming.rst:6 7e6904d6562845efac50f038018744e6
+#: ../../procedure/programming.rst:6 01e59b4aa2cc48af9afd65fcf21c0726
 #, fuzzy
 msgid "Verify firmware package (version V1.20, checksum, release status)"
 msgstr "验证固件包（版本 V1.20、校验和、发布状态）"
 
-#: ../../procedure/programming.rst:7 d9883794f67c47c98dfb1da767cef2ea
+#: ../../procedure/programming.rst:7 50b145425d3c4aee8de7121facfb937a
 #, fuzzy
 msgid "Programming sequence:"
 msgstr "编程顺序："
 
-#: ../../procedure/programming.rst:8 85ee7eb8c3c6461c8d60feb205ce8eab
+#: ../../procedure/programming.rst:8 4d6b4631efbd46799010846b25cc233c
 #, fuzzy
 msgid "Web flashtool"
 msgstr "Web flashtool"
 
-#: ../../procedure/programming.rst:9 2b417b4336224b0bacd56e8fee692b4d
+#: ../../procedure/programming.rst:9 17d5ee2c9dec4616aa2f472e004800ac
 #, fuzzy
 msgid "USB-Connection"
 msgstr "USB连接"
 
-#: ../../procedure/programming.rst:10 a43626c126944218ab247853b1c07b49
+#: ../../procedure/programming.rst:10 5865cadb80634763b7f098937228cc69
 #, fuzzy
 msgid ""
 "Erase → Program → Verify → Set option bytes/fuses → load defaults (Complete "
 "automatic sequence)"
 msgstr "擦除 → 编程 → 验证 → 设置选项字节/保险丝 → 加载默认值（完成自动序列）"
 
-#: ../../procedure/programming.rst:11 8649a4ec6b42427da53d95b1cfe07b6c
+#: ../../procedure/programming.rst:11 33357e94c9bf4f01827fb81b40af950f
 #, fuzzy
 msgid "Save log with SN, FW version, timestamp (Form E1, CSV export)"
 msgstr "保存带有 SN、FW 版本、时间戳的日志（表格 E1、CSV 导出）"
 
-#: ../../procedure/programming.rst:12 4b54e0bc91564198a3ec386c069dc642
+#: ../../procedure/programming.rst:12 cefde195bdd64c5689d27f687375aa1a
 #, fuzzy
 msgid "On failure:"
 msgstr "失败时："
 
-#: ../../procedure/programming.rst:13 87e0ad1d013740a08b8ec5e8d17f13ee
+#: ../../procedure/programming.rst:13 89c2382457894ebcb64b1745cceacf68
 #, fuzzy
 msgid "one retry permitted"
 msgstr "允许重试一次"
 
-#: ../../procedure/programming.rst:14 65a7195d143c4f28bd82fb783cf078eb
+#: ../../procedure/programming.rst:14 c9ed13c0d6ea4efc8e71293f4dacd567
 #, fuzzy
 msgid "otherwise NCR and analysis"
 msgstr "否则 NCR 和分析"
 
-#: ../../procedure/programming.rst:17 a3a3b9587ab64923882a02dae939327b
+#: ../../procedure/programming.rst:17 e64266190bed4c4fb766672192146b9b
 #, fuzzy
 msgid "Web Flashtool"
 msgstr "Web Flash工具"
 
-#: ../../procedure/programming.rst:19 4f3dec6728c848a1a12a728ded3a4fa0
+#: ../../procedure/programming.rst:19 d834618a6a934615a7631b807ab5925c
 #, fuzzy
 msgid ""
-"The web flash tool allows you to transfer the firmware for the Yachta PCB to"
-" the device using a web browser via a USB connection. To do this, connect "
-"the to the programming adapter and a PC or laptop via the USB-C port and "
+"The `Web Flash Tool`_ allows you to transfer the firmware for the Yachta PCB"
+" to the device using a web browser via a USB connection. To do this, connect"
+" the to the programming adapter and a PC or laptop via the USB-C port and "
 "launch the Chrome or Edge web browser. The USB-C cable can only be used to "
 "transfer the firmware. Operating the device via USB is not possible."
 msgstr ""
-"您可以使用 Web Flash 工具通过 USB 连接，使用 Web 浏览器将 Yachta PCB 的固件传输到设备。操作方法：通过 USB-C "
-"端口将编程适配器和 PC 或笔记本电脑连接起来，然后启动 Chrome 或 Edge Web 浏览器。USB-C 线缆仅可用于传输固件。无法通过 USB"
-" 操作设备。"
+"`Web Flash 工具`_ 允许您通过 USB 连接使用 Web 浏览器将 Yachta PCB 的固件传输到设备。为此，请通过 USB-C "
+"端口将编程适配器连接到 PC 或笔记本电脑，然后启动 Chrome 或 Edge Web 浏览器。USB-C 线缆只能用于传输固件。无法通过 USB "
+"操作设备。"
 
-#: ../../procedure/programming.rst:22 19ad54b0b8cc4a5896057e573b5f80db
+#: ../../procedure/programming.rst:24 8b91950826ea493bbb522ceccf702843
 #, fuzzy
 msgid ""
 "Web browsers other than **Chrome** or **Edge** are not currently supported "
@@ -108,7 +108,7 @@ msgid ""
 "other web browsers."
 msgstr "目前不支持除 **Chrome** 或 **Edge** 之外的 Web 浏览器，因为其他 Web 浏览器未实现访问串行端口的功能。"
 
-#: ../../procedure/programming.rst:25 985c1ad507d84388898d614b4d217f90
+#: ../../procedure/programming.rst:27 7561f865aeab4451b54ea39d3151b0b3
 #, fuzzy
 msgid ""
 "Please note that the web flash tool can only be used with an Yachta PCB "
@@ -116,207 +116,199 @@ msgid ""
 "for the hardware."
 msgstr "请注意，Web Flash 工具仅适用于 Yachta PCB V2.1 版本。如果您使用其他硬件，则必须使用针对该硬件定制的固件版本。"
 
-#: ../../procedure/programming.rst:28 a059afd036d848da9729b11ba5fdb7e1
+#: ../../procedure/programming.rst:30 56683bcde570472bbde613f0d315c861
 #, fuzzy
 msgid "Euipment"
 msgstr "设备"
 
-#: ../../procedure/programming.rst:30 66f34e71961e4d578c5ad1540dc933e2
+#: ../../procedure/programming.rst:32 f78974597461451a9c88bb78557f9e38
 #, fuzzy
 msgid "Yachta PCB V2.1"
 msgstr "Yachta PCB V2.1"
 
-#: ../../procedure/programming.rst:31 d2fd3f9c55a14446a3621b0e38eb09b9
+#: ../../procedure/programming.rst:33 92ff6209827145b9ab52ef7c95ebf565
 #, fuzzy
 msgid "Programming adapter"
 msgstr "编程适配器"
 
-#: ../../procedure/programming.rst:32 c0eea1ccb8244f61900cf9beed84f930
+#: ../../procedure/programming.rst:34 af762d07a19d452b91113b5bdc248e40
 #, fuzzy
 msgid "Power supplay 12V"
 msgstr "电源12V"
 
-#: ../../procedure/programming.rst:33 e09ae09cd6634918968f2d8501bf4950
+#: ../../procedure/programming.rst:35 8de89cb52b8e4782a300eaa9090e8194
 #, fuzzy
 msgid "USB cable"
 msgstr "USB 电缆"
 
-#: ../../procedure/programming.rst:34 d930872bd4894c8b8fd093c442b25952
+#: ../../procedure/programming.rst:36 a63b9e943be24a3a9df29862990ec728
 #, fuzzy
 msgid "PC mit Chrome- oder Edge-Browser (Win / Linux / Mac)"
 msgstr "装有 Chrome 或 Edge 浏览器的 PC（Win / Linux / Mac）"
 
-#: ../../procedure/programming.rst:35 d276d6bb332a498bad9166f3440dbc56
+#: ../../procedure/programming.rst:37 e0acf23c996549b6b1a1cd35bf59574f
 #, fuzzy
 msgid "Actial Chrome web browser on PC"
 msgstr "PC 上的实际 Chrome 网络浏览器"
 
-#: ../../procedure/programming.rst:36 3a7d07b723a44848b522ca8373021c32
+#: ../../procedure/programming.rst:38 4a550e194cb44f1491dc4935d5c431e0
 #, fuzzy
 msgid "WiFi router"
 msgstr "WiFi路由器"
 
-#: ../../procedure/programming.rst:39 d139a23c402d44e2a42c22be21591d13
+#: ../../procedure/programming.rst:41 cd72116273324a73b0b6e480af27b2d3
 #, fuzzy
 msgid "Test conditions"
 msgstr "测试条件"
 
-#: ../../procedure/programming.rst:41 3894b05888e94955975cf369711286d0
+#: ../../procedure/programming.rst:43 92765be2cbbf4969ac7f5058c830578f
 #, fuzzy
 msgid "Successfully completed basic test with PCB in test circuit"
 msgstr "成功完成测试电路中 PCB 的基本测试"
 
-#: ../../procedure/programming.rst:42 83d7c3f6eaed4a72ad245e2fb64fc0cb
+#: ../../procedure/programming.rst:44 8e2b42d48dac4696b53e1dec675a41b5
 #, fuzzy
 msgid "WiFi-Router connected with a Ethernet cable to PC"
 msgstr "WiFi路由器通过以太网线连接到PC"
 
-#: ../../procedure/programming.rst:43 5b4ca00a231b438d984a22ffbe4d7e28
+#: ../../procedure/programming.rst:45 eb5629ede97e482ab32b8ae5a44cb3f2
 #, fuzzy
 msgid "Setup SSID: MyBoat"
 msgstr "设置 SSID：MyBoat"
 
-#: ../../procedure/programming.rst:44 3ffa35ab0c5e44ae8b10be716480b4ea
+#: ../../procedure/programming.rst:46 d4270be3df954bada32526efd9f8f7a6
 #, fuzzy
 msgid "Setup WiFi assword: S6587rr94P"
 msgstr "设置 WiFi 密码：S6587rr94P"
 
-#: ../../procedure/programming.rst:45 5f413c9a444444709eb3fb224ff70c3e
+#: ../../procedure/programming.rst:47 ab013fa4735b47cc969f229bb3dd6021
 #, fuzzy
 msgid "Same elektrical conditions as before"
 msgstr "电气条件与以前相同"
 
-#: ../../procedure/programming.rst:46 9673646025044364bde713c88ed3de9b
+#: ../../procedure/programming.rst:48 473dfd7cb3ff48eabdba5da1c2fa7a2f
 #, fuzzy
 msgid "Set power source 12V"
 msgstr "设置电源12V"
 
-#: ../../procedure/programming.rst:49 ffb38c4ffc464575b057839ef3cf3c48
+#: ../../procedure/programming.rst:51 8f9ef4823f0b46759da40c973b12c134
 #, fuzzy
 msgid "Flash procedure"
 msgstr "Flash 程序"
 
-#: ../../procedure/programming.rst:52 edbaf66ee10344dbbf51d4025afa8494
+#: ../../procedure/programming.rst:53 9b3c8be32ec34cbb8d0238f9dc9274d2
 #, fuzzy
-msgid "**1. Yachta PCB put into flash mode**"
-msgstr "**1. Yachta PCB 进入闪存模式**"
+msgid "**1. Yachta PCB put into flash mode** **2. Start Flashtool**"
+msgstr "**1. Yachta PCB 进入闪存模式** **2. 启动 Flashtool**"
 
-#: ../../procedure/programming.rst:55 1f85916c37a14a5eae2f73c8ca1b3def
+#: ../../procedure/programming.rst:56 db2934bf978d4dd593b53ca07c227a37
 #, fuzzy
-msgid "**2. Start Flashtool**"
-msgstr "**2. 启动 Flashtool**"
+msgid "Next, go to the `Web Flash Tool`_ website."
+msgstr "接下来，转到 `Web Flash 工具`_ 网站。"
 
-#: ../../procedure/programming.rst:57 776760fed3784a86ac8a3b4fd56f9179
-#, fuzzy
-msgid "Next, go to the `Online Flashtool`_ website."
-msgstr "接下来，转到 `在线Flash工具`_ 网站。"
-
-#: ../../procedure/programming.rst:63 09913ffeed4141e3b7a77d9e02635df3
+#: ../../procedure/programming.rst:60 184a9b1ed93e495da395585a13d60176
 #, fuzzy
 msgid "Fig.: Home Web Flashtool"
 msgstr "图：主页 Web Flashtool"
 
-#: ../../procedure/programming.rst:65 4755683eedf345adbfc15583e94be3c3
+#: ../../procedure/programming.rst:62 0824ae9f90c6472493ffefd3857b6af3
 #, fuzzy
 msgid ""
 "Then press **Connect** and select the appropriate serial port. Depending on "
 "the operating system you're using, the ports are labeled differently."
 msgstr "然后按“连接”并选择相应的串行端口。根据您使用的操作系统，端口的标签会有所不同。"
 
-#: ../../procedure/programming.rst:67 1dad1f4662a3471f969422dcb1d83c29
+#: ../../procedure/programming.rst:64 a9e80f9f7cab45cc9f8bcd67790350b3
 #, fuzzy
 msgid "**Windows:** USB JTAG/serial debug unit COMx"
 msgstr "**Windows：** USB JTAG/串行调试单元 COMx"
 
-#: ../../procedure/programming.rst:68 3c268276529d49198c0445d9ead33f4a
+#: ../../procedure/programming.rst:65 0d532eea51554ed4b21b52a158fb9b34
 #, fuzzy
 msgid "**Linux:** /dev/ttyACMx"
 msgstr "**Linux：** /dev/ttyACMx"
 
-#: ../../procedure/programming.rst:72 efa1a942f19449c78629d7f9509fb6b7
+#: ../../procedure/programming.rst:69 0de565d33960449ca108005f78ed7643
 #, fuzzy
 msgid "Fig.: Selecting the interface"
 msgstr "图：选择接口"
 
-#: ../../procedure/programming.rst:75 b209ed75d8f54317b2bbc24a67f308f0
+#: ../../procedure/programming.rst:72 41b62bbca310437eb1c992499dace3ac
 #, fuzzy
 msgid ""
 "Please note that other serial ports may still be in use in the system. "
 "Select the port that appears after connecting the OBP60 to the USB port. Do "
 "not use existing ports; they are already in use for another device."
 msgstr ""
-"请注意，系统中可能仍有其他串行端口正在使用。请选择将 OBP60 连接到 USB 端口后显示的端口。请勿使用现有端口；这些端口已被其他设备占用。"
+"请注意，系统中可能仍有其他串行端口正在使用。请选择将 OBP60 连接到 USB 端口后显示的端口。请勿使用现有端口；它们已被其他设备占用。"
 
-#: ../../procedure/programming.rst:77 a942d5fdb55b453c9d93b22855aceb74
+#: ../../procedure/programming.rst:73 fd5ef6db3af946b39ae89d65e37f906c
 #, fuzzy
 msgid "**3. Transmit Firmware**"
 msgstr "**3. 传输固件**"
 
-#: ../../procedure/programming.rst:80 d5255a2007474426aa16dbaa8858b536
+#: ../../procedure/programming.rst:76 78a9979b4ff342abb839e5e6a4afc451
 #, fuzzy
 msgid "Fig.: Start flashing process"
 msgstr "图：开始闪烁过程"
 
-#: ../../procedure/programming.rst:82 92a15b3f3bd9461fb219f07f1ee6c340
+#: ../../procedure/programming.rst:78 634f994deda34aa8bb74fffce8e5b7b0
 #, fuzzy
 msgid ""
 "Start the installation process by selecting \"INSTALL XXX FIRMWARE.\" A "
 "message will appear after the transfer is successful."
 msgstr "选择“安装 XXX 固件”开始安装过程。传输成功后将出现一条消息。"
 
-#: ../../procedure/programming.rst:86 3735bea4e9734992bd02ed0b7526f8ad
+#: ../../procedure/programming.rst:82 9397743e665f45c9beac1863d79bc4c9
 #, fuzzy
 msgid "Pic.: Transferring the firmware"
 msgstr "图片：传输固件"
 
-#: ../../procedure/programming.rst:88 1f0d097449b344dd9a742e51d77740f9
+#: ../../procedure/programming.rst:83 7a5a3d42be3949beaea777891b06a2ab
 #, fuzzy
 msgid "**4. Starting Yachta PCB**"
 msgstr "**4. 启动 Yachta PCB**"
 
-#: ../../procedure/programming.rst:89 168bf6dd0ca941a589dcdf9101a6bc4c
+#: ../../procedure/programming.rst:84 a7047d1974ef48708564557ed6219a26
 #, fuzzy
 msgid ""
 "Briefly disconnect the USB connection bracket. The firmware starts. After a "
 "short time, the LED on the microcontroller board (U2) should light up."
 msgstr "短暂断开 USB 连接支架。固件启动。片刻之后，微控制器板 (U2) 上的 LED 应会亮起。"
 
-#: ../../procedure/programming.rst:91 39eadff6789242cc825a123a6413e8c1
+#: ../../procedure/programming.rst:85 acb80124d161440992bb3f805140ffee
 #, fuzzy
-msgid "**5. Check PCB current with running firmware (current < 35 mA)"
-msgstr "**5. 使用运行固件检查 PCB 电流（电流 < 35 mA）"
+msgid ""
+"**5. Check PCB current with running firmware (current < 35 mA)** **6. "
+"Automatic WiFi login in MyBoat (LED off)**"
+msgstr "**5. 使用运行固件检查 PCB 电流（电流 < 35 mA）** **6. MyBoat 中的自动 WiFi 登录（LED 熄灭）**"
 
-#: ../../procedure/programming.rst:93 8061b7367b0942a5be4bbed9d2f88b1b
-#, fuzzy
-msgid "**6. Automatic WiFi login in MyBoat (LED off)"
-msgstr "**6. MyBoat 中的自动 WiFi 登录（LED 熄灭）"
-
-#: ../../procedure/programming.rst:96 da7d5dda003a427b8232285ec6f03ddc
+#: ../../procedure/programming.rst:89 90eea2da699343669364d33779e9fd03
 #, fuzzy
 msgid "Acceptance"
 msgstr "验收"
 
-#: ../../procedure/programming.rst:98 7dd7d4c10125499a920f75df71c7d6e5
+#: ../../procedure/programming.rst:91 6a68b2f1c06341a4aa60fe8b8ae97ff4
 #, fuzzy
 msgid "Connection with programming adapter okay"
 msgstr "与编程适配器连接正常"
 
-#: ../../procedure/programming.rst:99 906564bf42ca41e298db6a91ca04ad6f
+#: ../../procedure/programming.rst:92 4d5e40434c954e5b8b5389fee0c2acfb
 #, fuzzy
 msgid "Flashing firmware okay (max. 3 flash cycles by flash problems)"
 msgstr "固件闪烁正常（由于闪烁问题，最多闪烁 3 个周期）"
 
-#: ../../procedure/programming.rst:100 7e2341bc2cd9485ba6e22009bf78ba30
+#: ../../procedure/programming.rst:93 0ab0142c003044ba8401e731a5444750
 #, fuzzy
 msgid "Current < 35 mA"
 msgstr "电流 < 35 mA"
 
-#: ../../procedure/programming.rst:101 a11f1a6adc9c4798ab90030d3d9b4833
+#: ../../procedure/programming.rst:94 595c5653b52040b59f0d104e141addd8
 #, fuzzy
-msgid "LED permanently on after reboot (search for known WiFi networks)"
-msgstr "重启后 LED 常亮（搜索已知的 WiFi 网络）"
+msgid "LED on after reboot (search for known WiFi networks)"
+msgstr "重启后 LED 亮起（搜索已知的 WiFi 网络）"
 
-#: ../../procedure/programming.rst:102 53217f6e55914424aa0ce20d6a58cd37
+#: ../../procedure/programming.rst:95 3aa0c66fb3de4e78897829b18dc87b64
 #, fuzzy
 msgid "LED off (connected to known WiFi network)"
 msgstr "LED 熄灭（已连接到已知 WiFi 网络）"
@@ -326,3 +318,9 @@ msgstr "LED 熄灭（已连接到已知 WiFi 网络）"
 
 #~ msgid "USB programmer bracket"
 #~ msgstr "USB编程器支架"
+
+#~ msgid "**2. Start Flashtool**"
+#~ msgstr "**2. 启动 Flashtool**"
+
+#~ msgid "**6. Automatic WiFi login in MyBoat (LED off)"
+#~ msgstr "**6. MyBoat 中的自动 WiFi 登录（LED 熄灭）"
