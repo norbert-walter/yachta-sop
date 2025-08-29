@@ -47,14 +47,22 @@ Test procedure
 --------------
 
     **1. Set power source 12V**
+    
     **2. Connect programming adapter with PCB (refer picture and pinning)**
         * short led flash after powering
+        
     **3. Check no-load current (max. 25 mA)**
+    
     **4. Set power source 12V**
+    
     **5. Check no-load current (max. 25 mA)**
+    
     **6. Set power source 24V**
+    
     **7. Check no-load current (max. 15 mA)**
+    
     **8. Set power source 30V**
+    
     **9. Check no-load current (current limiter activ)**
 
 Acceptance

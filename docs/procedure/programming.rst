@@ -51,6 +51,7 @@ Flash procedure
 ---------------    
 
     **1. Yachta PCB put into flash mode**
+    
     **2. Start Flashtool**
 
 	    Next, go to the `Web Flash Tool`_ website.
@@ -70,7 +71,9 @@ Flash procedure
 
     .. note::
 	    Please note that other serial ports may still be in use in the system. Select the port that appears after connecting the OBP60 to the USB port. Do not use existing ports; they are already in use for another device.
+	    
     **3. Transmit Firmware**
+    
 	    .. image:: ../pics/Web_Flasher2.png
 	       :scale: 50%
 	    Fig.: Start flashing process
@@ -80,9 +83,12 @@ Flash procedure
 	    .. image:: ../pics/Web_Flasher3.png
 	       :scale: 50%
 	    Pic.: Transferring the firmware	
+	    
     **4. Starting Yachta PCB**
 	    Briefly disconnect the USB connection bracket. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
+	    
     **5. Check PCB current with running firmware (current < 35 mA)**
+    
     **6. Automatic WiFi login in MyBoat (LED off)**
 
 Acceptance
