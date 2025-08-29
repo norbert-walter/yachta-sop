@@ -16,7 +16,9 @@ Programming (Flashing)
 Web Flashtool
 -------------
 
-The web flash tool allows you to transfer the firmware for the Yachta PCB to the device using a web browser via a USB connection. To do this, connect the to the programming adapter and a PC or laptop via the USB-C port and launch the Chrome or Edge web browser. The USB-C cable can only be used to transfer the firmware. Operating the device via USB is not possible.
+The `Web Flash Tool`_ allows you to transfer the firmware for the Yachta PCB to the device using a web browser via a USB connection. To do this, connect the to the programming adapter and a PC or laptop via the USB-C port and launch the Chrome or Edge web browser. The USB-C cable can only be used to transfer the firmware. Operating the device via USB is not possible.
+
+.. _Web Flash Tool: https://norbert-walter.github.io/Windsensor_Yachta/flash_tool/esp_flash_tool.html
 
 .. note::
 	Web browsers other than **Chrome** or **Edge** are not currently supported because the functionality for accessing a serial port is not implemented in other web browsers.
@@ -47,50 +49,41 @@ Test conditions
     
 Flash procedure
 ---------------    
-    
 
-**1. Yachta PCB put into flash mode**
-	
-	
-**2. Start Flashtool**
+    **1. Yachta PCB put into flash mode**
+    **2. Start Flashtool**
 
-	Next, go to the `Online Flashtool`_ website.
+	    Next, go to the `Web Flash Tool`_ website.
+	    
+	    .. image:: ../pics/Web_Flasher1.png
+	       :scale: 50%
+	    Fig.: Home Web Flashtool
 
-	.. _Online Flashtool: https://norbert-walter.github.io/Windsensor_Yachta/flash_tool/esp_flash_tool.html
-	
-	.. image:: ../pics/Web_Flasher1.png
-	   :scale: 50%
-	Fig.: Home Web Flashtool
+	    Then press **Connect** and select the appropriate serial port. Depending on the operating system you're using, the ports are labeled differently.
 
-	Then press **Connect** and select the appropriate serial port. Depending on the operating system you're using, the ports are labeled differently.
+	    * **Windows:** USB JTAG/serial debug unit COMx
+	    * **Linux:** /dev/ttyACMx
 
-	* **Windows:** USB JTAG/serial debug unit COMx
-	* **Linux:** /dev/ttyACMx
+	    .. image:: ../pics/Serial_Connection_Win.png
+	       :scale: 50%
+	    Fig.: Selecting the interface
 
-	.. image:: ../pics/Serial_Connection_Win.png
-	   :scale: 50%
-	Fig.: Selecting the interface
-
-.. note::
-	Please note that other serial ports may still be in use in the system. Select the port that appears after connecting the OBP60 to the USB port. Do not use existing ports; they are already in use for another device.
-	
-**3. Transmit Firmware**
-	.. image:: ../pics/Web_Flasher2.png
-	   :scale: 50%
-	Fig.: Start flashing process
-	
-	Start the installation process by selecting "INSTALL XXX FIRMWARE." A message will appear after the transfer is successful.
-	
-	.. image:: ../pics/Web_Flasher3.png
-	   :scale: 50%
-	Pic.: Transferring the firmware
-	
-**4. Starting Yachta PCB**
-	Briefly disconnect the USB connection bracket. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
-	
-**5. Check PCB current with running firmware (current < 35 mA)
-
-**6. Automatic WiFi login in MyBoat (LED off)
+    .. note::
+	    Please note that other serial ports may still be in use in the system. Select the port that appears after connecting the OBP60 to the USB port. Do not use existing ports; they are already in use for another device.
+    **3. Transmit Firmware**
+	    .. image:: ../pics/Web_Flasher2.png
+	       :scale: 50%
+	    Fig.: Start flashing process
+	    
+	    Start the installation process by selecting "INSTALL XXX FIRMWARE." A message will appear after the transfer is successful.
+	    
+	    .. image:: ../pics/Web_Flasher3.png
+	       :scale: 50%
+	    Pic.: Transferring the firmware	
+    **4. Starting Yachta PCB**
+	    Briefly disconnect the USB connection bracket. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
+    **5. Check PCB current with running firmware (current < 35 mA)**
+    **6. Automatic WiFi login in MyBoat (LED off)**
 
 Acceptance
 ----------
@@ -98,5 +91,5 @@ Acceptance
     * Connection with programming adapter okay
     * Flashing firmware okay (max. 3 flash cycles by flash problems)
     * Current < 35 mA
-    * LED permanently on after reboot (search for known WiFi networks)
+    * LED on after reboot (search for known WiFi networks)
     * LED off (connected to known WiFi network)

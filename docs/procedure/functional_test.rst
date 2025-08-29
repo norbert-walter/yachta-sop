@@ -34,23 +34,23 @@ Test conditions
 Functional test procedure
 -------------------------
 
-    1. Attach protective cover
-    2. Opening the website with web browser: http:\\windsensor1.local
-    3. Check WiFi connection quality (CQ: > 90% by short distance between router and PCB)
-    4. Go to page Informatiom (**Device Information**)
-    5. Check realistic room temperature
+    **1. Attach protective cover**
+    **2. Opening the website with web browser: http:\\windsensor1.local**
+    **3. Check WiFi connection quality (CQ: > 90% by short distance between router and PCB)**
+    **4. Go to page Informatiom (Device Information)**
+    **5. Check realistic room temperature**
         * Check value **Device Temperature** app. room temperature + 10°C
-    6. Check wind direction sensor on position 1 with cube magnet (note polarity)
+    **6. Check wind direction sensor on position 1 with cube magnet (note polarity)**
         * Check value **Wind Direction**
         * Magnet slowly rotates 360°
         * Angle values ​​must cover 0...360°
         * Offset is uncritical
-    7. Check wind speed sensor on position 2 with cylinder magnet (note polarity)
+    **7. Check wind speed sensor on position 2 with cylinder magnet (note polarity)**
         * Check value **Sensor 1 (Speed)**
         * Without magnet = 1
         * With magnet = 0
-    8. Check current consumption < 35 mA @ 12V
-    9. Disconnect PCB
+    **8. Check current consumption < 35 mA @ 12V**
+    **9. Disconnect PCB**
 
 Acceptance
 ----------
