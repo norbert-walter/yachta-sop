@@ -51,7 +51,7 @@ msgstr "**采购/物流：**采购 PCB/组件、供应商管理、过时检查�
 msgid ""
 "**Manufacturing (SMT/THT):** Paste print, placement, soldering, rework per "
 "standards."
-msgstr "**制造（SMT/THT）：**按照标准进行焊膏印刷、放置、焊接、返工。"
+msgstr "**制造（SMT/THT）：**按照标准进行印刷、放置、焊接、返工。"
 
 #: ../../general/roles.rst:8 698ac3513fb442058ee47be52f95f4f1
 #, fuzzy
