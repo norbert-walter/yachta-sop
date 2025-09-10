@@ -122,7 +122,7 @@ msgstr "**3. 插入磁铁**"
 #: ../../procedure/packaging.rst:36 2c17472cc89943ffba0587551c52565d
 #, fuzzy
 msgid "1x cube magnet 5x5x5 mm"
-msgstr "1x 立方体磁铁 5x5x5 毫米"
+msgstr "1x 5x5x5 毫米立方体磁铁"
 
 #: ../../procedure/packaging.rst:37 8793b331fe5f4770adb0f87c87a9f5b5
 #, fuzzy
