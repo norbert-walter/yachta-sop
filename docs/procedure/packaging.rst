@@ -16,14 +16,14 @@ Equipment
     * Cylinder magnets D3x5 mm
     * Labels
 	
+	.. image:: ../pics/Parts.jpg
+	       :scale: 15%
+	Fig.: Parts for packaging
+	
 Procedure
 ---------
 
-    **1. Insert the PCB in Zip bag with the component side facing up**
-	
-	.. image:: ../pics/Parts.jpg
-	       :scale: 15%
-	Fig.: Parts for packaging	   
+    **1. Insert the PCB in Zip bag with the component side facing up**   
     
     **2. Seal the ziplock bag hermetically**
         * The seal must be completely sealed and continuous
