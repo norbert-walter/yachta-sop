@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-10 12:27+0000\n"
+"POT-Creation-Date: 2025-09-10 15:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,315 +20,315 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../procedure/functional_test.rst:2 f3c24c1b8bec42ce9ca3228fe93cfad2
+#: ../../procedure/functional_test.rst:2 1e3360ad5c8d4a1d94f2e6cbb7213e8b
 #, fuzzy
 msgid "Functional Test (FCT)"
 msgstr "功能测试（FCT）"
 
-#: ../../procedure/functional_test.rst:4 b0318e70f95a479d82f4734a82fe22aa
+#: ../../procedure/functional_test.rst:4 26d3ad32828e4724b97aa376dadb030e
 #, fuzzy
 msgid "Connect fixture (bed‑of‑nails/connectors); run defined scripts"
 msgstr "连接固定装置（钉床/连接器）；运行定义的脚本"
 
-#: ../../procedure/functional_test.rst:5 92a0e64c3d4441acad44bea5f80920b4
+#: ../../procedure/functional_test.rst:5 f4e71dd37f724074854a405c8c0ec6a3
 #, fuzzy
 msgid "Typical coverage:"
 msgstr "典型覆盖范围："
 
-#: ../../procedure/functional_test.rst:6 48c9f7001ce9432c8b7b8e546bc36ccf
+#: ../../procedure/functional_test.rst:6 fdea47cbe4cc4b2eb527edb6b61595ed
 #, fuzzy
 msgid "Current consumption in run/standby"
 msgstr "运行/待机时的电流消耗"
 
-#: ../../procedure/functional_test.rst:7 ee6add4fb3134505949ff75ad1f4e41b
+#: ../../procedure/functional_test.rst:7 d2f7c3aeb5094dea9d775085c3f7f68b
 #, fuzzy
 msgid "Digital I/O, pull‑ups/downs"
 msgstr "数字 I/O，上拉/下拉"
 
-#: ../../procedure/functional_test.rst:8 08f612f06a9c4fc1906cb082cc167508
+#: ../../procedure/functional_test.rst:8 7dc496dcb4324f76a85af0dd539a607f
 #, fuzzy
 msgid "Analog paths (ADC/DAC linearity, references)"
 msgstr "模拟路径（ADC/DAC线性度、参考）"
 
-#: ../../procedure/functional_test.rst:9 880d8c32eb034d93a8609bc75176fcea
+#: ../../procedure/functional_test.rst:9 f3108876c31c441eabdd42f5edd2fc25
 #, fuzzy
 msgid "Communications (Wi‑Fi)"
 msgstr "通讯（Wi-Fi）"
 
-#: ../../procedure/functional_test.rst:10 6688db8c94d64e6b860cbcce844b19e3
+#: ../../procedure/functional_test.rst:10 cc49d36f85c146bfb3c9ca8f33aab510
 #, fuzzy
 msgid "Sensors/actuators simulated or attached"
 msgstr "模拟或连接的传感器/执行器"
 
-#: ../../procedure/functional_test.rst:11 5306e097b9704263b42b6b0be99111d3
+#: ../../procedure/functional_test.rst:11 6d566accefe84843b632639447ac798e
 #, fuzzy
 msgid "Memories (EEPROM/Flash/RAM) read/write"
 msgstr "存储器（EEPROM/Flash/RAM）读/写"
 
-#: ../../procedure/functional_test.rst:12 efdbb8032e92409e99f47f928793158c
+#: ../../procedure/functional_test.rst:12 d501c32f9b0849b0975093fd0ad34683
 #, fuzzy
 msgid "Safety features (watchdog, brown‑out)"
 msgstr "安全功能（看门狗、掉电）"
 
-#: ../../procedure/functional_test.rst:13 68a23821a6bb4603a52984ecdc47d508
+#: ../../procedure/functional_test.rst:13 6a6c59d52c484035858ea2d92431d171
 #, fuzzy
 msgid "Limits and pass/fail per test instruction"
 msgstr "根据测试指令的限制和通过/失败"
 
-#: ../../procedure/functional_test.rst:14 a7d16abf0a904fe5b4e8d22435030b76
+#: ../../procedure/functional_test.rst:14 7fef5ab1122f49b5a1d904af6bf36984
 #, fuzzy
 msgid "Auto‑attach test results to SN and archive (Form F1, add log)"
 msgstr "自动将测试结果附加到 SN 并存档（表格 F1，添加日志）"
 
-#: ../../procedure/functional_test.rst:17 8e76eacca8de47b2a551e6ded3f06168
+#: ../../procedure/functional_test.rst:17 d7d75328af594eac872e954b4203dd86
 #, fuzzy
 msgid "Equipment"
 msgstr "设备"
 
-#: ../../procedure/functional_test.rst:19 dfb53d6f49a74c53b82064e81294b066
+#: ../../procedure/functional_test.rst:19 2aa24a1245774df9966a9d64cec00ee0
 #, fuzzy
 msgid "Thermometer for measuring room temperature"
 msgstr "测量室温的温度计"
 
-#: ../../procedure/functional_test.rst:20 760a7bd12fcd41e2bdcd928e40d1da95
+#: ../../procedure/functional_test.rst:20 f37dfe4af2154f2887f4bb5547880096
 #, fuzzy
 msgid "Cube magnet for wind direktion sensor test"
 msgstr "用于风向传感器测试的立方体磁铁"
 
-#: ../../procedure/functional_test.rst:21 b724dbd45f314d95968ca36a9251700d
+#: ../../procedure/functional_test.rst:21 728d4e67df5548d8a4dea128b9f31225
 #, fuzzy
 msgid "Cylinder magnet for wind speed sesnsor test"
 msgstr "用于风速传感器测试的圆柱形磁铁"
 
-#: ../../procedure/functional_test.rst:22 cd5a12c602c846c8b68adb75212cd825
+#: ../../procedure/functional_test.rst:22 d2bfc5bfd2ea4712850975f4d5443a8a
 #, fuzzy
 msgid "Protection cover with marked positions for magnets"
 msgstr "带有标记磁铁位置的保护盖"
 
-#: ../../procedure/functional_test.rst:23 19f0f8612ea04b949423bc123ba8e257
+#: ../../procedure/functional_test.rst:23 a473f6928a904191ade58bb5473f205b
 #, fuzzy
 msgid "Actual Chrome web browser on PC"
 msgstr "PC 上的实际 Chrome 网络浏览器"
 
-#: ../../procedure/functional_test.rst:24 61d93a4b32eb4602a2e97841fdb6c8bd
+#: ../../procedure/functional_test.rst:24 b35be220e51f41549565ece3be5b1a1c
 #, fuzzy
 msgid "Same equipment as before"
 msgstr "与以前相同的设备"
 
-#: ../../procedure/functional_test.rst:27 345ba38dd6a34dd4a7b5049dfdeba342
+#: ../../procedure/functional_test.rst:27 9fdb0fe5f69442699f3c81d9802a9b99
 #, fuzzy
 msgid "Test conditions"
 msgstr "测试条件"
 
-#: ../../procedure/functional_test.rst:29 79d67153a8974b9a89121beac60ddfc6
+#: ../../procedure/functional_test.rst:29 2027bcd1b91b4623ad28fefa5ef43b5c
 #, fuzzy
 msgid "Successfully completed flash procedure"
 msgstr "成功完成刷写程序"
 
-#: ../../procedure/functional_test.rst:30 c9855d41e00c4066adb615da0e8f9244
+#: ../../procedure/functional_test.rst:30 abf2e6a379214117aee6705b5e14e985
 #, fuzzy
 msgid "WiFi login in MyBoat"
 msgstr "MyBoat 中的 WiFi 登录"
 
-#: ../../procedure/functional_test.rst:31 6e44bec4487949cbbdf567e80cf3139c
+#: ../../procedure/functional_test.rst:31 e4dbb2f46a1144f0b9e96b145710edec
 #, fuzzy
 msgid "Same elektrical conditions as before"
 msgstr "电气条件与以前相同"
 
-#: ../../procedure/functional_test.rst:32 4783ed50cb3f4701957dba26ddc912e2
+#: ../../procedure/functional_test.rst:32 c97bb6c5295f41a6a24df0eccc6d663e
 #, fuzzy
 msgid "Set power source 12V"
 msgstr "设置电源12V"
 
-#: ../../procedure/functional_test.rst:35 099088a0b9ea486899eb055e0d5d4c48
+#: ../../procedure/functional_test.rst:35 aa9589be29ef40b9abed9e6b74905fb8
 #, fuzzy
 msgid "Functional test procedure"
 msgstr "功能测试程序"
 
-#: ../../procedure/functional_test.rst:37 464c779022824772879ce574be382910
+#: ../../procedure/functional_test.rst:37 3ac1658e1a9a4223879743f22ddcfd1f
 #, fuzzy
 msgid "**1. Attach protective cover**"
 msgstr "**1. 安装保护盖**"
 
-#: ../../procedure/functional_test.rst:39 e2da4b24c845406a920fb2376f030b78
+#: ../../procedure/functional_test.rst:39 8aec78196bc14746893426dc57854cad
 #, fuzzy
 msgid ""
 "**2. Opening the website with web browser: "
-"`http://windsensor-0.local/devinfo`_**"
-msgstr "**2. 使用网络浏览器打开网站：`http://windsensor-0.local/devinfo`_**"
+"`http://windsensor-0.local/devinfo`_ **"
+msgstr "**2. 使用网络浏览器打开网站：`http://windsensor-0.local/devinfo`_ **"
 
-#: ../../procedure/functional_test.rst:43 af6e51850f6a40c786d560a939d2c0a8
+#: ../../procedure/functional_test.rst:43 63a3016318574df4869c7f143e1eb0b8
 #, fuzzy
 msgid "**3. Check the firmware version**"
 msgstr "**3. 检查固件版本**"
 
-#: ../../procedure/functional_test.rst:44 491694554ebd491e8fc711b1fe72a9cd
+#: ../../procedure/functional_test.rst:44 5facd6f8f22745a08d1395834b9b426b
 #, fuzzy
 msgid "V1.20"
 msgstr "V1.20"
 
-#: ../../procedure/functional_test.rst:46 e87f80ef5569403cbc097cea4971dc10
+#: ../../procedure/functional_test.rst:46 e0f832dfa63f41339f1a3ffa39fcc18e
 #, fuzzy
 msgid ""
 "**4. Check WiFi connection quality (CQ: > 90% by short distance between "
 "router and PCB)**"
 msgstr "**4. 检查 WiFi 连接质量（CQ：路由器与 PCB 之间短距离连接时 CQ > 90%）**"
 
-#: ../../procedure/functional_test.rst:48 c2675e402a0e45c88a50cbfb812a4428
+#: ../../procedure/functional_test.rst:48 1ec37003918f4e65864ee1dbc1d0c80d
 #, fuzzy
 msgid "**5. Check realistic room temperature**"
 msgstr "**5. 检查实际室温**"
 
-#: ../../procedure/functional_test.rst:49 f0954ca90074472d834faf4f6ea58574
+#: ../../procedure/functional_test.rst:49 ebd09788df7a4da894b5ad04592dd6a3
 #, fuzzy
 msgid "Check value **Device Temperature** app. room temperature + 10°C"
 msgstr "检查值**设备温度**约为室温+10°C"
 
-#: ../../procedure/functional_test.rst:51 3674de681d5e40f9821d68a01ad76e44
+#: ../../procedure/functional_test.rst:51 6a91bb4265ad4e43b2bab2fee07f24e3
 #, fuzzy
 msgid ""
 "**6. Check wind direction sensor on position 1 with cube magnet (note "
 "polarity)**"
 msgstr "**6. 使用立方体磁铁检查位置 1 上的风向传感器（注意极性）**"
 
-#: ../../procedure/functional_test.rst:52 e4b2ba9b330a4d49b49431739262656d
+#: ../../procedure/functional_test.rst:52 663e7d0282234677bedeca89367ce49d
 #, fuzzy
 msgid "Check value **Wind Direction**"
 msgstr "检查值**风向**"
 
-#: ../../procedure/functional_test.rst:53 03934fb014ab44a8a75b11ddd37f641b
+#: ../../procedure/functional_test.rst:53 850374e041fe439f9750de94da64c015
 #, fuzzy
 msgid "Values ​​must change by 90° for a 90° magnet change"
 msgstr "磁铁旋转 90° 时，数值必须改变 90°"
 
-#: ../../procedure/functional_test.rst:54 edc61bcac1d244ff84b994bd65ed62de
+#: ../../procedure/functional_test.rst:54 6cff8fb7fd4b4d5a8e230c6bdae800d8
 #, fuzzy
 msgid "Angle values ​​must cover 0...360°"
 msgstr "角度值必须覆盖0...360°"
 
-#: ../../procedure/functional_test.rst:55 176c0d02dca84caba6ff83787d33ae1a
+#: ../../procedure/functional_test.rst:55 eb0971200a3b4712899d0ab2abce5126
 #, fuzzy
 msgid "Offset is uncritical"
 msgstr "偏移并不重要"
 
-#: ../../procedure/functional_test.rst:59 fe82383ebed44cfa8e52138d1009a004
+#: ../../procedure/functional_test.rst:59 4ceb679dc70845edadb184b4f25bff56
 #, fuzzy
 msgid "Fig.: Test positions on PCB"
 msgstr "图：PCB 上的测试位置"
 
-#: ../../procedure/functional_test.rst:61 442e77bc899543468fa64b8737ec39dc
+#: ../../procedure/functional_test.rst:61 892d1d2cdf1e4b5cba01c55f49dc91de
 #, fuzzy
 msgid ""
 "**7. Check wind speed sensor on position 2 with cube magnet (note "
 "polarity)**"
 msgstr "**7. 使用立方体磁铁检查位置 2 上的风速传感器（注意极性）**"
 
-#: ../../procedure/functional_test.rst:62 a5053ce878ec4d62a148cbc86c6d646a
+#: ../../procedure/functional_test.rst:62 bbcc51e5d4af40c89d8345eab10a684b
 #, fuzzy
 msgid "Check value **Sensor 1 (Speed)**"
 msgstr "检查值**传感器 1（速度）**"
 
-#: ../../procedure/functional_test.rst:63 9451b4ff3f374c8492db2c0e0a11074e
+#: ../../procedure/functional_test.rst:63 b32e52954d624fabab7245af55ac1ca8
 #, fuzzy
 msgid "Without magnet = 1"
 msgstr "无磁铁=1"
 
-#: ../../procedure/functional_test.rst:64 46c61e7cfbc041e48076a187a44de64e
+#: ../../procedure/functional_test.rst:64 315cc29fd0b241e28b2c71598dd6d1f3
 #, fuzzy
 msgid "With magnet = 0"
 msgstr "带磁铁 = 0"
 
-#: ../../procedure/functional_test.rst:66 ef93c782f13b4b099f1e4c8c932d7765
+#: ../../procedure/functional_test.rst:66 004fd6ea0a59402e880e7bcbdfd1e2f8
 #, fuzzy
 msgid "**8. Access the Yachta instrument page and check**"
 msgstr "**8. 进入 Yachta 仪表页面并检查**"
 
-#: ../../procedure/functional_test.rst:67 c6999d771c664e03974cf5a51748480a
+#: ../../procedure/functional_test.rst:67 316f41b0727d46149ed767543cae83de
 #, fuzzy
 msgid "`http://windsensor-0.local/windi`_"
 msgstr "`http://windsensor-0.local/windi`_"
 
-#: ../../procedure/functional_test.rst:68 9c233f8851e04f1cb064164b67c64967
+#: ../../procedure/functional_test.rst:68 1911eb0dbb37474cb9997732d4e5ce70
 #, fuzzy
 msgid "Pointer must move slightly"
 msgstr "指针必须稍微移动"
 
-#: ../../procedure/functional_test.rst:72 dc2fc748226741219ed6af4abe0cf320
+#: ../../procedure/functional_test.rst:72 ade64b696e70445a8225a05a061435b5
 #, fuzzy
 msgid "**9. Access the JSON page and save the extract (optional)**"
 msgstr "**9. 访问 JSON 页面并保存摘录（可选）**"
 
-#: ../../procedure/functional_test.rst:73 fac79f1617714918a5237b13a675c76d
+#: ../../procedure/functional_test.rst:73 6502263aa49147a48a80d542bf74826a
 #, fuzzy
 msgid "`http://windsensor-0.local/json`_"
 msgstr "`http://windsensor-0.local/json`_"
 
-#: ../../procedure/functional_test.rst:77 63b7098db17c410888f4fa1a21874ed5
+#: ../../procedure/functional_test.rst:77 58ab55998f3d428caa7a42c964914750
 #, fuzzy
 msgid "**10. Disconnect PCB**"
 msgstr "**10. 断开 PCB**"
 
-#: ../../procedure/functional_test.rst:79 289662e9a3e74515bddaea50d95dc1a1
+#: ../../procedure/functional_test.rst:79 fbd916d294a64d54bf086d1b5932a2ae
 #, fuzzy
 msgid "**11. Label the firmware version on the PCB backside**"
 msgstr "**11. 在 PCB 背面标注固件版本**"
 
-#: ../../procedure/functional_test.rst:83 7d86d5110cc34e92857b55d0a3050d6d
+#: ../../procedure/functional_test.rst:83 8117d1fde9594109ae6aaf7ad65fa959
 #, fuzzy
 msgid "Fig.: Firmware version"
 msgstr "图：固件版本"
 
-#: ../../procedure/functional_test.rst:86 5902ebb96c2c4a5580538d8e98b8069e
+#: ../../procedure/functional_test.rst:86 8912935278fd4afba5f2e9f4ba6f5284
 #, fuzzy
 msgid "Acceptance"
 msgstr "验收"
 
-#: ../../procedure/functional_test.rst:88 67ef1412e53747d19bf8405b8eafefe8
+#: ../../procedure/functional_test.rst:88 2b5ac9ffa3434eb085666d2676a849f9
 #, fuzzy
 msgid "WiFi connection established"
 msgstr "WiFi连接已建立"
 
-#: ../../procedure/functional_test.rst:89 8522d4d84e1a4c91bc22c97a423c8bd6
+#: ../../procedure/functional_test.rst:89 c569504c5dfe43a796eccc41a39c2260
 #, fuzzy
 msgid "WiFi connection quality > 90%"
 msgstr "WiFi连接质量> 90％"
 
-#: ../../procedure/functional_test.rst:90 fbed7e18639540debe282758dee981aa
+#: ../../procedure/functional_test.rst:90 9a5ac05da5454bbf9b78915398909df1
 #, fuzzy
 msgid "Dispaying correct web page (error free)"
 msgstr "显示正确的网页（无错误）"
 
-#: ../../procedure/functional_test.rst:91 adcd2432a278480ca338ba768886c510
+#: ../../procedure/functional_test.rst:91 d344273ffd594675aa0cc906b140167f
 #, fuzzy
 msgid "Correct page change"
 msgstr "正确的页面更改"
 
-#: ../../procedure/functional_test.rst:92 5f1c019cd17848cf80f85f280f9b45fe
+#: ../../procedure/functional_test.rst:92 34387fd31b8344f6994c9214a57df615
 #, fuzzy
 msgid "Page refresh < 1 s"
 msgstr "页面刷新时间 < 1 秒"
 
-#: ../../procedure/functional_test.rst:93 a66eab7eb1944f27833e710d9c332341
+#: ../../procedure/functional_test.rst:93 ecf8393b4974438880730bf2b8812a4a
 #, fuzzy
 msgid "Realistic temperature values (not perfect and with offset)"
 msgstr "实际温度值（不完美且有偏移）"
 
-#: ../../procedure/functional_test.rst:94 df225fbe78a64f798fa0c58d94045998
+#: ../../procedure/functional_test.rst:94 8ea757329ccb4aa2928d039b739e6441
 #, fuzzy
 msgid "0...360° values for wind direction sensor"
 msgstr "风向传感器的值为 0...360°"
 
-#: ../../procedure/functional_test.rst:95 e39ea6374940484f9378cc6d40f5a745
+#: ../../procedure/functional_test.rst:95 ddbc62b784924b55a14637757a3fa370
 #, fuzzy
 msgid "0/1 change for wind speed sensor"
 msgstr "风速传感器变化 0/1"
 
-#: ../../procedure/functional_test.rst:96 ef834eb166a9413095240b184a8f9b23
+#: ../../procedure/functional_test.rst:96 3fe33e770c2d4348ac31d58eaf4d8e8c
 #, fuzzy
 msgid "Current consumption < 35 mA @ 12V"
 msgstr "电流消耗 < 35 mA @ 12V"
 
-#: ../../procedure/functional_test.rst:97 c9870e937c74451bae5e005b6e50dce9
+#: ../../procedure/functional_test.rst:97 2bbbf5bb22f14b2b89a85fdc9590a30c
 #, fuzzy
 msgid "Label for firmware version is placed"
 msgstr "放置固件版本标签"
