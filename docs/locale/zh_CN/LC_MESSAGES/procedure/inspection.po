@@ -118,7 +118,7 @@ msgstr "切割时产生的锋利边缘"
 #: ../../procedure/inspection.rst:22 c914cd987aa94854b869d8e9b93de2f6
 #, fuzzy
 msgid "cutting rests"
-msgstr "切削刀架"
+msgstr "切削刃"
 
 #: ../../procedure/inspection.rst:23 3e4715e761424dd3a273f0863323ddea
 #, fuzzy
@@ -187,7 +187,7 @@ msgid ""
 "The spacing between the pins on Q3 is very tight. If Q3 is manually "
 "populated as an option, high-quality soldering is required there. Q3 is not "
 "normally populated."
-msgstr "Q3 上的引脚间距非常小。如果选择手动安装 Q3，则需要高质量的焊接。Q3 通常不进行安装。"
+msgstr "Q3 上的引脚间距非常小。如果选择手动安装 Q3，则需要进行高质量的焊接。Q3 通常不进行安装。"
 
 #: ../../procedure/inspection.rst:51 a00ff4ef1fb246b0b56198a4d81e526d
 #, fuzzy

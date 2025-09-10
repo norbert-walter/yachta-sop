@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-29 15:20+0000\n"
+"POT-Creation-Date: 2025-09-10 09:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,222 +20,219 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../procedure/basic_test.rst:2 16ba7a937d964ae3a5fc0924081052ce
+#: ../../procedure/basic_test.rst:2 f4859f18741d4191aeb07ba4b970d68c
 #, fuzzy
 msgid "Basic electrical test"
 msgstr "基本电气测试"
 
-#: ../../procedure/basic_test.rst:4 c0524cd47feb4d8eae4a855878bcdcdf
+#: ../../procedure/basic_test.rst:4 c192d511bd3543e49fae635b7e6a5c00
 #, fuzzy
 msgid "Visual inspection passed"
 msgstr "目视检查已通过"
 
-#: ../../procedure/basic_test.rst:5 af29021fb805408db28e2ef63efc2273
+#: ../../procedure/basic_test.rst:5 4db8166fb49e4752acdb50aa6e59e167
 #, fuzzy
 msgid ""
 "Short/continuity test of power rails to GND (power supplay current limiter)"
 msgstr "电源轨至 GND 的短路/连续性测试（电源电流限制器）"
 
-#: ../../procedure/basic_test.rst:6 b7e764fc93904f09b7ba9d8844ef6416
+#: ../../procedure/basic_test.rst:6 5598a32b95054239b7b0d3a5822bdfa5
 #, fuzzy
 msgid ""
 "Power‑on with bench PSU (current limit power source 50 mA; typically start <"
 " 20  mA)"
 msgstr "使用台式电源 (电源电流限制为 50 mA；通常启动时电流小于 20 mA)"
 
-#: ../../procedure/basic_test.rst:7 10c288766f634026ac9f9dfd6653bdc2
+#: ../../procedure/basic_test.rst:7 96c72f5ae48947908c84d0f284f54d8b
 #, fuzzy
-msgid "Verify reference voltages/regulators 3,3 V +/- 0,3 V"
-msgstr "验证参考电压/调节器 3.3 V +/- 0.3 V"
+msgid ""
+"Verify reference voltages/regulators 3,3 V +/- 0,3 V (only by problems)"
+msgstr "验证参考电压/调节器 3,3 V +/- 0,3 V（仅限问题）"
 
-#: ../../procedure/basic_test.rst:8 f74aec1960724f1b8f578218e74686fa
+#: ../../procedure/basic_test.rst:8 6c2d887320904712aadf16144160c07e
 #, fuzzy
 msgid "Check power supplay"
 msgstr "检查电源"
 
-#: ../../procedure/basic_test.rst:9 c1db239fecf748e1835226e66f3c413e
+#: ../../procedure/basic_test.rst:9 f361ecb2c988432aa47877681b074471
 #, fuzzy
-msgid "12V -> max 0,3 mA"
-msgstr "12V -> 最大 0.3 mA"
+msgid "12V -> max 18 mA"
+msgstr "12V -> 最大 18 mA"
 
-#: ../../procedure/basic_test.rst:10 e72579b4a4a74ba5a58b879169bdccd2
+#: ../../procedure/basic_test.rst:10 977bbca1991a4c1e931d68599881a018
 #, fuzzy
-msgid "24V -> max 0,15 mA"
-msgstr "24V -> 最大 0.15 mA"
+msgid "24V -> max 9 mA"
+msgstr "24V -> 最大 9 mA"
 
-#: ../../procedure/basic_test.rst:11 4e288e1ead74454c86a3202a4024ad7b
+#: ../../procedure/basic_test.rst:11 273c907c2a1c4c0c9c4f73f1d2315890
 #, fuzzy
 msgid "Overvoltage > 26V -> on power supplay current limiter activ"
 msgstr "过压> 26V -> 电源电流限制器激活"
 
-#: ../../procedure/basic_test.rst:12 e0d16a042f4748889e2f56666a93b2e1
+#: ../../procedure/basic_test.rst:12 5d966f7ad0464bdb8e0be3cd77001a0d
 #, fuzzy
 msgid "Basic comms (UART) and programming interface check (USB login on PC)"
 msgstr "基本通信（UART）和编程接口检查（PC 上的 USB 登录）"
 
-#: ../../procedure/basic_test.rst:13 e29e327baab14e9c87096e718663ec69
+#: ../../procedure/basic_test.rst:13 804402bf55fd431c9d500f252bf1d32b
 #, fuzzy
 msgid "Record results (Form D1)"
 msgstr "记录结果（表格D1）"
 
-#: ../../procedure/basic_test.rst:16 94fff281b45f469f86f545d8fb0a61f9
+#: ../../procedure/basic_test.rst:16 4b1c17badb25434087fd11833f31238a
 #, fuzzy
 msgid "Equipment"
 msgstr "设备"
 
-#: ../../procedure/basic_test.rst:17 1bce08c2adec4221ae9f6e3581084938
+#: ../../procedure/basic_test.rst:17 f3ff60cede534bba809d11eed4f44652
 #, fuzzy
 msgid ""
 "Power source 30V/1A with current limiter (setting accuracy: 0,1 V and 1 mA)"
 msgstr "电源 30V/1A，带电流限制器（设置精度：0.1 V 和 1 mA）"
 
-#: ../../procedure/basic_test.rst:18 8c0541b233b046388305654fef0ae42f
+#: ../../procedure/basic_test.rst:18 3b58970ee4054b9f937f2a3005148716
 #, fuzzy
 msgid "Programming adapter (Open Boat Projects)"
 msgstr "编程适配器（Open Boat Projects）"
 
-#: ../../procedure/basic_test.rst:19 1fc62aa4500d49d69e1d3a1288de74d1
+#: ../../procedure/basic_test.rst:19 98f3e008e4b14570918c617df995c54c
 #, fuzzy
 msgid "Digital voltmeter (measuring accuracy: 1 mA)"
 msgstr "数字电压表（测量精度：1mA）"
 
-#: ../../procedure/basic_test.rst:22 17e554db52de4f3abbd32410916b91ba
+#: ../../procedure/basic_test.rst:22 64757bf3992e4c8a9fb74a6afd77d426
 #, fuzzy
 msgid "Test Circuit"
 msgstr "测试电路"
 
-#: ../../procedure/basic_test.rst:27 8bd8f58d8d9f4c149c5b238664d510f6
+#: ../../procedure/basic_test.rst:27 de6ec8415f494bb2abbeb61db5de809d
 #, fuzzy
 msgid "Pic.: Test circuit"
 msgstr "图片：测试电路"
 
-#: ../../procedure/basic_test.rst:32 0b1a8c98f2fb49388596eca33dec255c
+#: ../../procedure/basic_test.rst:32 f1d4014927e14d7e9667daa333663b04
 #, fuzzy
 msgid "Pic.: Connected programming adapter to PCB"
 msgstr "图片：将编程适配器连接到 PCB"
 
-#: ../../procedure/basic_test.rst:35 54f309ed3df9401a9cd9ed80013aaf0a
+#: ../../procedure/basic_test.rst:35 66043e3577eb448fb3e3b8b9a8a12aea
 #, fuzzy
 msgid "Test conditions"
 msgstr "测试条件"
 
-#: ../../procedure/basic_test.rst:37 30ad0e5d31d5434f99d98cab4f761144
+#: ../../procedure/basic_test.rst:37 b7ccefff50fb4e7a8d6d26c083f17db6
 #, fuzzy
 msgid "Setting power source"
 msgstr "设置电源"
 
-#: ../../procedure/basic_test.rst:38 6b7f2f42242346c0bef9e9567254a274
+#: ../../procedure/basic_test.rst:38 21d2883ffb994ecc9fd0b5c8c4f41fcf
 #, fuzzy
 msgid "50 mA currrent limit"
 msgstr "50 mA 电流限制"
 
-#: ../../procedure/basic_test.rst:39 392cf9c1624c481ea9ad7e1463cdfd2e
+#: ../../procedure/basic_test.rst:39 80051cd42ffe45dab8502066d93f75e6
 #, fuzzy
 msgid "Digital voltmeter"
 msgstr "数字电压表"
 
-#: ../../procedure/basic_test.rst:40 d45557f03c174180a253d2cf942de9d8
+#: ../../procedure/basic_test.rst:40 a52dff1c50fb483cae4bbd47fd57efd2
 #, fuzzy
 msgid "Current 200 mA range"
 msgstr "电流 200 mA 量程"
 
-#: ../../procedure/basic_test.rst:41 a913a358faf64201b5897e4f7b666100
+#: ../../procedure/basic_test.rst:41 9b7fb263129d417ab31a1120dc25bcd5
 #, fuzzy
 msgid "Programming adapter"
 msgstr "编程适配器"
 
-#: ../../procedure/basic_test.rst:42 f6d9cebdb5a74a6aa19a7519f39acb99
+#: ../../procedure/basic_test.rst:42 eff872985912483c893874284f6a1bc8
 #, fuzzy
 msgid "Connected to power source"
 msgstr "已连接电源"
 
-#: ../../procedure/basic_test.rst:43 675bea2d3ebf4856b618fb6a47325891
+#: ../../procedure/basic_test.rst:43 6850b6b6bc004fe1a0cbd8d8c784d1c0
 #, fuzzy
 msgid "Connected to digiatl voltmeter"
 msgstr "连接到数字电压表"
 
-#: ../../procedure/basic_test.rst:44 6f80c8e0ca5e4197b54863fd50aa08ca
+#: ../../procedure/basic_test.rst:44 2836d8bbee4b441982c820bf343a1699
 #, fuzzy
 msgid "USB connected to PC"
 msgstr "USB 连接至 PC"
 
-#: ../../procedure/basic_test.rst:47 67b1887ca1a84266b253d3212b561a3b
+#: ../../procedure/basic_test.rst:49 fe949629bbe2449a98d77c0823e35846
+#, fuzzy
+msgid "Pic.: Test place with test circuit"
+msgstr "图片：带测试电路的测试地点"
+
+#: ../../procedure/basic_test.rst:52 2a0789beeb5d4356b4c398bba29b5e59
 #, fuzzy
 msgid "Test procedure"
 msgstr "测试程序"
 
-#: ../../procedure/basic_test.rst:49 597dd6e24bc648eda9dc6a5782d3f1a0
+#: ../../procedure/basic_test.rst:54 8089dd64f3384b418bee57e547488be0
 #, fuzzy
 msgid "**1. Set power source 12V**"
 msgstr "**1. 设置电源12V**"
 
-#: ../../procedure/basic_test.rst:51 e189b6844ae64a5ea6a4fc4538ab9909
+#: ../../procedure/basic_test.rst:56 1e2f1bb831954fd7a384d549946ab502
 #, fuzzy
 msgid ""
-"**2. Connect programming adapter with PCB (refer picture and pinning)**"
-msgstr "**2. 将编程适配器与 PCB 连接（参见图片和引脚）**"
+"**2. Connect programming adapter with PCB and switch power on (refer picture"
+" and pinning)**"
+msgstr "**2. 将编程适配器与 PCB 连接并打开电源（参见图片和引脚）**"
 
-#: ../../procedure/basic_test.rst:52 55556e900534402aa4ded4d3bc101a7e
+#: ../../procedure/basic_test.rst:57 19571ab80d094eac899cd5d2598f29b8
 #, fuzzy
 msgid "short led flash after powering"
 msgstr "通电后 LED 灯短暂闪烁"
 
-#: ../../procedure/basic_test.rst:54 a04a31ea6b5c4180a1b070d98a10594e
+#: ../../procedure/basic_test.rst:59 cca54d0a140e4210af82737d117f1fda
 #, fuzzy
-msgid "**3. Check no-load current (max. 25 mA)**"
-msgstr "**3. 检查空载电流（最大 25 mA）**"
+msgid "**3. Check no-load current (max. 20 mA)**"
+msgstr "**3. 检查空载电流（最大 20 mA）**"
 
-#: ../../procedure/basic_test.rst:56 32890b74c2fa4d03b75792918dfefd2e
+#: ../../procedure/basic_test.rst:61 8b21cc60e3c849d092e14a45bc78551e
 #, fuzzy
-msgid "**4. Set power source 12V**"
-msgstr "**4. 设置电源12V**"
+msgid "**4. Set power source 24V**"
+msgstr "**4. 设置电源24V**"
 
-#: ../../procedure/basic_test.rst:58 76d8b49806ed4ff8b5e408c93f226ec0
+#: ../../procedure/basic_test.rst:63 b2ee555dbdc446029a40749a67f9dee4
 #, fuzzy
-msgid "**5. Check no-load current (max. 25 mA)**"
-msgstr "**5. 检查空载电流（最大 25 mA）**"
+msgid "**5. Check no-load current (max. 10 mA)**"
+msgstr "**5. 检查空载电流（最大 10 mA）**"
 
-#: ../../procedure/basic_test.rst:60 85d1f9b30e4445bfab6de78ee6680777
+#: ../../procedure/basic_test.rst:65 31f81d3c9dba405f8f700fcda7ffe15b
 #, fuzzy
-msgid "**6. Set power source 24V**"
-msgstr "**6.设置电源24V**"
+msgid "**6. Set power source 30V**"
+msgstr "**6. 设置电源30V**"
 
-#: ../../procedure/basic_test.rst:62 e896767cbeec437889d154ff17468c7f
+#: ../../procedure/basic_test.rst:67 34df8374638643fa838f2a3c2610374e
 #, fuzzy
-msgid "**7. Check no-load current (max. 15 mA)**"
-msgstr "**7. 检查空载电流（最大 15 mA）**"
+msgid "**7. Check no-load current (current limiter activ)**"
+msgstr "**7. 检查空载电流（电流限制器激活）**"
 
-#: ../../procedure/basic_test.rst:64 eb7009a26f114aeb98bdc5223e27f727
-#, fuzzy
-msgid "**8. Set power source 30V**"
-msgstr "**8. 设置电源30V**"
-
-#: ../../procedure/basic_test.rst:66 f27dbc5afb2d4e47b639cadc94aad2c7
-#, fuzzy
-msgid "**9. Check no-load current (current limiter activ)**"
-msgstr "**9. 检查空载电流（电流限制器激活）**"
-
-#: ../../procedure/basic_test.rst:69 59fc4a633f8f413baa184a2a673a4db5
+#: ../../procedure/basic_test.rst:70 717cf703ab43481a8fbf6ff7b97e9005
 #, fuzzy
 msgid "Acceptance"
 msgstr "验收"
 
-#: ../../procedure/basic_test.rst:71 0e4440f1831d41d6819197f42c4063ba
+#: ../../procedure/basic_test.rst:72 95cf8c4539014987a378ecdc65a6d82d
 #, fuzzy
 msgid "Short led flash after powering (indicator CPU is workimg)"
 msgstr "通电后 LED 灯短闪（指示 CPU 正在工作）"
 
-#: ../../procedure/basic_test.rst:72 0311ee6796d24e6799cbc3561909d99a
+#: ../../procedure/basic_test.rst:73 31fb184f8a76486fb809dc74df256464
 #, fuzzy
 msgid "No power short cut"
 msgstr "无电源捷径"
 
-#: ../../procedure/basic_test.rst:73 7cc902f28a41477585b0e67a09ae7b4a
+#: ../../procedure/basic_test.rst:74 07d9ad61287f47c19d301a4215e0ce3d
 #, fuzzy
 msgid "All currents in the range"
 msgstr "范围内的所有电流"
 
-#: ../../procedure/basic_test.rst:74 cab610d93efb4ea2a9badcfb36ca4e29
+#: ../../procedure/basic_test.rst:75 28d7cdf473db4f56989891e1b73a7ddb
 #, fuzzy
 msgid "Over voltage protection okay"
 msgstr "过压保护正常"
@@ -266,3 +263,9 @@ msgstr "过压保护正常"
 #~ msgstr ""
 #~ "**3. 检查空载电流（最大 25 mA）** **4. 设置电源 12V** **5. 检查空载电流（最大 25 mA）** **6. 设置电源 "
 #~ "24V** **7. 检查空载电流（最大 15 mA）** **8. 设置电源 30V** **9. 检查空载电流（电流限制器激活）**"
+
+#~ msgid "**4. Set power source 12V**"
+#~ msgstr "**4. 设置电源12V**"
+
+#~ msgid "**5. Check no-load current (max. 25 mA)**"
+#~ msgstr "**5. 检查空载电流（最大 25 mA）**"
