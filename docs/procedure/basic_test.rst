@@ -43,7 +43,7 @@ Test conditions
         * Connected to digiatl voltmeter
         * USB connected to PC 
 
-.. image:: /pics/U5.png
+.. image:: /pics/Test_Circuit_Place.jpg
              :scale: 30%
 			 
 Pic.: Test place with test circuit
@@ -55,6 +55,11 @@ Test procedure
     
     **2. Connect programming adapter with PCB and switch power on (refer picture and pinning)**
         * short led flash after powering
+		
+	.. image:: ../pics/Test_Adapter.jpg
+	       :scale: 30%
+		   
+	    Fig.: Test adapter
         
     **3. Check no-load current (max. 20 mA)**
     

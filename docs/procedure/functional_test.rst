@@ -36,29 +36,53 @@ Functional test procedure
 
     **1. Attach protective cover**
     
-    **2. Opening the website with web browser: http:\\windsensor1.local**
+    **2. Opening the website with web browser: `http://windsensor-0.local/devinfo`_**
+	
+.. _manufacturer's website: http://windsensor-0.local/devinfo
+	
+	**3. Check the firmware version**
+		* V1.20
     
-    **3. Check WiFi connection quality (CQ: > 90% by short distance between router and PCB)**
-    
-    **4. Go to page Informatiom (Device Information)**
+    **4. Check WiFi connection quality (CQ: > 90% by short distance between router and PCB)**
     
     **5. Check realistic room temperature**
         * Check value **Device Temperature** app. room temperature + 10°C
         
     **6. Check wind direction sensor on position 1 with cube magnet (note polarity)**
         * Check value **Wind Direction**
-        * Magnet slowly rotates 360°
+        * Values ​​must change by 90° for a 90° magnet change
         * Angle values ​​must cover 0...360°
         * Offset is uncritical
+		
+	.. image:: ../pics/Install_Windsensor_Yachta.png
+	       :scale: 50%
+		   
+	    Fig.: Test positions on PCB	
         
-    **7. Check wind speed sensor on position 2 with cylinder magnet (note polarity)**
+    **7. Check wind speed sensor on position 2 with cube magnet (note polarity)**
         * Check value **Sensor 1 (Speed)**
         * Without magnet = 1
         * With magnet = 0
         
-    **8. Check current consumption < 35 mA @ 12V**
+    **8. Access the Yachta instrument page and check**
+		* `http://windsensor-0.local/windi`_
+		* Pointer must move slightly
+		
+.. _manufacturer's website: http://windsensor-0.local/windi	
+	
+	**9. Access the JSON page and save the extract (optional)**
+		* `http://windsensor-0.local/json`_
+		
+.. _manufacturer's website: http://windsensor-0.local/json
     
-    **9. Disconnect PCB**
+    **10. Disconnect PCB**
+	
+	**11. Label the firmware version on the PCB backside**
+	
+	.. image:: ../pics/Firmware_Version.jpg
+	       :scale: 50%
+		   
+	    Fig.: Firmware version
 
 Acceptance
 ----------
@@ -72,4 +96,5 @@ Acceptance
     * 0...360° values for wind direction sensor
     * 0/1 change for wind speed sensor
     * Current consumption < 35 mA @ 12V
+	* Label for firmware version is placed
     
