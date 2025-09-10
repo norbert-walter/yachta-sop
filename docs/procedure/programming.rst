@@ -68,8 +68,7 @@ Flash procedure
 		* I approx. 18 mA
 		
 		.. image:: ../pics/Test_Adapter.jpg
-	       :scale: 30%
-		   
+	       :scale: 30%		   
 	    Fig.: Test adapter
     
     **4. Start Flashtool**
@@ -77,8 +76,7 @@ Flash procedure
 	    Next, go to the `Web Flash Tool`_ website.
 	    
 	    .. image:: ../pics/Web_Flashtool_1.png
-	       :scale: 50%
-		   
+	       :scale: 50%		   
 	    Fig.: Home Web Flashtool
 
 	    Then press **Connect** and select the appropriate serial port. Depending on the operating system you're using, the ports are labeled differently.
@@ -87,8 +85,7 @@ Flash procedure
 	    * **Linux:** /dev/ttyACMx
 
 	    .. image:: ../pics/Connect.png
-	       :scale: 50%
-		   
+	       :scale: 50%	   
 	    Fig.: Selecting the interface
 
     .. note::
@@ -99,20 +96,17 @@ Flash procedure
     **5. Transmit Firmware**
     
 	    .. image:: ../pics/Install_Windsensor_Yachta.png
-	       :scale: 50%
-		   
+	       :scale: 50%		   
 	    Fig.: Start flashing process
 	    
 	    Start the installation process by selecting "INSTALL XXX FIRMWARE." A message will appear after the transfer is successful.
 	    
 	    .. image:: ../pics/Installing_Firmware.png
-	       :scale: 50%
-		   
+	       :scale: 50%		   
 	    Fig.: Transferring the firmware	
 		
 		.. image:: ../pics/Installation_Complete.png
-:scale: 50%
-		   
+			:scale: 50%	   
 	    Fig.: Installation complete
 	    
     **6. Starting Yachta PCB**

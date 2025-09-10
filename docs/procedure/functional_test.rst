@@ -54,9 +54,8 @@ Functional test procedure
         * Angle values ​​must cover 0...360°
         * Offset is uncritical
 		
-	.. image:: ../pics/Install_Windsensor_Yachta.png
-	       :scale: 50%
-		   
+		.. image:: ../pics/Install_Windsensor_Yachta.png
+			   :scale: 50%		   
 	    Fig.: Test positions on PCB	
         
     **7. Check wind speed sensor on position 2 with cube magnet (note polarity)**
@@ -68,21 +67,20 @@ Functional test procedure
 		* `http://windsensor-0.local/windi`_
 		* Pointer must move slightly
 		
-.. _manufacturer's website: http://windsensor-0.local/windi	
+.. _http://windsensor-0.local/windi: http://windsensor-0.local/windi	
 	
 	**9. Access the JSON page and save the extract (optional)**
 		* `http://windsensor-0.local/json`_
 		
-.. _manufacturer's website: http://windsensor-0.local/json
+.. _http://windsensor-0.local/json: http://windsensor-0.local/json
     
     **10. Disconnect PCB**
 	
 	**11. Label the firmware version on the PCB backside**
 	
-	.. image:: ../pics/Firmware_Version.jpg
-	       :scale: 50%
-		   
-	    Fig.: Firmware version
+		.. image:: ../pics/Firmware_Version.jpg
+			   :scale: 50%		   
+		Fig.: Firmware version
 
 Acceptance
 ----------
