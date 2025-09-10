@@ -12,12 +12,12 @@ msgstr ""
 "POT-Creation-Date: 2025-09-10 12:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: zh_CN\n"
 "Language-Team: zh_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../procedure/programming.rst:2 8c1dc52144ed489bb6cbc7cf9dc908fa
@@ -58,8 +58,8 @@ msgstr "USB连接"
 #: ../../procedure/programming.rst:10 86b2519444684c3b85d2227ca6ab10cc
 #, fuzzy
 msgid ""
-"Erase → Program → Verify → Set option bytes/fuses → load defaults "
-"(Complete automatic sequence)"
+"Erase → Program → Verify → Set option bytes/fuses → load defaults (Complete "
+"automatic sequence)"
 msgstr "擦除 → 编程 → 验证 → 设置选项字节/保险丝 → 加载默认值（完成自动序列）"
 
 #: ../../procedure/programming.rst:11 9d4d5c5ac33040b39f391eb45be8a1f3
@@ -90,31 +90,30 @@ msgstr "Web Flash工具"
 #: ../../procedure/programming.rst:19 32044d990b344f62b9f727643ca2c2a6
 #, fuzzy
 msgid ""
-"The `Web Flash Tool`_ allows you to transfer the firmware for the Yachta "
-"PCB to the device using a web browser via a USB connection. To do this, "
-"connect the to the programming adapter and a PC or laptop via the USB-C "
-"port and launch the Chrome or Edge web browser. The USB-C cable can only "
-"be used to transfer the firmware. Operating the device via USB is not "
-"possible."
+"The `Web Flash Tool`_ allows you to transfer the firmware for the Yachta PCB"
+" to the device using a web browser via a USB connection. To do this, connect"
+" the to the programming adapter and a PC or laptop via the USB-C port and "
+"launch the Chrome or Edge web browser. The USB-C cable can only be used to "
+"transfer the firmware. Operating the device via USB is not possible."
 msgstr ""
 "`Web Flash 工具`_ 允许您通过 USB 连接使用 Web 浏览器将 Yachta PCB 的固件传输到设备。为此，请通过 USB-C "
-"端口将编程适配器连接到 PC 或笔记本电脑，然后启动 Chrome 或 Edge Web 浏览器。USB-C 线缆只能用于传输固件。无法通过 "
-"USB 操作设备。"
+"端口将编程适配器连接到 PC 或笔记本电脑，然后启动 Chrome 或 Edge Web 浏览器。USB-C 线缆只能用于传输固件。无法通过 USB "
+"操作设备。"
 
 #: ../../procedure/programming.rst:24 402484247d1d43cb8d919f155981ee8c
 #, fuzzy
 msgid ""
-"Web browsers other than **Chrome** or **Edge** are not currently "
-"supported because the functionality for accessing a serial port is not "
-"implemented in other web browsers."
+"Web browsers other than **Chrome** or **Edge** are not currently supported "
+"because the functionality for accessing a serial port is not implemented in "
+"other web browsers."
 msgstr "目前不支持除 **Chrome** 或 **Edge** 之外的 Web 浏览器，因为其他 Web 浏览器未实现访问串行端口的功能。"
 
 #: ../../procedure/programming.rst:27 ead71c5f1f34478a8d721ec5ec4bb6e5
 #, fuzzy
 msgid ""
 "Please note that the web flash tool can only be used with an Yachta PCB "
-"V2.1. If you use other hardware, you must use a customized firmware "
-"version for the hardware."
+"V2.1. If you use other hardware, you must use a customized firmware version "
+"for the hardware."
 msgstr "请注意，Web Flash 工具仅适用于 Yachta PCB V2.1 版本。如果您使用其他硬件，则必须使用针对该硬件定制的固件版本。"
 
 #: ../../procedure/programming.rst:30 1924593adae64f2bbb53c2d417dc547f
@@ -215,7 +214,7 @@ msgstr "密码：admin123468#！"
 #: ../../procedure/programming.rst:54 738536590ca74aeca84b31556e51ba2b
 #, fuzzy
 msgid "PC connected to any LAN ports"
-msgstr "连接到任意 LAN 端口的 PC"
+msgstr "连接至任意 LAN 端口的 PC"
 
 #: ../../procedure/programming.rst:55 c3a9dc10912d4884ac16b0a5b1c44f72
 #, fuzzy
@@ -255,8 +254,8 @@ msgstr "**2. 将 Yachta PCB 插入编程适配器**"
 #: ../../procedure/programming.rst:67 7f18834ca3f44a9eb02ddd7d9094d208
 #, fuzzy
 msgid ""
-"**3. Hold down the flash button on the programming adapter and power on "
-"with the white button**"
+"**3. Hold down the flash button on the programming adapter and power on with"
+" the white button**"
 msgstr "**3. 按住编程适配器上的闪存按钮，然后使用白色按钮打开电源**"
 
 #: ../../procedure/programming.rst:68 cc7798a45010426a9a20521ee55cd954
@@ -287,8 +286,8 @@ msgstr "图：主页 Web Flashtool"
 #: ../../procedure/programming.rst:82 305ed0f1581c41979edc29f1ccd89474
 #, fuzzy
 msgid ""
-"Then press **Connect** and select the appropriate serial port. Depending "
-"on the operating system you're using, the ports are labeled differently."
+"Then press **Connect** and select the appropriate serial port. Depending on "
+"the operating system you're using, the ports are labeled differently."
 msgstr "然后按“连接”并选择相应的串行端口。根据您使用的操作系统，端口的标签会有所不同。"
 
 #: ../../procedure/programming.rst:84 eabb6d47113f42c18bbf6a26dac02e2e
@@ -311,15 +310,15 @@ msgstr "图：选择接口"
 msgid ""
 "Please note that other serial ports may still be in use in the system. "
 "Select the port that appears after connecting the Yachta PCB to the USB "
-"port. Do not use existing ports; they are already in use for another "
-"device. If the Wondows 11 operating system does not recognize the "
-"programming adapter, you must download the driver for the FTDI232 from "
-"the `manufacturer's website`_. The driver is already installed on Linux "
+"port. Do not use existing ports; they are already in use for another device."
+" If the Wondows 11 operating system does not recognize the programming "
+"adapter, you must download the driver for the FTDI232 from the "
+"`manufacturer's website`_. The driver is already installed on Linux "
 "operating systems."
 msgstr ""
 "请注意，系统中可能仍在使用其他串行端口。请选择将 Yachta PCB 连接到 USB "
-"端口后出现的端口。请勿使用现有端口；这些端口已被其他设备占用。如果 Wondows 11 操作系统无法识别编程适配器，则必须从 `制造商网站`_ "
-"下载 FTDI232 的驱动程序。该驱动程序已安装在 Linux 操作系统上。"
+"端口后出现的端口。请勿使用现有端口；这些端口已被其他设备占用。如果 Wondows 11 操作系统无法识别编程适配器，则必须从 `制造商网站`_ 下载 "
+"FTDI232 的驱动程序。该驱动程序已安装在 Linux 操作系统上。"
 
 #: ../../procedure/programming.rst:96 4513302867d343e2a48dfc294f2d56cf
 #, fuzzy
@@ -357,8 +356,8 @@ msgstr "**6. 启动 Yachta PCB**"
 #, fuzzy
 msgid ""
 "Power off and then power on with the white button. The firmware starts. "
-"After a short time, the LED on the microcontroller board (U2) should "
-"light up."
+"After a short time, the LED on the microcontroller board (U2) should light "
+"up."
 msgstr "关闭电源，然后按下白色按钮打开电源。固件启动。片刻之后，微控制器板（U2）上的 LED 灯应该会亮起。"
 
 #: ../../procedure/programming.rst:115 5c8aab440329437a9ddb86e04c708ba4
@@ -374,8 +373,8 @@ msgstr "**8. MyBoat 中的自动 WiFi 登录**"
 #: ../../procedure/programming.rst:118 87b58e87d8e943b99d614c16b753f356
 #, fuzzy
 msgid ""
-"LED goes out after approx. 5 seconds (PCB has logged into the MyBoat WiFi"
-" network)"
+"LED goes out after approx. 5 seconds (PCB has logged into the MyBoat WiFi "
+"network)"
 msgstr "LED 约 5 秒后熄灭（PCB 已登录 MyBoat WiFi 网络）"
 
 #: ../../procedure/programming.rst:121 bb49f50534034bfb92f8b6cee80168e2
@@ -431,4 +430,3 @@ msgstr "LED 熄灭（已连接到已知 WiFi 网络）"
 
 #~ msgid "30%"
 #~ msgstr "30%"
-
