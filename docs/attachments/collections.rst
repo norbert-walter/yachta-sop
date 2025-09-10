@@ -12,10 +12,11 @@ BOM and pick and place list
 	* `BOM list [CSV] <../_static/files/BOM_Windsensor-Yachta-Final-2.1_2025-07-21.csv>`_
 	* `Pick and place list [CSV] <../_static/files/PickAndPlace_PCB_Windsensor-Yachta_2025-07-21.csv>`_
 
-PCB production details
-----------------------
+Production details
+------------------
 
-	* `Production details [PNG] <../_static/files/PCB_Product_Details.png>`_
+	* `PCB production details [PNG] <../_static/files/PCB_Product_Details.png>`_
+	* `Short instruction list [TXT] <../_static/files/Instruction_List.txt>`_
 
 Schematic
 ---------

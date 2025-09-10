@@ -10,7 +10,7 @@ Equipment
 ---------
 
     * Thermal Welding Machine
-    * Ziplock bags (size L x W, 90x50 mm, electrostatic safe)
+    * Ziplock bags (size L x W, 120x80 mm, electrostatic safe)
     * Yachta PCBs
     * Cube magnets 5x5x5 mm
     * Cylinder magnets D3x5 mm
@@ -21,7 +21,7 @@ Procedure
 
     **1. Insert the PCB in Zip bag with the component side facing up**
 	
-	.. image:: ../pics/Test_Adapter.jpg
+	.. image:: ../pics/Parts.jpg
 	       :scale: 15%
 	Fig.: Parts for packaging	   
     

@@ -1,0 +1,64 @@
+Short form instruction list for Yachta PCB
+##########################################
+
+Basic Function Test
+-------------------
+
+1. Insert the PCB
+2. Power on 12V
+* Current approx. 18 mA
+3. Power on 24V
+* Current approx. 9 mA
+4. Power on 26V
+* Current is limited
+
+Flash Instructions
+------------------
+
+1. Power off
+2. Hold down the Flash button and power on
+* Current approx. 18 mA
+3. Go to the Web Flash Tool page and press connect
+* https://norbert-walter.github.io/Windsensor_Yachta/flash_tool/esp_flash_tool.html
+4. Click on Install Windsensor Yachta Firmware
+5. Click on Install Bottom
+6. Press the Next button
+7. Power off and power on
+* Current approx. 35 mA
+* Blue LED is on
+* LED goes out after approx. 5 seconds (PCB has logged into MyBoat's WiFi network)
+
+Functional test
+---------------
+
+1. Access the Yachta website
+* http://windsensor-0.local/devinfo
+2. Check firmware version
+* V1.20
+3. Check connection quality
+* approx. 100%
+4. Check temperature
+* Room temperature + 5°
+5. Apply protective cover
+6. Check wind direction with a cube magnet
+* Values ​​must change by 90° for a 90° magnet change
+7. Check sensor 1 (speed) with a cube magnet
+* Value must change from 1 to 0
+8. Access and check the Yachta instrument page
+* http://windsensor-0.local/windi
+* Pointer must move slightly
+9. Access the JSON page and save the excerpt (optional)
+* http://windsensor-0.local/json
+10. Label the firmware version on the PCB
+
+Packaging
+----------
+
+1. Insert the PCM with the component side facing up.
+2. Seal the ziplock bag tightly.
+* The seal must be completely airtight and continuous.
+3. Insert the magnets.
+* 1x cube magnet 5x5x5 mm
+* 4x cylinder magnets D3x4 mm
+4. Close the ziplock.
+4. Attach the label to the back.
