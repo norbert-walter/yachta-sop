@@ -9,8 +9,8 @@ Gerber files for Yachta PCB
 BOM and pick and place list
 ---------------------------
 
-	* `BOM list [CSV] <../_static/files/BOM_Windsensor-Yachta-Final-2.1_2025-07-21.csv>`
-	* `Pick and place list [CSV] <../_static/files/PickAndPlace_PCB_Windsensor-Yachta_2025-07-21.csv>`
+	* `BOM list [CSV] <../_static/files/BOM_Windsensor-Yachta-Final-2.1_2025-07-21.csv>`_
+	* `Pick and place list [CSV] <../_static/files/PickAndPlace_PCB_Windsensor-Yachta_2025-07-21.csv>`_
 
 PCB production details
 ----------------------
@@ -40,7 +40,9 @@ Yachta PCB
 Online tool parts placing
 -------------------------
 
-	* `Online parts placing tool [HTML] <../_static/files/https://open-boat-projects.org/wp-content/uploads/2025/03/ibom_yachta_v2.1.html>`_
+	* `Online parts placing tool`_
+		
+.. _Online parts placing tool: https://open-boat-projects.org/wp-content/uploads/2025/03/ibom_yachta_v2.1.html
 
 .. image:: ../pics/Parts_Placing_Tool.png
 			   :scale: 50%		   
