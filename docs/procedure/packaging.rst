@@ -43,7 +43,7 @@ Procedure
     
     **6. Final quality check**
 	
-	.. image:: ../pics/Test_Adapter.jpg
+	.. image:: ../pics/Final_Product.jpg
 	       :scale: 15%  
 	Fig.: Final product
 	
