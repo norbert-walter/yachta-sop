@@ -67,7 +67,7 @@ Flash procedure
 	**3. Hold down the flash button on the programming adapter and power on with the white button**
 		* I approx. 18 mA
     
-    **2. Start Flashtool**
+    **4. Start Flashtool**
 
 	    Next, go to the `Web Flash Tool`_ website.
 	    
@@ -85,9 +85,11 @@ Flash procedure
 	    Fig.: Selecting the interface
 
     .. note::
-	    Please note that other serial ports may still be in use in the system. Select the port that appears after connecting the OBP60 to the USB port. Do not use existing ports; they are already in use for another device.
+	    Please note that other serial ports may still be in use in the system. Select the port that appears after connecting the Yachta PCB to the USB port. Do not use existing ports; they are already in use for another device. If the Wondows 11 operating system does not recognize the programming adapter, you must download the driver for the FTDI232 from the `manufacturer's website`_. The driver is already installed on Linux operating systems.
+
+.. _manufacturer's website: https://ftdichip.com/drivers/
 	    
-    **3. Transmit Firmware**
+    **5. Transmit Firmware**
     
 	    .. image:: ../pics/Install_Windsensor_Yachta.png
 	       :scale: 50%
@@ -103,12 +105,12 @@ Flash procedure
 	       :scale: 50%
 	    Pic.: Installation complete
 	    
-    **4. Starting Yachta PCB**
+    **6. Starting Yachta PCB**
 	    Power off and then power on with the white button. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
 	    
-    **5. Check PCB current with running firmware (current < 35 mA)**
+    **7. Check PCB current with running firmware (current < 35 mA)**
     
-    **6. Automatic WiFi login in MyBoat**
+    **8. Automatic WiFi login in MyBoat**
 		LED goes out after approx. 5 seconds (PCB has logged into the MyBoat WiFi network)
 
 Acceptance
