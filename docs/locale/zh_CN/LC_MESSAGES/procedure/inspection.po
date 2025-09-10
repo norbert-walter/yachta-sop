@@ -118,7 +118,7 @@ msgstr "切割时产生的锋利边缘"
 #: ../../procedure/inspection.rst:22 c914cd987aa94854b869d8e9b93de2f6
 #, fuzzy
 msgid "cutting rests"
-msgstr "切削刀架"
+msgstr "切削刃"
 
 #: ../../procedure/inspection.rst:23 3e4715e761424dd3a273f0863323ddea
 #, fuzzy

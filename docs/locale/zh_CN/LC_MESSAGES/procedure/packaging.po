@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"POT-Creation-Date: 2025-09-10 14:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,31 +20,176 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../procedure/packaging.rst:2 6214308a4daa4b1aa57b05b164b03a05
+#: ../../procedure/packaging.rst:2 25c60d61d3bd48bf8d2420031bf4d684
 #, fuzzy
 msgid "Final Acceptance & Packaging"
 msgstr "最终验收和包装"
 
-#: ../../procedure/packaging.rst:4 f68cede05e274c5bac724c5f803ac5b4
+#: ../../procedure/packaging.rst:4 047984f7c11043df830638f0d703998f
 #, fuzzy
 msgid ""
 "Completeness: all checks “pass”, labels applied, protective covers/spacers "
 "installed (if specified)"
 msgstr "完整性：所有检查均“通过”，标签已贴，保护盖/垫片已安装（如指定）"
 
-#: ../../procedure/packaging.rst:5 733b36cb04f14ed386502dc5a7cfa55b
+#: ../../procedure/packaging.rst:5 45ce1baaa2014c8d99e69d0ea042fab1
 #, fuzzy
 msgid "Cleaning/conformal coating (if required) performed and documented"
 msgstr "执行并记录清洁/保形涂层（如果需要）"
 
-#: ../../procedure/packaging.rst:6 a81e06a8f214466cbbddb15429a24f3c
+#: ../../procedure/packaging.rst:6 dc2ce33cb510422c93e0fdf1d4a50caa
 #, fuzzy
 msgid ""
 "ESD‑safe packaging (ESD bag, desiccant, markings), packing slip with "
 "SN/Rev./FW version"
 msgstr "ESD 安全包装（ESD 袋、干燥剂、标记）、带有 SN/Rev./FW 版本的装箱单"
 
-#: ../../procedure/packaging.rst:7 6a1bebb82bf4488182a5b838667e1d23
+#: ../../procedure/packaging.rst:7 15038496beca4776b0b27dc67644e930
 #, fuzzy
 msgid "Handover to stock/shipping with full data set"
 msgstr "交付库存/发货，并附带完整数据集"
+
+#: ../../procedure/packaging.rst:10 7bcf8010ed3143049ea5cf74aaa7dc30
+#, fuzzy
+msgid "Equipment"
+msgstr "设备"
+
+#: ../../procedure/packaging.rst:12 b34786ffa1d14addb72493cebae912af
+#, fuzzy
+msgid "Thermal Welding Machine"
+msgstr "热焊接机"
+
+#: ../../procedure/packaging.rst:13 09563c5af8ea494fb611cf349978f5a8
+#, fuzzy
+msgid "Ziplock bags (size L x W, 90x50 mm, electrostatic safe)"
+msgstr "自封袋（尺寸长 x 宽，90x50 毫米，防静电）"
+
+#: ../../procedure/packaging.rst:14 75658178b6be454eb4dfd64d036a9ff4
+#, fuzzy
+msgid "Yachta PCBs"
+msgstr "Yachta PCB"
+
+#: ../../procedure/packaging.rst:15 a118553757d6480a9ef751f82611b53d
+#, fuzzy
+msgid "Cube magnets 5x5x5 mm"
+msgstr "立方体磁铁 5x5x5 毫米"
+
+#: ../../procedure/packaging.rst:16 8c83a9f09a1045b19794fc031268ba25
+#, fuzzy
+msgid "Cylinder magnets D3x5 mm"
+msgstr "圆柱形磁铁 D3x5 毫米"
+
+#: ../../procedure/packaging.rst:17 322c6170adf84384b893da7a0510b051
+#, fuzzy
+msgid "Labels"
+msgstr "标签"
+
+#: ../../procedure/packaging.rst:20 f56ffcde82504b388b8e53dec02d5780
+#, fuzzy
+msgid "Procedure"
+msgstr "程序"
+
+#: ../../procedure/packaging.rst:22 99f936a7ecb449e5ae5dea36c3744aac
+#, fuzzy
+msgid "**1. Insert the PCB in Zip bag with the component side facing up**"
+msgstr "**1. 将 PCB 放入拉链袋中，元件面朝上**"
+
+#: ../../procedure/packaging.rst:26 de82b6f3ff184bc2840c78cf8df1959e
+#, fuzzy
+msgid "Fig.: Parts for packaging"
+msgstr "图：包装部件"
+
+#: ../../procedure/packaging.rst:28 2d3de486418a4749aabb551f035b9dbe
+#, fuzzy
+msgid "**2. Seal the ziplock bag hermetically**"
+msgstr "**2. 将密封袋密封**"
+
+#: ../../procedure/packaging.rst:29 e124fc1a98a441f6891721b62e65fe19
+#, fuzzy
+msgid "The seal must be completely sealed and continuous"
+msgstr "封口必须完全密封且连续"
+
+#: ../../procedure/packaging.rst:33 78b4802df546482d91d466cbbd961ff2
+#, fuzzy
+msgid "Fig.: Sealed ziplock bag"
+msgstr "图：密封的自封袋"
+
+#: ../../procedure/packaging.rst:35 6e0bc00a869043fcb271d5298143e944
+#, fuzzy
+msgid "**3. Insert the magnets**"
+msgstr "**3. 插入磁铁**"
+
+#: ../../procedure/packaging.rst:36 da42a908489e422595f80a5b45113a48
+#, fuzzy
+msgid "1x cube magnet 5x5x5 mm"
+msgstr "1x 立方体磁铁 5x5x5 毫米"
+
+#: ../../procedure/packaging.rst:37 3f781b14309842628b3d22a3432ac92e
+#, fuzzy
+msgid "4x cylinder magnets D3x4 mm"
+msgstr "4x 圆柱形磁铁 D3x4 毫米"
+
+#: ../../procedure/packaging.rst:38 3ba8c5e6341d4fcaa4bdcf86479f4bf3
+#, fuzzy
+msgid "All magnets must adhere to each other"
+msgstr "所有磁铁必须相互吸附"
+
+#: ../../procedure/packaging.rst:40 93a9e81b6247401cb4b9c3240abee4db
+#, fuzzy
+msgid "**4. Close the ziplock**"
+msgstr "**4. 盖上密封袋**"
+
+#: ../../procedure/packaging.rst:42 4c3578d569784334b575fc0d76ef1c61
+#, fuzzy
+msgid "**5. Attach the label to the back**"
+msgstr "**5. 将标签贴到背面**"
+
+#: ../../procedure/packaging.rst:44 1f5348921a7744748b261067be735f15
+#, fuzzy
+msgid "**6. Final quality check**"
+msgstr "**6. 最终质量检查**"
+
+#: ../../procedure/packaging.rst:48 140b261ca9a645f796d5316f007b1528
+#, fuzzy
+msgid "Fig.: Final product"
+msgstr "图：最终产品"
+
+#: ../../procedure/packaging.rst:53 5500148284e947c5b85119a3641c38d4
+#, fuzzy
+msgid "Acceptance"
+msgstr "验收"
+
+#: ../../procedure/packaging.rst:55 b5d8023fe0aa487494a2f7235bbdc068
+#, fuzzy
+msgid "Uniform orientation of the boards"
+msgstr "板的统一方向"
+
+#: ../../procedure/packaging.rst:56 0881de49d6e648be8856280f1143f036
+#, fuzzy
+msgid "Only tested and successfully inspected boards in the bag"
+msgstr "袋子里只有经过测试并成功检验的电路板"
+
+#: ../../procedure/packaging.rst:57 65c17276bc6445ab828104cf8aff68b6
+#, fuzzy
+msgid "Correct number of parts"
+msgstr "正确的零件数量"
+
+#: ../../procedure/packaging.rst:58 3899615f743743ab862542757f0f87cc
+#, fuzzy
+msgid "Airtight sealed board"
+msgstr "气密密封板"
+
+#: ../../procedure/packaging.rst:59 59b06bddc3e34e91b79a832645b669ee
+#, fuzzy
+msgid "Magnets above the weld seam"
+msgstr "焊缝上方的磁铁"
+
+#: ../../procedure/packaging.rst:60 37e75ea639c44a99959a013df0448313
+#, fuzzy
+msgid "No magnets in the board area"
+msgstr "电路板区域内无磁铁"
+
+#: ../../procedure/packaging.rst:61 18e1526d6f13449eb27a40fbe190d216
+#, fuzzy
+msgid "Correctly sealed bag"
+msgstr "正确密封的袋子"
