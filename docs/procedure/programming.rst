@@ -68,7 +68,7 @@ Flash procedure
 		* I approx. 18 mA
 		
 		.. image:: ../pics/Test_Adapter.jpg
-		   :scale: 30%		   
+		   :scale: 15%		   
 		Fig.: Test adapter
     
     **4. Start Flashtool**

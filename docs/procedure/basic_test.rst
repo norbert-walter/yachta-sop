@@ -27,7 +27,7 @@ Test Circuit
 Pic.: Test circuit
 
 .. image:: /pics/Test_Adapter.jpg
-             :scale: 30%			 
+             :scale: 15%			 
 Pic.: Connected programming adapter to PCB
 
 Test conditions

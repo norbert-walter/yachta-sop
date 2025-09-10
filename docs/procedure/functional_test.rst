@@ -95,4 +95,3 @@ Acceptance
     * 0/1 change for wind speed sensor
     * Current consumption < 35 mA @ 12V
 	* Label for firmware version is placed
-    
