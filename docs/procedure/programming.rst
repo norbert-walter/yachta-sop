@@ -111,7 +111,7 @@ Flash procedure
 	    Fig.: Transferring the firmware	
 		
 		.. image:: ../pics/Installation_Complete.png
-	       :scale: 50%
+:scale: 50%
 		   
 	    Fig.: Installation complete
 	    
@@ -121,7 +121,7 @@ Flash procedure
     **7. Check PCB current with running firmware (current < 35 mA)**
     
     **8. Automatic WiFi login in MyBoat**
-		LED goes out after approx. 5 seconds (PCB has logged into the MyBoat WiFi network)
+		LED goes out after approx. 5 seconds (PCB has logged into the MyBoat WiFi network)	
 
 Acceptance
 ----------

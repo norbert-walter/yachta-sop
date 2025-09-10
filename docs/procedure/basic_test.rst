@@ -26,7 +26,7 @@ Test Circuit
 			 
 Pic.: Test circuit
 
-.. image:: /pics/U5.png
+.. image:: Test_Adapter.jpg
              :scale: 30%
 			 
 Pic.: Connected programming adapter to PCB
@@ -57,7 +57,7 @@ Test procedure
         * short led flash after powering
 		
 	.. image:: ../pics/Test_Adapter.jpg
-	       :scale: 30%
+	       :scale: 15%
 		   
 	    Fig.: Test adapter
         
