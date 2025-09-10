@@ -30,7 +30,7 @@ msgstr "安全"
 msgid ""
 "Work only inside ESD protected areas (EPA) with wrist strap, ESD "
 "footwear/flooring, ESD furniture, grounded tools."
-msgstr "仅在配备有腕带、ESD 鞋/地板、ESD 家具和接地工具的 ESD 保护区 (EPA) 内工作。"
+msgstr "仅在 ESD 保护区 (EPA) 内工作，并配备腕带、ESD 鞋/地板、ESD 家具和接地工具。"
 
 #: ../../general/safety.rst:5 de023e6449064d9a915f7a8bc04021d5
 #, fuzzy
