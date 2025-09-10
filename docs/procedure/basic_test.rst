@@ -4,10 +4,10 @@ Basic electrical test
 	* Visual inspection passed
 	* Short/continuity test of power rails to GND (power supplay current limiter)
 	* Power‑on with bench PSU (current limit power source 50 mA; typically start < 20  mA)
-	* Verify reference voltages/regulators 3,3 V +/- 0,3 V
+	* Verify reference voltages/regulators 3,3 V +/- 0,3 V (only by problems)
 	* Check power supplay
-		* 12V -> max 0,3 mA
-		* 24V -> max 0,15 mA
+		* 12V -> max 18 mA
+		* 24V -> max 9 mA
 		* Overvoltage > 26V -> on power supplay current limiter activ
 	* Basic comms (UART) and programming interface check (USB login on PC)
 	* Record results (Form D1)
@@ -43,27 +43,28 @@ Test conditions
         * Connected to digiatl voltmeter
         * USB connected to PC 
 
+.. image:: /pics/U5.png
+             :scale: 30%
+			 
+Pic.: Test place with test circuit
+
 Test procedure
 --------------
 
     **1. Set power source 12V**
     
-    **2. Connect programming adapter with PCB (refer picture and pinning)**
+    **2. Connect programming adapter with PCB and switch power on (refer picture and pinning)**
         * short led flash after powering
         
-    **3. Check no-load current (max. 25 mA)**
+    **3. Check no-load current (max. 20 mA)**
     
-    **4. Set power source 12V**
+    **4. Set power source 24V**
     
-    **5. Check no-load current (max. 25 mA)**
+    **5. Check no-load current (max. 10 mA)**
     
-    **6. Set power source 24V**
+    **6. Set power source 30V**
     
-    **7. Check no-load current (max. 15 mA)**
-    
-    **8. Set power source 30V**
-    
-    **9. Check no-load current (current limiter activ)**
+    **7. Check no-load current (current limiter activ)**
 
 Acceptance
 ----------

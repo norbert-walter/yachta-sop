@@ -10,8 +10,8 @@ Programming (Flashing)
 		* Erase → Program → Verify → Set option bytes/fuses → load defaults (Complete automatic sequence)
 	* Save log with SN, FW version, timestamp (Form E1, CSV export)
 	* On failure:
-		* one retry permitted
-		* otherwise NCR and analysis
+		* Three retry permitted
+		* Otherwise NCR and analysis
 
 Web Flashtool
 -------------
@@ -30,33 +30,48 @@ Euipment
 --------
 
 	* Yachta PCB V2.1
-	* Programming adapter
 	* Power supplay 12V
-	* USB cable
-	* PC mit Chrome- oder Edge-Browser (Win / Linux / Mac)
-	* Actial Chrome web browser on PC
-	* WiFi router
+	* Provided by Open Boat Projects
+		* USB cable
+		* Programming adapter
+		* WiFi router
+	* PC mit Chrome browser (Win / Linux / Mac)
+	* Actual Chrome web browser on PC
+
 	
 Test conditions
 ---------------
 
     * Successfully completed basic test with PCB in test circuit
     * WiFi-Router connected with a Ethernet cable to PC
-        * Setup SSID: MyBoat
+        * WiFi 2.4 GHz
+		* Setup SSID: MyBoat
         * Setup WiFi assword: S6587rr94P
+		* WiFi Network IP: 192.168.20.X
+		* Router IP: 192.168.20.1
+		* User: admin
+		* Pass: admin123468#!
+		* PC connected to any LAN ports
+		* Internet connectet to WAN port
+		* WAN port has automatic DHCP
     * Same elektrical conditions as before
     * Set power source 12V
     
 Flash procedure
 ---------------    
 
-    **1. Yachta PCB put into flash mode**
+	**1. Power source off**
+    
+	**2. Insert Yachta PCB in progamming adapter**
+	
+	**3. Hold down the flash button on the programming adapter and power on with the white button**
+		* I approx. 18 mA
     
     **2. Start Flashtool**
 
 	    Next, go to the `Web Flash Tool`_ website.
 	    
-	    .. image:: ../pics/Web_Flasher1.png
+	    .. image:: ../pics/Web_Flashtool_1.png
 	       :scale: 50%
 	    Fig.: Home Web Flashtool
 
@@ -65,7 +80,7 @@ Flash procedure
 	    * **Windows:** USB JTAG/serial debug unit COMx
 	    * **Linux:** /dev/ttyACMx
 
-	    .. image:: ../pics/Serial_Connection_Win.png
+	    .. image:: ../pics/Connect.png
 	       :scale: 50%
 	    Fig.: Selecting the interface
 
@@ -74,22 +89,27 @@ Flash procedure
 	    
     **3. Transmit Firmware**
     
-	    .. image:: ../pics/Web_Flasher2.png
+	    .. image:: ../pics/Install_Windsensor_Yachta.png
 	       :scale: 50%
 	    Fig.: Start flashing process
 	    
 	    Start the installation process by selecting "INSTALL XXX FIRMWARE." A message will appear after the transfer is successful.
 	    
-	    .. image:: ../pics/Web_Flasher3.png
+	    .. image:: ../pics/Installing_Firmware.png
 	       :scale: 50%
 	    Pic.: Transferring the firmware	
+		
+		.. image:: ../pics/Installation_Complete.png
+	       :scale: 50%
+	    Pic.: Installation complete
 	    
     **4. Starting Yachta PCB**
-	    Briefly disconnect the USB connection bracket. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
+	    Power off and then power on with the white button. The firmware starts. After a short time, the LED on the microcontroller board (U2) should light up.
 	    
     **5. Check PCB current with running firmware (current < 35 mA)**
     
-    **6. Automatic WiFi login in MyBoat (LED off)**
+    **6. Automatic WiFi login in MyBoat**
+		LED goes out after approx. 5 seconds (PCB has logged into the MyBoat WiFi network)
 
 Acceptance
 ----------
