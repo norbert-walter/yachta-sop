@@ -33,8 +33,8 @@ Fig.: PCB top side V2.1
 	:scale: 70%		   
 Fig.: PCB bottom side V2.1
 		
-.. image:: ../pics/PCB_Yachta_V2.1_Bot_3D.png
-	:scale: 40%		   
+.. image:: /pics/Yachta_BCP_V2.1.png
+	:scale: 30%   
 Fig.: PCB top side 3D V2.1
 
 Online tool parts placing
