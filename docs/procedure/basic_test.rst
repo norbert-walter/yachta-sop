@@ -26,7 +26,7 @@ Test Circuit
 			 
 Pic.: Test circuit
 
-.. image:: Test_Adapter.jpg
+.. image:: /pics/Test_Adapter.jpg
              :scale: 30%			 
 Pic.: Connected programming adapter to PCB
 
@@ -43,7 +43,7 @@ Test conditions
         * USB connected to PC 
 
 .. image:: /pics/Test_Circuit_Place.jpg
-             :scale: 30%		 
+             :scale: 15%		 
 Pic.: Test place with test circuit
 
 Test procedure

@@ -38,7 +38,7 @@ Functional test procedure
     
     **2. Opening the website with web browser: `http://windsensor-0.local/devinfo`_**
 	
-.. _manufacturer's website: http://windsensor-0.local/devinfo
+.. _http://windsensor-0.local/devinfo: http://windsensor-0.local/devinfo
 	
 	**3. Check the firmware version**
 		* V1.20
@@ -54,9 +54,9 @@ Functional test procedure
         * Angle values ​​must cover 0...360°
         * Offset is uncritical
 		
-		.. image:: ../pics/Install_Windsensor_Yachta.png
-			   :scale: 50%		   
-	    Fig.: Test positions on PCB	
+	.. image:: ../pics/Install_Windsensor_Yachta.png
+		   :scale: 50%		   
+	Fig.: Test positions on PCB	
         
     **7. Check wind speed sensor on position 2 with cube magnet (note polarity)**
         * Check value **Sensor 1 (Speed)**
@@ -79,7 +79,7 @@ Functional test procedure
 	**11. Label the firmware version on the PCB backside**
 	
 		.. image:: ../pics/Firmware_Version.jpg
-			   :scale: 50%		   
+			   :scale: 20%		   
 		Fig.: Firmware version
 
 Acceptance
