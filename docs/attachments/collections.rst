@@ -26,16 +26,16 @@ Yachta PCB
 ----------
 
 .. image:: ../pics/PCB_Yachta_V2.1_Top.png
-			   :scale: 70%		   
-		Fig.: PCB top side V2.1
+	   :scale: 70%		   
+Fig.: PCB top side V2.1
 		
 .. image:: ../pics/PCB_Yachta_V2.1_Bot.png
-			   :scale: 70%		   
-		Fig.: PCB bottom side V2.1
+	   :scale: 70%		   
+Fig.: PCB bottom side V2.1
 		
 .. image:: ../pics/PCB_Yachta_V2.1_Bot_3D.png
-			   :scale: 50%		   
-		Fig.: PCB top side 3D V2.1
+	   :scale: 50%		   
+Fig.: PCB top side 3D V2.1
 
 Online tool parts placing
 -------------------------
@@ -45,5 +45,5 @@ Online tool parts placing
 .. _Online parts placing tool: https://open-boat-projects.org/wp-content/uploads/2025/03/ibom_yachta_v2.1.html
 
 .. image:: ../pics/Parts_Placing_Tool.png
-			   :scale: 50%		   
-		Fig.: Online parts placing tool
+	   :scale: 50%		   
+Fig.: Online parts placing tool
