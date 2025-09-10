@@ -36,7 +36,7 @@ Functional test procedure
 
     **1. Attach protective cover**
     
-    **2. Opening the website with web browser: `http://windsensor-0.local/devinfo`_**
+    **2. Opening the website with web browser: `http://windsensor-0.local/devinfo`_ **
 	
 .. _http://windsensor-0.local/devinfo: http://windsensor-0.local/devinfo
 	
@@ -78,9 +78,9 @@ Functional test procedure
 	
 	**11. Label the firmware version on the PCB backside**
 	
-		.. image:: ../pics/Firmware_Version.jpg
-			   :scale: 20%		   
-		Fig.: Firmware version
+	.. image:: ../pics/Firmware_Version.jpg
+		   :scale: 20%		   
+	Fig.: Firmware version
 
 Acceptance
 ----------

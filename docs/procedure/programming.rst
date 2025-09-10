@@ -67,9 +67,9 @@ Flash procedure
 	**3. Hold down the flash button on the programming adapter and power on with the white button**
 		* I approx. 18 mA
 		
-		.. image:: ../pics/Test_Adapter.jpg
-		   :scale: 15%		   
-		Fig.: Test adapter
+	.. image:: ../pics/Test_Adapter.jpg
+	   :scale: 15%		   
+	Fig.: Test adapter
     
     **4. Start Flashtool**
 
