@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-10 13:57+0000\n"
+"POT-Creation-Date: 2025-09-10 14:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,17 +20,17 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../attachments/collections.rst:2 336c143c065f49b89dc079065fdf5eb3
+#: ../../attachments/collections.rst:2 60bdb116ec7644ff9334ed54678c688b
 #, fuzzy
 msgid "Documents"
 msgstr "文件"
 
-#: ../../attachments/collections.rst:5 36d2cda7d6e04b4d9ee02fd0243d72cb
+#: ../../attachments/collections.rst:5 1b9709a6710a4bb0a90236ddad7b63a4
 #, fuzzy
 msgid "Gerber files for Yachta PCB"
 msgstr "Yachta PCB 的 Gerber 文件"
 
-#: ../../attachments/collections.rst:7 09dbf4afb9174589a2f2fcadb4bb738c
+#: ../../attachments/collections.rst:7 2dee3da4c587477f8b76b7a111566863
 #, fuzzy
 msgid ""
 "`Gerber files [ZIP] <../_static/files/Gerber_Windsensor-Yachta-"
@@ -39,12 +39,12 @@ msgstr ""
 "`Gerber files [ZIP] <../_static/files/Gerber_Windsensor-Yachta-"
 "Final-2.1_PCB_Windsensor-Yachta_2025-07-21.zip>`_"
 
-#: ../../attachments/collections.rst:10 f6aeef264030432b81c7d15d85a3f18b
+#: ../../attachments/collections.rst:10 327cf4a7abf34fdd94ff83d4938da258
 #, fuzzy
 msgid "BOM and pick and place list"
 msgstr "BOM 和拾取放置清单"
 
-#: ../../attachments/collections.rst:12 9f9dc973db4a45188a8e0f44379feaab
+#: ../../attachments/collections.rst:12 070f0d14b61d42ae81a423794e0f4b95
 #, fuzzy
 msgid ""
 "`BOM list [CSV] <../_static/files/BOM_Windsensor-Yachta-"
@@ -53,7 +53,7 @@ msgstr ""
 "`BOM list [CSV] <../_static/files/BOM_Windsensor-Yachta-"
 "Final-2.1_2025-07-21.csv>`_"
 
-#: ../../attachments/collections.rst:13 5edc35c480864812aa318ed39ce88caa
+#: ../../attachments/collections.rst:13 e110b282578b4d7aaa91310f0cfffde3
 #, fuzzy
 msgid ""
 "`Pick and place list [CSV] <../_static/files/PickAndPlace_PCB_Windsensor-"
@@ -62,23 +62,31 @@ msgstr ""
 "`Pick and place list [CSV] <../_static/files/PickAndPlace_PCB_Windsensor-"
 "Yachta_2025-07-21.csv>`_"
 
-#: ../../attachments/collections.rst:16 de4f1fe5468347989d4d0c425fc6d0f0
+#: ../../attachments/collections.rst:16 3e983d3aa009415ab98d8848321efbc7
 #, fuzzy
-msgid "PCB production details"
-msgstr "PCB生产细节"
+msgid "Production details"
+msgstr "生产细节"
 
-#: ../../attachments/collections.rst:18 958a3bf749684bb59be68dc6713da2c8
+#: ../../attachments/collections.rst:18 ece0e4d9118f422f80fd0191d3f6d6a8
 #, fuzzy
-msgid "`Production details [PNG] <../_static/files/PCB_Product_Details.png>`_"
+msgid ""
+"`PCB production details [PNG] <../_static/files/PCB_Product_Details.png>`_"
 msgstr ""
-"`Production details [PNG] <../_static/files/PCB_Product_Details.png>`_"
+"`PCB production details [PNG] <../_static/files/PCB_Product_Details.png>`_"
 
-#: ../../attachments/collections.rst:21 d9585a1c3c3641b9882e22830174571f
+#: ../../attachments/collections.rst:19 e065918e2a564f02920ada5abbdea897
+#, fuzzy
+msgid ""
+"`Short instruction list [TXT] <../_static/files/Instruction_List.txt>`_"
+msgstr ""
+"`Short instruction list [TXT] <../_static/files/Instruction_List.txt>`_"
+
+#: ../../attachments/collections.rst:22 4ae504fdfd784ffaaa8010af9a9e806c
 #, fuzzy
 msgid "Schematic"
 msgstr "示意图"
 
-#: ../../attachments/collections.rst:23 ed0a48c1a0644b2db0dcdf7fd19e18eb
+#: ../../attachments/collections.rst:24 730857ce74b543fb9d8786d7ab96673a
 #, fuzzy
 msgid ""
 "`Yachta V2.1 [PDF] <../_static/files/Schematic_Windsensor-Yachta-"
@@ -87,37 +95,37 @@ msgstr ""
 "`Yachta V2.1 [PDF] <../_static/files/Schematic_Windsensor-Yachta-"
 "Final-2.1_2025-07-21.pdf>`_"
 
-#: ../../attachments/collections.rst:26 3d9eeeff596c4cefba396e90d6147655
+#: ../../attachments/collections.rst:27 d94ecd236aa84a988f4b0786afba3c07
 #, fuzzy
 msgid "Yachta PCB"
 msgstr "游艇PCB"
 
-#: ../../attachments/collections.rst:30 c3cfd590d5fd4f228c37adf4ba9cb9f2
+#: ../../attachments/collections.rst:31 443a53bd49a245069648ba03360f1b64
 #, fuzzy
 msgid "Fig.: PCB top side V2.1"
 msgstr "图：PCB 正面 V2.1"
 
-#: ../../attachments/collections.rst:34 b3232fc489214211b58de2c234884725
+#: ../../attachments/collections.rst:35 63ed8190add14acdae5cdb17f586b23d
 #, fuzzy
 msgid "Fig.: PCB bottom side V2.1"
 msgstr "图：PCB 底部 V2.1"
 
-#: ../../attachments/collections.rst:38 d6ed06ebbac240dc98a5f7a6e1f8d457
+#: ../../attachments/collections.rst:39 730eeb8cb27b4389b38541b85fbe1862
 #, fuzzy
 msgid "Fig.: PCB top side 3D V2.1"
 msgstr "图：PCB 正面 3D V2.1"
 
-#: ../../attachments/collections.rst:41 c1f37cd2c77343b7ae89bf37b2410343
+#: ../../attachments/collections.rst:42 1a910103f5b8453c8a33e19d6b9b5799
 #, fuzzy
 msgid "Online tool parts placing"
 msgstr "在线工具零件放置"
 
-#: ../../attachments/collections.rst:43 210d0e647ec640f6ba7850f2c1317754
+#: ../../attachments/collections.rst:44 9793df29956b49068ac0b10dec480527
 #, fuzzy
 msgid "`Online parts placing tool`_"
 msgstr "`在线零件放置工具`_"
 
-#: ../../attachments/collections.rst:49 e7b5f486415b498aa84c46cd697bfad6
+#: ../../attachments/collections.rst:50 0bf90cb2f6d74480877feb0b2306094f
 #, fuzzy
 msgid "Fig.: Online parts placing tool"
 msgstr "图：在线零件放置工具"
