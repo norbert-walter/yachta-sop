@@ -6,7 +6,7 @@ Copyright and licenses must be observed when replicating the wind sensor. Anyone
 Introduction
 ------------
 
-The **Yachta Wind Sensor** project is part of **Open-Boat-Projects** and provides an open hardware and software solution for wind sensing.  
+The **Yachta Wind Sensor** project is part of **Open Boat Projects** and provides an open hardware and software solution for wind sensing.  
 The aim of the project is to encourage replication, further development, and community use. To ensure that all contributors and users understand their rights and obligations, the following licensing rules apply.
 
 License Overview
@@ -42,7 +42,7 @@ Commercial Use
 --------------
 
 Non-commercial, free use is always permitted.  
-For commercial exploitation (e.g., selling sensors or integrating into commercial products), please contact **Open-Boat-Projects** via `contact form`_.
+For commercial exploitation (e.g., selling sensors or integrating into commercial products), please contact **Open Boat Projects** via `contact form`_.
 
 .. _contact form: https://open-boat-projects.org/en/kontakt/
 
