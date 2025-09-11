@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"POT-Creation-Date: 2025-09-11 13:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,12 +20,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../quality/history.rst:2 6d385f5460d346c28e07b8e0f8a61361
+#: ../../quality/history.rst:2 917a6944060c4afdba6947f36dfcdf61
 #, fuzzy
 msgid "Revision History"
 msgstr "修订历史"
 
-#: ../../quality/history.rst:4 3c5f6423835649c681859d705b944c94
+#: ../../quality/history.rst:4 a363d5fb366144669869fe797de993f4
 #, fuzzy
 msgid ""
 "Changes to the document are made in the original document in English and "
@@ -35,9 +35,9 @@ msgid ""
 "requests. The project maintainer then grants approval."
 msgstr ""
 "文档的修改在原始英文文档中进行，主要通过 GitHub 仓库进行跟踪。必须使用有意义的提交描述。必须为每个责任级别创建单独的 GitHub "
-"用户，该用户可以通过拉取请求 (Pull Request) 对文档提出相应的修改建议。然后由项目维护者批准。"
+"用户，该用户可以通过拉取请求 (Pull Request) 提出相应的文档修改建议。然后由项目维护者批准。"
 
-#: ../../quality/history.rst:6 2f7a863352224693a7c7b5e4e8c9a93c
+#: ../../quality/history.rst:6 aef789dd1f664a9497f8c79730133ace
 #, fuzzy
 msgid ""
 "Final versions of an SOP for a production run are marked with a label and "
@@ -45,7 +45,7 @@ msgid ""
 "initials of the person responsible for release must be provided."
 msgstr "生产运行的 SOP 的最终版本会贴上标签，并以发布形式发布。发布必须填写在下方列表中。必须提供负责发布人员的姓名首字母。"
 
-#: ../../quality/history.rst:8 011a2482948b41e7891f2ad117087fa8
+#: ../../quality/history.rst:8 3c2e19ba9115480d93d81a8b61e866ab
 #, fuzzy
 msgid ""
 "The document is automatically translated into the respective target "
@@ -53,42 +53,58 @@ msgid ""
 "the original English document must be used."
 msgstr "文档修改后会自动翻译成相应的目标语言。如遇措辞歧义，则必须使用英文原版文档。"
 
-#: ../../quality/history.rst:11 917b7dcbf5ac42f897221dc2efb5a383
+#: ../../quality/history.rst:11 b0650ca36dbe421d806e5228cb778aa0
 #, fuzzy
 msgid "Release"
 msgstr "发布"
 
-#: ../../quality/history.rst:11 d835504e94a74299a044b325968b6e59
+#: ../../quality/history.rst:11 eab6ac9758434fc0bc0ccd1ce810f78c
 #, fuzzy
 msgid "Date"
 msgstr "日期"
 
-#: ../../quality/history.rst:11 00bcd4a11d6d42b7ab3cfc3f164a5ba2
+#: ../../quality/history.rst:11 462b88e62e314bfbb34ceec8d2824ae1
 #, fuzzy
 msgid "Changes"
 msgstr "变化"
 
-#: ../../quality/history.rst:11 d13d12e9eaea4271aabd5a0bfba80a0a
+#: ../../quality/history.rst:11 b6f4979570ec4228809bd20bbbf94942
 #, fuzzy
 msgid "Author"
 msgstr "作者"
 
-#: ../../quality/history.rst:13 8b18106b5bf9416abd246fe24a37acae
+#: ../../quality/history.rst:13 e6b8993b6add4668b196628a60809fc7
 #, fuzzy
 msgid "0.1"
 msgstr "0.1"
 
-#: ../../quality/history.rst:13 14d45d19a5884e7a8a208c3821eaac91
+#: ../../quality/history.rst:13 b39c21fbfff54467b7e91bb42f96b212
 #, fuzzy
 msgid "2025-08-27"
 msgstr "2025年8月27日"
 
-#: ../../quality/history.rst:13 f0430d2895074d26aa7cf38b58f7637c
+#: ../../quality/history.rst:13 2d0ed3b50fc94f9e9fdca8e7563911d6
 #, fuzzy
 msgid "Initial"
 msgstr "最初的"
 
-#: ../../quality/history.rst:13 9b1bb344fea74c5591ad84c5332c0a02
+#: ../../quality/history.rst:13 ../../quality/history.rst:15
+#: 00f94260745543fe8519410ccbaea631 3be413e7111d486fbc78fb4f5a966891
 #, fuzzy
 msgid "NW"
 msgstr "西北"
+
+#: ../../quality/history.rst:15 17c2bcddc365486698038279552af95c
+#, fuzzy
+msgid "0.2"
+msgstr "0.2"
+
+#: ../../quality/history.rst:15 3ec8fc66cd0744b783cdc8d5f94891a6
+#, fuzzy
+msgid "2025-09-11"
+msgstr "2025年9月11日"
+
+#: ../../quality/history.rst:15 68f7caf406664624a643d95ad974541a
+#, fuzzy
+msgid "Preliminary"
+msgstr "初步的"

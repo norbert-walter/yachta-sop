@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"POT-Creation-Date: 2025-09-11 13:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,57 +20,67 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../general/process.rst:2 94999173cd6b4096872fe04a6bf720e0
+#: ../../general/process.rst:2 34a082216ee14d5bb4b98f1ddbfd84e3
 #, fuzzy
 msgid "Process Overview"
 msgstr "流程概述"
 
-#: ../../general/process.rst:4 b2ef982fd1084174b3c64c8b73cbde2d
+#: ../../general/process.rst:6 67ab0e6c58c74dd797d370685b22b214
+#, fuzzy
+msgid "Fig.: Process Diagram"
+msgstr "图：流程图"
+
+#: ../../general/process.rst:8 ddc8127312a34fc6b60b67c76d604d49
 #, fuzzy
 msgid "**1)** PCB fabrication (external or in‑house)"
 msgstr "**1)** PCB 制造（外部或内部）"
 
-#: ../../general/process.rst:6 eb85d18542a64be7bbd150cbeaf2e12c
+#: ../../general/process.rst:10 da90ef6382084e3f8d614a05c777b876
 #, fuzzy
 msgid "**2)** Component Sourcing & Incoming Inspection"
 msgstr "**2)** 零部件采购和进货检验"
 
-#: ../../general/process.rst:8 a84e4179b6c44f9caf9c7af0167cc1fa
+#: ../../general/process.rst:12 eaf5c713b56a4f698973164cfdc95b97
 #, fuzzy
 msgid "**3)** Build preparation (stencil, solder paste, line setup)"
 msgstr "**3)** 构建准备（模板、焊膏、线路设置）"
 
-#: ../../general/process.rst:10 239ee69b4ec545f9bb0d772ad56f9185
+#: ../../general/process.rst:14 2eebe83f5a0340688a0c305237cf2aab
 #, fuzzy
 msgid "**4)** SMT placement & reflow"
 msgstr "**4)** SMT 贴装与回流"
 
-#: ../../general/process.rst:12 0142f51f97af4feca48f9927780710e2
+#: ../../general/process.rst:16 6d46e7ed3c3d4c17b5616333c85cc1a0
 #, fuzzy
 msgid "**5)** THT assembly & soldering (selective/wave/hand)"
 msgstr "**5）** THT 组装和焊接（选择性/波浪/手工）"
 
-#: ../../general/process.rst:14 c84dc413071744c29605ec2a96b1f063
+#: ../../general/process.rst:18 26d436bd136944dea2fd03386ab49666
 #, fuzzy
 msgid "**6)** Visual inspection (AOI/manual)"
 msgstr "**6）**目视检查（AOI/手动）"
 
-#: ../../general/process.rst:16 8e87519175e64ab0b9476a9f2846c303
+#: ../../general/process.rst:20 7b7e780b3fc64449948db0a4a3f633c9
 #, fuzzy
 msgid "**7)** Basic Electrical Test"
 msgstr "**7）**基本电气测试"
 
-#: ../../general/process.rst:18 3d80008da1e14195a49d88f14f92b258
+#: ../../general/process.rst:22 80d041c17c6e470ab8eec178128186f9
 #, fuzzy
 msgid "**8)** Programming (Flashing)"
 msgstr "**8）**编程（闪烁）"
 
-#: ../../general/process.rst:20 f88cc89a01c64a429f967e022ce6ead9
+#: ../../general/process.rst:24 58ff455602054271bf4e8f9a8233656d
 #, fuzzy
 msgid "**9)** Functional Test (FCT)"
 msgstr "9）功能测试（FCT）"
 
-#: ../../general/process.rst:22 6753babc6c7e4da6b87bbe2651fe0025
+#: ../../general/process.rst:26 867d66bea82448adb6a73b9ffc85c4bc
 #, fuzzy
 msgid "**10)** Acceptance & Packaging (FCT)"
 msgstr "**10）**验收和包装（FCT）"
+
+#: ../../general/process.rst:28 c3f77ce2facc4fefa0a2e591d59581b6
+#, fuzzy
+msgid "Edit Link: `Process Diagram`_"
+msgstr "编辑链接：`流程图`_"
