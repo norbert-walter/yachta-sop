@@ -42,6 +42,10 @@ Functional test procedure
 	
 	**3. Check the firmware version**
 		* V1.20
+	
+	.. image:: ../pics/Device_Info.png
+	   :scale: 50%		   
+	Fig.: Web page devinfo
     
     **4. Check WiFi connection quality (CQ: > 90% by short distance between router and PCB)**
     
@@ -53,7 +57,7 @@ Functional test procedure
         * Values ​​must change by 90° for a 90° magnet change
         * Angle values ​​must cover 0...360°
         * Offset is uncritical
-		
+	
 	.. image:: ../pics/Install_Windsensor_Yachta.png
 		   :scale: 50%		   
 	Fig.: Test positions on PCB	
@@ -66,6 +70,10 @@ Functional test procedure
     **8. Access the Yachta instrument page and check**
 		* `http://windsensor-0.local/windi`_
 		* Pointer must move slightly
+		
+	.. image:: ../pics/Windsensor Instrument.png
+	   :scale: 50%		   
+	Fig.: Web page devinfo
 		
 .. _http://windsensor-0.local/windi: http://windsensor-0.local/windi	
 	
