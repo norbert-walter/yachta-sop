@@ -44,7 +44,7 @@ Functional test procedure
 		* V1.20
 	
 	.. image:: ../pics/Device_Info.png
-	   :scale: 50%		   
+	   :scale: 80%		   
 	Fig.: Web page devinfo
     
     **4. Check WiFi connection quality (CQ: > 90% by short distance between router and PCB)**
@@ -72,7 +72,7 @@ Functional test procedure
 		* Pointer must move slightly
 		
 	.. image:: ../pics/Windsensor_Instrument.png
-	   :scale: 50%		   
+	   :scale: 80%		   
 	Fig.: Web page devinfo
 		
 .. _http://windsensor-0.local/windi: http://windsensor-0.local/windi	
