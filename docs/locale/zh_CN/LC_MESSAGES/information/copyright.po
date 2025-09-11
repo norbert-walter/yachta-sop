@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11 14:40+0000\n"
+"POT-Creation-Date: 2025-09-11 14:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,12 +20,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../information/copyright.rst:2 a12d5d8f184242e59224f2bbedda048c
+#: ../../information/copyright.rst:2 c151d498e0bf4eed9dc0c92bfcf53b87
 #, fuzzy
 msgid "Copyright"
 msgstr "版权"
 
-#: ../../information/copyright.rst:4 05ef1a9fb5fd4800bb337e0801c67965
+#: ../../information/copyright.rst:4 dd8e6519e8f94b53acf60d70497bd95a
 #, fuzzy
 msgid ""
 "Copyright and licenses must be observed when replicating the wind sensor. "
@@ -37,182 +37,183 @@ msgstr ""
 "复制风传感器时必须遵守版权和许可规定。任何人都可以免费复制，只要不用于商业目的或盈利。如果您有商业目的，请联系 Open Boat "
 "Projects。我们将与您沟通，探讨非独家商业使用的可能性。"
 
-#: ../../information/copyright.rst:7 97b3e59556d04e9fa1d4b329eebf5a37
+#: ../../information/copyright.rst:7 520f17e5b5ba4f84a4a55a481cc8164b
 #, fuzzy
 msgid "Introduction"
 msgstr "介绍"
 
-#: ../../information/copyright.rst:9 ccbc80d9d0d44cf286028ccb8a42749b
+#: ../../information/copyright.rst:9 849e01bb4d754ccdaed71e61caa8f907
 #, fuzzy
 msgid ""
-"The **Yachta Wind Sensor** project is part of **Open-Boat-Projects** and "
+"The **Yachta Wind Sensor** project is part of **Open Boat Projects** and "
 "provides an open hardware and software solution for wind sensing. The aim of"
 " the project is to encourage replication, further development, and community"
 " use. To ensure that all contributors and users understand their rights and "
 "obligations, the following licensing rules apply."
 msgstr ""
-"**Yachta 风传感器** 项目是 **Open-Boat-Projects** "
-"的一部分，提供用于风传感器的开源硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
+"**Yachta 风传感器** 项目是 **开放船舶项目** "
+"的一部分，提供用于风传感器的开放硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
 
-#: ../../information/copyright.rst:13 9192d93f9bc74e0086adee2458b7e5c2
+#: ../../information/copyright.rst:13 ed01db3558de4ffd9461a62b7d160fb7
 #, fuzzy
 msgid "License Overview"
 msgstr "许可证概述"
 
-#: ../../information/copyright.rst:16 a0c5044fecba45a7beebe0f7a4d8c9a4
+#: ../../information/copyright.rst:16 46a1f1bd5f8f428ea5eb7b60fb0dbb5f
 #, fuzzy
 msgid "Area"
 msgstr "区域"
 
-#: ../../information/copyright.rst:16 1ebabd126037417aa4f14d378e0c3048
+#: ../../information/copyright.rst:16 1e8b4ee15f9743cb951ec35cb9d21eac
 #, fuzzy
 msgid "License"
 msgstr "执照"
 
-#: ../../information/copyright.rst:16 eae49cc9100c4643ba8117fe80cafcba
+#: ../../information/copyright.rst:16 7289d91d54ee423eabede13b5597466c
 #, fuzzy
 msgid "Content"
 msgstr "内容"
 
-#: ../../information/copyright.rst:16 2928b29b4465457e98f6f117b7b76807
+#: ../../information/copyright.rst:16 2e32dcbd3dff4dd294cd01ee17f26448
 #, fuzzy
 msgid "Conditions"
 msgstr "状况"
 
-#: ../../information/copyright.rst:18 3c860545da884d05951a8b039bf292a2
+#: ../../information/copyright.rst:18 627404d59fdf4f719626cb31c7cdd59e
 #, fuzzy
 msgid "Documentation"
 msgstr "文档"
 
 #: ../../information/copyright.rst:18 ../../information/copyright.rst:21
-#: 4b1ef50d134347318e751f127ffbf67d edfe4b27e36249df96d9340f5a45108b
+#: 90552abdeb00433ebfc73d58480506f6 cab7ef230a0a45518523dd39b5f184cf
 #, fuzzy
 msgid "CC-BY-NC-SA 4.0"
 msgstr "CC-BY-NC-SA 4.0"
 
-#: ../../information/copyright.rst:18 e4021fadffee461f9fa6b15141750784
+#: ../../information/copyright.rst:18 aa9e340d947e4f73b87f76444dd2c614
 #, fuzzy
 msgid "Manuals, printed material"
 msgstr "手册、印刷材料"
 
-#: ../../information/copyright.rst:18 2ffc416fe4474b2496b2257f898ea49b
+#: ../../information/copyright.rst:18 e57c290b34f14b4b9a6c7609ae1f43f5
 #, fuzzy
 msgid ""
 "Free use for non-commercial purposes attribution required sharing only under"
 " the same license"
 msgstr "非商业用途免费使用，需署名，仅在同一许可下共享"
 
-#: ../../information/copyright.rst:21 c4aba0be86184a38a7a4df07ae59734a
+#: ../../information/copyright.rst:21 2e3d9072cfe64fe5922af3c76dabf731
 #, fuzzy
 msgid "Hardware"
 msgstr "硬件"
 
-#: ../../information/copyright.rst:21 41f929cb65f447fface37b6b2368e130
+#: ../../information/copyright.rst:21 a5ae8dee5f45464294ebb2cb7c1d4de6
 #, fuzzy
 msgid "PCB layouts, 2D/3D CAD files"
 msgstr "PCB布局、2D/3D CAD文件"
 
-#: ../../information/copyright.rst:21 aaa5106a431e45d79680792d276677cf
+#: ../../information/copyright.rst:21 79d85fb8db8d429ea7fbdafa79a79f81
 #, fuzzy
 msgid ""
 "Free replication for private, non-commercial use commercial use only with "
 "permission from Open-Boat-Projects"
-msgstr "仅供私人、非商业用途免费复制，商业用途需获得 Open-Boat-Projects 的许可"
+msgstr "仅供私人、非商业用途免费复制，商业用途需获得 Open-Boat-Projects 许可"
 
-#: ../../information/copyright.rst:24 1ba535ced0ad4d2f8513538772671c86
+#: ../../information/copyright.rst:24 b9088a8dea124a9a8d8b6a19e9ee89cb
 #, fuzzy
 msgid "Software"
 msgstr "软件"
 
-#: ../../information/copyright.rst:24 40acd83816d849f8b8401e3e7edc941b
+#: ../../information/copyright.rst:24 39c4e861c4514902b85747eeaf20a7ec
 #, fuzzy
 msgid "GPL v3.0"
 msgstr "GPL v3.0"
 
-#: ../../information/copyright.rst:24 023dab11468a44788a277f2bc3c6e7e3
+#: ../../information/copyright.rst:24 0887806da0c14fa8b765c3b48c1b81fb
 #, fuzzy
 msgid "Firmware, apps"
 msgstr "固件、应用程序"
 
-#: ../../information/copyright.rst:24 0c47b5c1c1924b4ba426becc0077e872
+#: ../../information/copyright.rst:24 a584bdca9cfe41c7b390c9541ffb79f2
 #, fuzzy
 msgid ""
 "Free to use, modify, and distribute, including commercially source code and "
 "license notes must be provided"
 msgstr "可以自由使用、修改和分发，包括必须提供商业源代码和许可证说明"
 
-#: ../../information/copyright.rst:29 c7b835f465ec48468b9d90fd638e1ffe
+#: ../../information/copyright.rst:29 cd0af9796a784d6a9b690769a9f12082
 #, fuzzy
 msgid "License Explanation"
 msgstr "许可证说明"
 
-#: ../../information/copyright.rst:31 c83277c670f1467aa3bf0ac4b21bf0be
+#: ../../information/copyright.rst:31 cd1752401ec34d9582e50cb3c92142f3
 #, fuzzy
 msgid "CC-BY-NC-SA 4.0:"
 msgstr "CC-BY-NC-SA 4.0："
 
-#: ../../information/copyright.rst:32 6a7d266f4e7a40b380b3a52982b55610
+#: ../../information/copyright.rst:32 1839add01eac47abb5216643f79721cf
 #, fuzzy
 msgid "BY = Attribution is required."
 msgstr "BY = 需要署名。"
 
-#: ../../information/copyright.rst:33 e57b8cb99d0d403da734ff37b7736c25
+#: ../../information/copyright.rst:33 1ac41bd0bcae42edb3a1319d7b505fac
 #, fuzzy
 msgid "NC = Use is limited to non-commercial purposes."
 msgstr "NC = 仅限非商业用途使用。"
 
-#: ../../information/copyright.rst:34 0a448aed120f4bbb947cfeaae6eafe4b
+#: ../../information/copyright.rst:34 2163db8adaad4ede98dd2618d926120c
 #, fuzzy
 msgid "SA = Modifications must be shared under the same license."
 msgstr "SA = 修改必须在同一许可证下共享。"
 
-#: ../../information/copyright.rst:36 4b82fd604b4746e694ab2b720b6a0708
+#: ../../information/copyright.rst:36 82c0259ea49c443abff8a6d15e2fdbcc
 #, fuzzy
 msgid "GPL v3.0:"
 msgstr "GPL v3.0："
 
-#: ../../information/copyright.rst:37 40b4797bebc84155b0b9840e25bfc164
+#: ../../information/copyright.rst:37 ff3a732030464c3bb6af4392c423ddcc
 #, fuzzy
 msgid "Free use, modification, and distribution, including commercial use."
 msgstr "免费使用、修改和分发，包括商业使用。"
 
-#: ../../information/copyright.rst:38 bffe1cf16e7f4596888f906697cc186f
+#: ../../information/copyright.rst:38 abf3bbc4e2ae4c36abebf5382481f476
 #, fuzzy
 msgid "The source code must remain accessible."
 msgstr "源代码必须保持可访问。"
 
-#: ../../information/copyright.rst:39 7cf7610a5187460ab0a66796e8093518
+#: ../../information/copyright.rst:39 27f5f15b5ec547a082b50c1edcb407f6
 #, fuzzy
 msgid "License notes may not be removed."
 msgstr "许可证说明不得被删除。"
 
-#: ../../information/copyright.rst:42 f9471cc902e94dec87b6eaf97ea39346
+#: ../../information/copyright.rst:42 02fffee7502c4e8ea46bd156dc29b273
 #, fuzzy
 msgid "Commercial Use"
 msgstr "商业用途"
 
-#: ../../information/copyright.rst:44 c1dd4da18a7f4bbfb405a8967f6eb6da
+#: ../../information/copyright.rst:44 f72f466e7f764783a34cfe97a2f0d0e9
 #, fuzzy
 msgid ""
 "Non-commercial, free use is always permitted. For commercial exploitation "
 "(e.g., selling sensors or integrating into commercial products), please "
-"contact **Open-Boat-Projects** contact form."
+"contact **Open Boat Projects** via `contact form`_."
 msgstr ""
-"始终允许非商业用途的免费使用。如需商业利用（例如，出售传感器或集成到商业产品中），请联系**Open-Boat-Projects**联系表单。"
+"始终允许非商业用途的免费使用。如需商业利用（例如，出售传感器或集成到商业产品中），请通过 `联系表格`_ 联系 **Open Boat "
+"Projects**。"
 
-#: ../../information/copyright.rst:47 437c5570c0c2496392095f3d4cdaace4
+#: ../../information/copyright.rst:49 7062094aacde44ffb2b821a3635cb175
 #, fuzzy
 msgid ""
 "We will then determine possible options for a non-exclusive commercial "
 "license."
 msgstr "然后，我们将确定非独占商业许可的可能选择。"
 
-#: ../../information/copyright.rst:50 e7192e944def4f7786fd2bda2b8ac84b
+#: ../../information/copyright.rst:52 f58e929c52cb4c15888a85806e5a5bab
 #, fuzzy
 msgid "Disclaimer"
 msgstr "免责声明"
 
-#: ../../information/copyright.rst:52 b28319649c0345cc8857aed85b129113
+#: ../../information/copyright.rst:54 c2897704362446e395d2395b26f3e8e0
 #, fuzzy
 msgid ""
 "The use of the provided documentation, hardware designs, and software is at "
@@ -220,12 +221,12 @@ msgid ""
 "replication, use, or further development."
 msgstr "使用所提供的文档、硬件设计和软件的风险由您自行承担。对于因复制、使用或进一步开发而造成的任何损害，我们概不负责。"
 
-#: ../../information/copyright.rst:56 fe5d17ccbce9465ba870f4caecf5d7e3
+#: ../../information/copyright.rst:58 ed090bbffad44aa3898e944498f965ad
 #, fuzzy
 msgid "Contribution"
 msgstr "贡献"
 
-#: ../../information/copyright.rst:58 e1b3687dbae846d0987df6bbbd79babb
+#: ../../information/copyright.rst:60 7e5aaa4ed8ca4574a5f3ad61f00b5696
 #, fuzzy
 msgid ""
 "Community contributions are welcome! Please note that all submitted changes,"

@@ -90,4 +90,4 @@ msgstr "确保包含电气测试 (E-test) 证书或通过样品验证"
 #: ../../procedure/pcb_manufacturing.rst:20 408267ca3eed4c62a8df1fb49687c54e
 #, fuzzy
 msgid "Release/hold in ERP/MES; record results (Form A1)"
-msgstr "在 ERP/MES 中发布/暂停；记录结果（表格 A1）"
+msgstr "在ERP/MES中发布/暂停；记录结果（表格A1）"
