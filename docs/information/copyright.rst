@@ -6,18 +6,24 @@ Copyright and licenses must be observed when replicating the wind sensor. Anyone
 Introduction
 ------------
 
-The **Yachta Windsensor** project is part of *Open-Boat-Projects* and provides an open hardware and software solution for wind sensing.  
-The aim of the project is to encourage replication, further development, and community use.  
-To ensure that all contributors and users understand their rights and obligations, the following licensing rules apply.
+The **Yachta Wind Sensor** project is part of **Open-Boat-Projects** and provides an open hardware and software solution for wind sensing.  
+The aim of the project is to encourage replication, further development, and community use. To ensure that all contributors and users understand their rights and obligations, the following licensing rules apply.
 
 License Overview
 ----------------
 
-| Area            | License       | Content                     | Conditions |
-|-----------------|--------------|-----------------------------|------------|
-| **Documentation** | CC-BY-NC-SA 4.0 | Manuals, online articles, build guides, printed material | Free use for non-commercial purposes; attribution required; sharing only under the same license |
-| **Hardware**     | CC-BY-NC-SA 4.0 | PCB layouts, 2D/3D CAD files | Free replication for private, non-commercial use; commercial use only with permission from Open-Boat-Projects |
-| **Software**     | GPL v3.0     | Firmware, apps              | Free to use, modify, and distribute, including commercially; source code and license notes must be provided |
+|--------------+----------------+-----------------------------+------------------------------------------------------------|
+| Area         | License        |Content                      |Conditions                                                  |
+|==============|================|=============================|============================================================|
+|Documentation |CC-BY-NC-SA 4.0 |Manuals, printed material    |Free use for non-commercial purposes attribution required   |
+|              |                |                             |sharing only under the same license                         |
+|--------------|----------------|-----------------------------|------------------------------------------------------------|
+|Hardware      |CC-BY-NC-SA 4.0 |PCB layouts, 2D/3D CAD files |Free replication for private, non-commercial use            |
+|              |                |                             |commercial use only with permission from Open-Boat-Projects |
+|--------------|----------------|-----------------------------|------------------------------------------------------------|
+|Software      |GPL v3.0        |Firmware, apps               |Free to use, modify, and distribute, including commercially |
+|              |                |                             |source code and license notes must be provided              |
+|--------------+----------------+-----------------------------+------------------------------------------------------------|
 
 License Explanation
 -------------------
@@ -36,7 +42,7 @@ Commercial Use
 --------------
 
 Non-commercial, free use is always permitted.  
-For commercial exploitation (e.g., selling sensors or integrating into commercial products), please contact **Open-Boat-Projects**:  
+For commercial exploitation (e.g., selling sensors or integrating into commercial products), please contact **Open-Boat-Projects** contact form.  
 
 We will then determine possible options for a non-exclusive commercial license.  
 
