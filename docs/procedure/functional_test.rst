@@ -36,7 +36,7 @@ Functional test procedure
 
     **1. Attach protective cover**
     
-    **2. Opening the website with web browser: `http://windsensor-0.local/devinfo`_ **
+    **2. Opening the website with web browser:** `http://windsensor-0.local/devinfo`_
 	
 .. _http://windsensor-0.local/devinfo: http://windsensor-0.local/devinfo
 	
@@ -85,7 +85,7 @@ Functional test procedure
     **10. Disconnect PCB**
 	
 	**11. Label the firmware version on the PCB backside**
-	
+
 	.. image:: ../pics/Firmware_Version.jpg
 		   :scale: 20%		   
 	Fig.: Firmware version
@@ -101,5 +101,5 @@ Acceptance
     * Realistic temperature values (not perfect and with offset)
     * 0...360° values for wind direction sensor
     * 0/1 change for wind speed sensor
-    * Current consumption < 35 mA @ 12V
+    * Current consumption < 35 mA at 12V
 	* Label for firmware version is placed
