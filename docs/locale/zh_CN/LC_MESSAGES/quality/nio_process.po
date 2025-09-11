@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"POT-Creation-Date: 2025-09-11 15:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,22 +20,22 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../quality/nio_process.rst:2 9b669ea7f1704747b8c3ddb1af7c3866
+#: ../../quality/nio_process.rst:2 f40168aec7cd4ff68eaf8141df88835f
 #, fuzzy
 msgid "Nonconformity / Deviations"
 msgstr "不合格/偏差"
 
-#: ../../quality/nio_process.rst:4 c60f66eea08743949aeb94e70171ce48
+#: ../../quality/nio_process.rst:4 28eb759daa1d42e29094ea8131e067ec
 #, fuzzy
-msgid "Isolate NCR units in quarantine"
-msgstr "隔离 NCR 单位"
+msgid "Isolate NCR units in quarantine and inform clients"
+msgstr "隔离 NCR 单位并通知客户"
 
-#: ../../quality/nio_process.rst:5 96ecbea5741947b885fa4330752acb3a
+#: ../../quality/nio_process.rst:5 507a1df8bbdf4a9cb0f32f3f7dc5a26e
 #, fuzzy
 msgid "MRB: rework, scrap, supplier claim, deviation permit"
 msgstr "MRB：返工、报废、供应商索赔、偏差许可"
 
-#: ../../quality/nio_process.rst:6 2787cb73a7224f8bbe7cef7efe9510a7
+#: ../../quality/nio_process.rst:6 4cd2b65865ae4be0899e34b3ed8860a0
 #, fuzzy
 msgid "8D/root cause analysis for recurring issues; record lessons learned"
 msgstr "8D/对重复出现的问题进行根本原因分析；记录经验教训"

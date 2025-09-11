@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11 15:17+0000\n"
+"POT-Creation-Date: 2025-09-11 15:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -20,99 +20,124 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../quality/checklists.rst:2 19d2444b603b46c5ac8d146290c79710
+#: ../../quality/checklists.rst:2 b7f3d31406944bd9a9fd031a488dbe2f
 #, fuzzy
 msgid "Checklists & Forms"
 msgstr "清单和表格"
 
-#: ../../quality/checklists.rst:5 53d9fb4974ea46f48f3c67c72be74e65
+#: ../../quality/checklists.rst:5 16660b32385e4d8f813ea456ae09b232
+#, fuzzy
+msgid ""
+"The checklists and forms are stored centrally and, if possible, completed "
+"online. The access code can be requested from the project manager."
+msgstr "核对清单和表格集中存储，并尽可能在线填写。访问代码可向项目经理索取。"
+
+#: ../../quality/checklists.rst:8 b291539fdb1f40faae5fde3f5aa97571
 #, fuzzy
 msgid "Form A1 – PCB Incoming Inspection"
 msgstr "表格A1 – PCB进货检验"
 
-#: ../../quality/checklists.rst:7 1f292105a5a94da08ce803b679c9a090
+#: ../../quality/checklists.rst:10 09307ae4dfc34c8fb6a0fdd87aa5b382
 #, fuzzy
 msgid "`Form A1 – PCB Incoming Inspection`_ [XLSX]"
 msgstr "`表格A1 – PCB进货检验`_ [XLSX]"
 
-#: ../../quality/checklists.rst:12 1797f5a9f2bf4fc6bb6b434eccbd33cb
+#: ../../quality/checklists.rst:15 bff0a49bd213441293bbdc898a1c48ab
 #, fuzzy
 msgid "Form B1 – Component Incoming Inspection"
 msgstr "表格 B1 – 零部件进货检验"
 
-#: ../../quality/checklists.rst:14 6d795f2a7f2c41beb1beb5796b3f49b0
+#: ../../quality/checklists.rst:17 a6404c9faa4d4ebd86d8359912250a4d
 #, fuzzy
-msgid ""
-"`Form B1 – Component Incoming Inspection [XLSX] "
-"<../_static/files/Form_B1_Component_Incoming_Inspection.xlsx>`_"
-msgstr ""
-"`Form B1 – Component Incoming Inspection [XLSX] "
-"<../_static/files/Form_B1_Component_Incoming_Inspection.xlsx>`_"
+msgid "`Form B1 – Component Incoming Inspection`_ [XLSX]"
+msgstr "`表格 B1 – 零部件进货检验`_ [XLSX]"
 
-#: ../../quality/checklists.rst:17 261bdedd1d9147ed9cddb470ac9d32f7
+#: ../../quality/checklists.rst:22 fd99297d1def4f71acfc857cf1ffa34d
 #, fuzzy
 msgid "Form C1 – Visual Inspection"
 msgstr "表格 C1 – 目视检查"
 
-#: ../../quality/checklists.rst:19 3d6d2928e7c04a1c93587274f660fdc8
+#: ../../quality/checklists.rst:24 0215b5997ee241e2be7c1120827babd4
 #, fuzzy
-msgid ""
-"`Form C1 – Visual Inspection [XLSX] "
-"<../_static/files/Form_C1_Visual_Inspection.xlsx>`_"
-msgstr ""
-"`Form C1 – Visual Inspection [XLSX] "
-"<../_static/files/Form_C1_Visual_Inspection.xlsx>`_"
+msgid "`Form C1 – Visual Inspection`_ [XLSX]"
+msgstr "`表格 C1 – 目视检查`_ [XLSX]"
 
-#: ../../quality/checklists.rst:22 022cd0b392e7437588f54a61c273f088
+#: ../../quality/checklists.rst:29 36e0f4c1d5e24513ac1b6ee3714adcb9
 #, fuzzy
 msgid "Form D1 – Electrical Basic Test"
 msgstr "表格 D1 – 电气基础测试"
 
-#: ../../quality/checklists.rst:24 29d2a873033248b298e13e1f12ab956d
+#: ../../quality/checklists.rst:31 c5b3c7e082844c6eac6d28b0b88f202c
 #, fuzzy
-msgid ""
-"`Form D1 – Electrical Basic Test [XLSX] "
-"<../_static/files/Form_D1_Electrical_Basic_Test.xlsx>`_"
-msgstr ""
-"`Form D1 – Electrical Basic Test [XLSX] "
-"<../_static/files/Form_D1_Electrical_Basic_Test.xlsx>`_"
+msgid "`Form D1 – Electrical Basic Test`_ [XLSX]"
+msgstr "`表格 D1 – 电气基础测试`_ [XLSX]"
 
-#: ../../quality/checklists.rst:27 13a16dac14a34d809abaa70cdcfc2322
+#: ../../quality/checklists.rst:36 6736e2bb82a94863986c68400bab2911
 #, fuzzy
 msgid "Form E1 – Programming"
 msgstr "表格 E1 – 编程"
 
-#: ../../quality/checklists.rst:29 2178a2d2bf2143879a2f205963f213aa
+#: ../../quality/checklists.rst:38 613347e051684afa95e5531bad9bfa51
 #, fuzzy
-msgid ""
-"`Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_"
-msgstr ""
-"`Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_"
+msgid "`Form E1 – Programming`_ [XLSX]"
+msgstr "`表格 E1 – 编程`_ [XLSX]"
 
-#: ../../quality/checklists.rst:32 083ac9906fc648419116c4fb4e430a68
+#: ../../quality/checklists.rst:43 781557080eb34f018013bdb5b85e6594
 #, fuzzy
 msgid "Form F1 – Functional Test (FCT)"
 msgstr "表格 F1 – 功能测试 (FCT)"
 
-#: ../../quality/checklists.rst:34 b18bf2070caa4194a947018ba2c6d721
+#: ../../quality/checklists.rst:45 bd282aae14774ca9b281a35249269f81
 #, fuzzy
-msgid ""
-"`Form F1 – Functional Test (FCT) [XLSX] "
-"<../_static/files/Form_F1_Functional_Test.xlsx>`_"
-msgstr ""
-"`Form F1 – Functional Test (FCT) [XLSX] "
-"<../_static/files/Form_F1_Functional_Test.xlsx>`_"
+msgid "`Form F1 – Functional Test`_ [XLSX]"
+msgstr "`表格 F1 – 功能测试`_ [XLSX]"
 
-#: ../../quality/checklists.rst:37 8ef5c50d3ecc43528b5926d005b354a2
+#: ../../quality/checklists.rst:50 3c699091197e4359a3b0f99b4ac09da8
 #, fuzzy
-msgid "Form Q1 – Non Conformity Report"
-msgstr "表格Q1 – 不合格报告"
+msgid "Form Q1 – Non Conformity Report (NCR)"
+msgstr "表格 Q1 – 不合格报告 (NCR)"
 
-#: ../../quality/checklists.rst:39 d1fa8107e91b4ed88b1914aae8b9229d
+#: ../../quality/checklists.rst:52 e3a27363ef0e4020b48f2288d35e37c6
 #, fuzzy
-msgid ""
-"`Form Q1 – Non Conformity Report (FCT) [XLSX] "
-"<../_static/files/Form_F1_Functional_Test.xlsx>`_"
-msgstr ""
-"`Form Q1 – Non Conformity Report (FCT) [XLSX] "
-"<../_static/files/Form_F1_Functional_Test.xlsx>`_"
+msgid "`Form Q1 – Non Conformity Report`_ [XLSX]"
+msgstr "`表格Q1 – 不合格报告`_ [XLSX]"
+
+#~ msgid ""
+#~ "`Form B1 – Component Incoming Inspection [XLSX] "
+#~ "<../_static/files/Form_B1_Component_Incoming_Inspection.xlsx>`_"
+#~ msgstr ""
+#~ "`Form B1 – Component Incoming Inspection [XLSX] "
+#~ "<../_static/files/Form_B1_Component_Incoming_Inspection.xlsx>`_"
+
+#~ msgid ""
+#~ "`Form C1 – Visual Inspection [XLSX] "
+#~ "<../_static/files/Form_C1_Visual_Inspection.xlsx>`_"
+#~ msgstr ""
+#~ "`Form C1 – Visual Inspection [XLSX] "
+#~ "<../_static/files/Form_C1_Visual_Inspection.xlsx>`_"
+
+#~ msgid ""
+#~ "`Form D1 – Electrical Basic Test [XLSX] "
+#~ "<../_static/files/Form_D1_Electrical_Basic_Test.xlsx>`_"
+#~ msgstr ""
+#~ "`Form D1 – Electrical Basic Test [XLSX] "
+#~ "<../_static/files/Form_D1_Electrical_Basic_Test.xlsx>`_"
+
+#~ msgid ""
+#~ "`Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_"
+#~ msgstr ""
+#~ "`Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_"
+
+#~ msgid ""
+#~ "`Form F1 – Functional Test (FCT) [XLSX] "
+#~ "<../_static/files/Form_F1_Functional_Test.xlsx>`_"
+#~ msgstr ""
+#~ "`Form F1 – Functional Test (FCT) [XLSX] "
+#~ "<../_static/files/Form_F1_Functional_Test.xlsx>`_"
+
+#~ msgid ""
+#~ "`Form Q1 – Non Conformity Report (FCT) [XLSX] "
+#~ "<../_static/files/Form_F1_Functional_Test.xlsx>`_"
+#~ msgstr ""
+#~ "`Form Q1 – Non Conformity Report (FCT) [XLSX] "
+#~ "<../_static/files/Form_F1_Functional_Test.xlsx>`_"

@@ -214,7 +214,7 @@ msgstr "密码：admin123468#！"
 #: ../../procedure/programming.rst:54 738536590ca74aeca84b31556e51ba2b
 #, fuzzy
 msgid "PC connected to any LAN ports"
-msgstr "连接到任意 LAN 端口的 PC"
+msgstr "连接至任意 LAN 端口的 PC"
 
 #: ../../procedure/programming.rst:55 c3a9dc10912d4884ac16b0a5b1c44f72
 #, fuzzy
