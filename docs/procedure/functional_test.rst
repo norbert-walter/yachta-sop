@@ -71,7 +71,7 @@ Functional test procedure
 		* `http://windsensor-0.local/windi`_
 		* Pointer must move slightly
 		
-	.. image:: ../pics/Windsensor Instrument.png
+	.. image:: ../pics/Windsensor_Instrument.png
 	   :scale: 50%		   
 	Fig.: Web page devinfo
 		
