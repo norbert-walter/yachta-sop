@@ -4,7 +4,9 @@ Checklists & Forms
 Form A1 – PCB Incoming Inspection
 ---------------------------------
 
-* `Form A1 – PCB Incoming Inspection [XLSX] <../_static/files/Form_A1_PCB_Incoming_Inspection.xlsx>`_
+* `Form A1 – PCB Incoming Inspection`_ [XLSX]
+
+.. _Form A1 – PCB Incoming Inspection: https://cryptpad.disroot.org/diagram/#/2/diagram/edit/cgOYoZsNX4Ax2wKQQ-6QN+1V/p/
 				
 Form B1 – Component Incoming Inspection
 ---------------------------------------

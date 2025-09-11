@@ -55,7 +55,7 @@ This document relates to the production of a circuit board for the Yachta wind s
    Acceptance criteria <quality/acceptance>
    Traceability & Records <quality/trace>
    NIO process / Deviations <quality/nio_process>
-   Checklists & Forms (templates) <quality/templates>
+   Checklists & Forms <quality/checklists>
    Process parameters <quality/parameters>
    Change history <quality/history>
    
