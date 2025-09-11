@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 19:27+0000\n"
+"POT-Creation-Date: 2025-09-11 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -167,6 +167,11 @@ msgstr "附件"
 
 #: ../../index.rst:69
 #, fuzzy
+msgid "Copyright"
+msgstr "版权"
+
+#: ../../index.rst:69
+#, fuzzy
 msgid "Glossar"
 msgstr "词汇表"
 
@@ -180,27 +185,27 @@ msgstr "关于我们"
 msgid "Info"
 msgstr "信息"
 
-#: ../../index.rst:3 76aa1c51933d445caa5778335f6e5645
+#: ../../index.rst:3 3f7baca5b00e4044b109aea90df42bec
 #, fuzzy
 msgid "Yachta PCB SOP"
 msgstr "Yachta PCB SOP"
 
-#: ../../index.rst:4 9804bedf172f46c784f29468f77c3b3a
+#: ../../index.rst:4 063aa2df3149455ba828c7140e30fc25
 #, fuzzy
 msgid "Last update |today|"
 msgstr "最后更新 |today|"
 
-#: ../../index.rst:6 099f755044b74897a5c0f55b4ed16453
+#: ../../index.rst:6 2a21b9189bd741679862dc9ed995882b
 #, fuzzy
 msgid "Documentation Status"
 msgstr "文档状态"
 
-#: ../../index.rst:10 aea8d0266aec4170a1a27ba0b0889beb
+#: ../../index.rst:10 faabcbf962034a28aeaf61b4ca4e824a
 #, fuzzy
 msgid "These pages are still under construction."
 msgstr "这些页面仍在建设中。"
 
-#: ../../index.rst:15 ef1348b3feb4478787c1b3206d9a07aa
+#: ../../index.rst:15 33786ddf91814599861ef720204ddd7d
 #, fuzzy
 msgid ""
 "The SOP document describes standard operating procedures for the manufacture"
@@ -214,7 +219,7 @@ msgstr ""
 "文件描述了子产品或成品制造的标准操作程序，并详细描述了特定任务或流程的逐步执行。该书面说明旨在标准化流程、最大限度地减少错误、提高效率并确保遵守公司政策和法律要求。SOP"
 " 在制造业中尤为重要，有助于确保一致性和质量。"
 
-#: ../../index.rst:17 4ffd4de1f8c142fd83e4533096fc0024
+#: ../../index.rst:17 31f8796b3e4449c194ac43249bee7cf3
 #, fuzzy
 msgid ""
 "This document relates to the production of a circuit board for the Yachta "

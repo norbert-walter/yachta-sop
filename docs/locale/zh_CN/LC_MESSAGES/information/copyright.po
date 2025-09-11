@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Open Boat Projects
+# This file is distributed under the same license as the Yachta PCB SOP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yachta PCB SOP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-11 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../information/copyright.rst:2 ca775811e38347e8a47c5b33c215c667
+#, fuzzy
+msgid "Copyright"
+msgstr "版权"
+
+#: ../../information/copyright.rst:4 28067c2ccd1a4602bf4bfa4e264c108b
+#, fuzzy
+msgid ""
+"Copyright and licenses must be observed when replicating the wind sensor. "
+"Anyone can replicate it free of charge, as long as there are no commercial "
+"intentions or profits from it. If you have commercial intentions, please "
+"contact Open Boat Projects. We will then clarify the possibilities for non-"
+"exclusive commercial use."
+msgstr ""
+"复制风传感器时必须遵守版权和许可规定。任何人都可以免费复制，只要不用于商业目的或盈利。如果您有商业目的，请联系 Open Boat "
+"Projects。我们将与您沟通，探讨非独家商业使用的可能性。"
+
+#: ../../information/copyright.rst:7 c56693e358a043aa93186b8fbc32211d
+#, fuzzy
+msgid "Introduction"
+msgstr "介绍"
+
+#: ../../information/copyright.rst:9 f3c1f4f2f90144048ffa1a5f5f7ec9e5
+#, fuzzy
+msgid ""
+"The **Yachta Windsensor** project is part of *Open-Boat-Projects* and "
+"provides an open hardware and software solution for wind sensing. The aim of"
+" the project is to encourage replication, further development, and community"
+" use. To ensure that all contributors and users understand their rights and "
+"obligations, the following licensing rules apply."
+msgstr ""
+"**Yachta Windsensor** 项目是 *Open-Boat-Projects* "
+"的一部分，提供用于风力传感的开源硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
+
+#: ../../information/copyright.rst:14 581b0fafbfbf4a86813f96033132c10d
+#, fuzzy
+msgid "License Overview"
+msgstr "许可证概述"
+
+#: ../../information/copyright.rst:16 da57097ced6e4ad6ae5a01575f9e9312
+#, fuzzy
+msgid ""
+"Area            | License       | Content                     | Conditions |"
+msgstr "区域 | License       | 内容 | Conditions |"
+
+#: ../../information/copyright.rst:17 8907f627b83b492bab6a3ee400488ca5
+#, fuzzy
+msgid ""
+"|-----------------|--------------|-----------------------------|------------|"
+" | **Documentation** | CC-BY-NC-SA 4.0 | Manuals, online articles, build "
+"guides, printed material | Free use for non-commercial purposes; attribution"
+" required; sharing only under the same license | | **Hardware**     | CC-BY-"
+"NC-SA 4.0 | PCB layouts, 2D/3D CAD files | Free replication for private, "
+"non-commercial use; commercial use only with permission from Open-Boat-"
+"Projects | | **Software**     | GPL v3.0     | Firmware, apps              |"
+" Free to use, modify, and distribute, including commercially; source code "
+"and license notes must be provided |"
+msgstr ""
+"|-----------------|-----------|-----------------------------|------------| |"
+" **文档** | CC-BY-NC-SA 4.0 | 手册、在线文章、构建指南、印刷材料 | Free use for non-commercial "
+"purposes; attribution required; sharing only under the same license | | "
+"**Hardware**     | CC-BY-NC-SA 4.0 | PCB layouts, 2D/3D CAD files | "
+"可免费复制用于私人、非商业用途；仅经 Open-Boat-Projects 许可可用于商业用途 | | **软件** | GPL v3.0     | "
+"固件、应用程序 | Free to use, modify, and distribute, including commercially; "
+"source code and license notes must be provided |"
+
+#: ../../information/copyright.rst:23 8d5339c691fd4524baff9278124ee917
+#, fuzzy
+msgid "License Explanation"
+msgstr "许可证说明"
+
+#: ../../information/copyright.rst:25 c2db2a6e17834274b2588d86d9e8f093
+#, fuzzy
+msgid "CC-BY-NC-SA 4.0:"
+msgstr "CC-BY-NC-SA 4.0："
+
+#: ../../information/copyright.rst:26 adf30bb337c64b93a44f1acec64c9a50
+#, fuzzy
+msgid "BY = Attribution is required."
+msgstr "BY = 需要署名。"
+
+#: ../../information/copyright.rst:27 4593c63b0a8b40b99ef5f371d5298670
+#, fuzzy
+msgid "NC = Use is limited to non-commercial purposes."
+msgstr "NC = 仅限非商业用途使用。"
+
+#: ../../information/copyright.rst:28 998bc4172050479bacae293fbe68b47c
+#, fuzzy
+msgid "SA = Modifications must be shared under the same license."
+msgstr "SA = 修改必须在同一许可证下共享。"
+
+#: ../../information/copyright.rst:30 c60ea04135674a999e259211d6069f3e
+#, fuzzy
+msgid "GPL v3.0:"
+msgstr "GPL v3.0："
+
+#: ../../information/copyright.rst:31 1bbcccb824da47dca89b140720839470
+#, fuzzy
+msgid "Free use, modification, and distribution, including commercial use."
+msgstr "免费使用、修改和分发，包括商业使用。"
+
+#: ../../information/copyright.rst:32 5a73b31c495e4d9c9239137da1cc3ef9
+#, fuzzy
+msgid "The source code must remain accessible."
+msgstr "源代码必须保持可访问。"
+
+#: ../../information/copyright.rst:33 c5c0ca6d2e86469885c4963e374e7c33
+#, fuzzy
+msgid "License notes may not be removed."
+msgstr "许可证说明不得被删除。"
+
+#: ../../information/copyright.rst:36 81bac3cb272e42829d0ee8596db2b5e0
+#, fuzzy
+msgid "Commercial Use"
+msgstr "商业用途"
+
+#: ../../information/copyright.rst:38 c38dc41746da4f9eb3188bb1e5e96a18
+#, fuzzy
+msgid ""
+"Non-commercial, free use is always permitted. For commercial exploitation "
+"(e.g., selling sensors or integrating into commercial products), please "
+"contact **Open-Boat-Projects**:"
+msgstr "始终允许非商业用途的免费使用。如需商业利用（例如，出售传感器或集成到商业产品中），请联系**Open-Boat-Projects**："
+
+#: ../../information/copyright.rst:41 d892fad5f6344c32a09e6239a091d866
+#, fuzzy
+msgid ""
+"We will then determine possible options for a non-exclusive commercial "
+"license."
+msgstr "然后，我们将确定非独占商业许可的可能选择。"
+
+#: ../../information/copyright.rst:44 0838c42ab29340b68703a1ab0508b97e
+#, fuzzy
+msgid "Disclaimer"
+msgstr "免责声明"
+
+#: ../../information/copyright.rst:46 8fd006969ab44d9aaa925e31421b8cf3
+#, fuzzy
+msgid ""
+"The use of the provided documentation, hardware designs, and software is at "
+"your own risk. No liability is assumed for any damages arising from "
+"replication, use, or further development."
+msgstr "使用所提供的文档、硬件设计和软件的风险由您自行承担。对于因复制、使用或进一步开发而造成的任何损害，我们概不负责。"
+
+#: ../../information/copyright.rst:50 e641298d466c48b3af08af4519aa5674
+#, fuzzy
+msgid "Contribution"
+msgstr "贡献"
+
+#: ../../information/copyright.rst:52 ae183598ceb44a93bf57cb7336747181
+#, fuzzy
+msgid ""
+"Community contributions are welcome! Please note that all submitted changes,"
+" extensions, or documentation will also be published under the licenses "
+"mentioned above."
+msgstr "欢迎社区贡献！请注意，所有提交的更改、扩展或文档也将按照上述许可证发布。"
