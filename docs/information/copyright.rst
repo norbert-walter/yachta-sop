@@ -42,7 +42,9 @@ Commercial Use
 --------------
 
 Non-commercial, free use is always permitted.  
-For commercial exploitation (e.g., selling sensors or integrating into commercial products), please contact **Open-Boat-Projects** contact form.  
+For commercial exploitation (e.g., selling sensors or integrating into commercial products), please contact **Open-Boat-Projects** via `contact form`_.
+
+.. _contact form: https://open-boat-projects.org/en/kontakt/
 
 We will then determine possible options for a non-exclusive commercial license.  
 
