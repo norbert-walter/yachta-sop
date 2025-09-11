@@ -1,9 +1,11 @@
 Process Overview
 ================
 
-.. image:: ../pics/Parts.jpg
+.. image:: ../pics/Process_Diagram.png
 	   :scale: 15%
-Fig.: Process Diagram
+Edit Link: `Process Diagram`_
+
+.. _Process Diagram: https://cryptpad.disroot.org/diagram/#/2/diagram/edit/cgOYoZsNX4Ax2wKQQ-6QN+1V/p/
 
 **1)** PCB fabrication (external or in‑house)
 
@@ -25,9 +27,6 @@ Fig.: Process Diagram
 
 **10)** Acceptance & Packaging (FCT)
 
-Edit Link: `Process Diagram`_
-
-.. _Process Diagram: https://cryptpad.disroot.org/diagram/#/2/diagram/edit/cgOYoZsNX4Ax2wKQQ-6QN+1V/p/
 
 
 
