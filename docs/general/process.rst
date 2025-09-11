@@ -1,6 +1,10 @@
 Process Overview
 ================
 
+.. image:: ../pics/Parts.jpg
+	   :scale: 15%
+Fig.: Process Diagram
+
 **1)** PCB fabrication (external or in‑house)
 
 **2)** Component Sourcing & Incoming Inspection
@@ -20,6 +24,12 @@ Process Overview
 **9)** Functional Test (FCT)
 
 **10)** Acceptance & Packaging (FCT)
+
+Edit Link: `Process Diagram`_
+
+.. _Process Diagram: https://cryptpad.disroot.org/diagram/#/2/diagram/edit/cgOYoZsNX4Ax2wKQQ-6QN+1V/p/
+
+
 
 
 
