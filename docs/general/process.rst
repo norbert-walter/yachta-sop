@@ -25,7 +25,7 @@ Edit Link: `Process Diagram`_
 
 **9)** Functional Test (FCT)
 
-**10)** Acceptance & Packaging (FCT)
+**10)** Acceptance & Packaging
 
 
 
