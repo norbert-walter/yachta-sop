@@ -51,8 +51,8 @@ msgid ""
 " use. To ensure that all contributors and users understand their rights and "
 "obligations, the following licensing rules apply."
 msgstr ""
-"**Yachta 风传感器** 项目是 **开放船舶项目** "
-"的一部分，提供用于风传感器的开放硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
+"**Yachta 风力传感器** 项目是 **开放船舶项目** "
+"的一部分，提供用于风力传感的开放硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
 
 #: ../../information/copyright.rst:13 ed01db3558de4ffd9461a62b7d160fb7
 #, fuzzy
@@ -110,14 +110,14 @@ msgstr "硬件"
 #: ../../information/copyright.rst:21 a5ae8dee5f45464294ebb2cb7c1d4de6
 #, fuzzy
 msgid "PCB layouts, 2D/3D CAD files"
-msgstr "PCB布局、2D/3D CAD文件"
+msgstr "PCB 布局、2D/3D CAD 文件"
 
 #: ../../information/copyright.rst:21 79d85fb8db8d429ea7fbdafa79a79f81
 #, fuzzy
 msgid ""
 "Free replication for private, non-commercial use commercial use only with "
 "permission from Open-Boat-Projects"
-msgstr "仅供私人、非商业用途免费复制，商业用途需获得 Open-Boat-Projects 许可"
+msgstr "仅供私人、非商业用途免费复制，商业用途需获得 Open-Boat-Projects 的许可"
 
 #: ../../information/copyright.rst:24 b9088a8dea124a9a8d8b6a19e9ee89cb
 #, fuzzy

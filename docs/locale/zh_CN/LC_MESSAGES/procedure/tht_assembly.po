@@ -28,7 +28,7 @@ msgstr "THT组装和焊接"
 #: ../../procedure/tht_assembly.rst:4 f9b153662b724c0ba7737e722dc0c724
 #, fuzzy
 msgid "Insert parts; lead length/stand‑off per drawing"
-msgstr "插入零件；引线长度/间距按图纸确定"
+msgstr "插入零件；引线长度/间距按图纸计算"
 
 #: ../../procedure/tht_assembly.rst:5 70c2bb2a7f7442f8aaac8b3d1e4f59d6
 #, fuzzy

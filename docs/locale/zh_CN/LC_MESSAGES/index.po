@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yachta PCB SOP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11 14:26+0000\n"
+"POT-Creation-Date: 2025-09-11 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -137,8 +137,8 @@ msgstr "NIO 流程/偏差"
 
 #: ../../index.rst:50
 #, fuzzy
-msgid "Checklists & Forms (templates)"
-msgstr "清单和表格（模板）"
+msgid "Checklists & Forms"
+msgstr "清单和表格"
 
 #: ../../index.rst:50
 #, fuzzy
@@ -185,27 +185,27 @@ msgstr "关于我们"
 msgid "Info"
 msgstr "信息"
 
-#: ../../index.rst:3 3f7baca5b00e4044b109aea90df42bec
+#: ../../index.rst:3 ab0ed2c63a1e4bcb9dde1fda33150fb9
 #, fuzzy
 msgid "Yachta PCB SOP"
 msgstr "Yachta PCB SOP"
 
-#: ../../index.rst:4 063aa2df3149455ba828c7140e30fc25
+#: ../../index.rst:4 be9d8b768c9c47328c5f8a37854d55c1
 #, fuzzy
 msgid "Last update |today|"
 msgstr "最后更新 |today|"
 
-#: ../../index.rst:6 2a21b9189bd741679862dc9ed995882b
+#: ../../index.rst:6 a3c411c567de4bd798b4dbe5b6115fcb
 #, fuzzy
 msgid "Documentation Status"
 msgstr "文档状态"
 
-#: ../../index.rst:10 faabcbf962034a28aeaf61b4ca4e824a
+#: ../../index.rst:10 09e60e17d9544b9abeaa808806557605
 #, fuzzy
 msgid "These pages are still under construction."
 msgstr "这些页面仍在建设中。"
 
-#: ../../index.rst:15 33786ddf91814599861ef720204ddd7d
+#: ../../index.rst:15 ae3963d6e9a14f92b7fc73ebc8fdae5b
 #, fuzzy
 msgid ""
 "The SOP document describes standard operating procedures for the manufacture"
@@ -219,7 +219,7 @@ msgstr ""
 "文件描述了子产品或成品制造的标准操作程序，并详细描述了特定任务或流程的逐步执行。该书面说明旨在标准化流程、最大限度地减少错误、提高效率并确保遵守公司政策和法律要求。SOP"
 " 在制造业中尤为重要，有助于确保一致性和质量。"
 
-#: ../../index.rst:17 31f8796b3e4449c194ac43249bee7cf3
+#: ../../index.rst:17 fd722241bb3d4d95acf071d5124e443c
 #, fuzzy
 msgid ""
 "This document relates to the production of a circuit board for the Yachta "

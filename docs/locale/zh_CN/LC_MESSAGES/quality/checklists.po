@@ -20,31 +20,27 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../quality/templates.rst:2 848df5440688420e8e3d67d22d130ca4
+#: ../../quality/checklists.rst:2 19d2444b603b46c5ac8d146290c79710
 #, fuzzy
 msgid "Checklists & Forms"
 msgstr "清单和表格"
 
-#: ../../quality/templates.rst:5 799b1d67211145cab7bfad9052e517c5
+#: ../../quality/checklists.rst:5 53d9fb4974ea46f48f3c67c72be74e65
 #, fuzzy
 msgid "Form A1 – PCB Incoming Inspection"
 msgstr "表格A1 – PCB进货检验"
 
-#: ../../quality/templates.rst:7 3a543d96104e4af895f2d2afadc83b7c
+#: ../../quality/checklists.rst:7 1f292105a5a94da08ce803b679c9a090
 #, fuzzy
-msgid ""
-"`Form A1 – PCB Incoming Inspection [XLSX] "
-"<../_static/files/Form_A1_PCB_Incoming_Inspection.xlsx>`_"
-msgstr ""
-"`Form A1 – PCB Incoming Inspection [XLSX] "
-"<../_static/files/Form_A1_PCB_Incoming_Inspection.xlsx>`_"
+msgid "`Form A1 – PCB Incoming Inspection`_ [XLSX]"
+msgstr "`表格A1 – PCB进货检验`_ [XLSX]"
 
-#: ../../quality/templates.rst:10 9068a2461a7a437d90abed3091a10b3c
+#: ../../quality/checklists.rst:12 1797f5a9f2bf4fc6bb6b434eccbd33cb
 #, fuzzy
 msgid "Form B1 – Component Incoming Inspection"
 msgstr "表格 B1 – 零部件进货检验"
 
-#: ../../quality/templates.rst:12 c6447bef18c9436f97b046da23589079
+#: ../../quality/checklists.rst:14 6d795f2a7f2c41beb1beb5796b3f49b0
 #, fuzzy
 msgid ""
 "`Form B1 – Component Incoming Inspection [XLSX] "
@@ -53,12 +49,12 @@ msgstr ""
 "`Form B1 – Component Incoming Inspection [XLSX] "
 "<../_static/files/Form_B1_Component_Incoming_Inspection.xlsx>`_"
 
-#: ../../quality/templates.rst:15 f986a6f8e44f4bfeb4be3483fbb28453
+#: ../../quality/checklists.rst:17 261bdedd1d9147ed9cddb470ac9d32f7
 #, fuzzy
 msgid "Form C1 – Visual Inspection"
 msgstr "表格 C1 – 目视检查"
 
-#: ../../quality/templates.rst:17 5668f861d08f473fb54e71d87ae64240
+#: ../../quality/checklists.rst:19 3d6d2928e7c04a1c93587274f660fdc8
 #, fuzzy
 msgid ""
 "`Form C1 – Visual Inspection [XLSX] "
@@ -67,12 +63,12 @@ msgstr ""
 "`Form C1 – Visual Inspection [XLSX] "
 "<../_static/files/Form_C1_Visual_Inspection.xlsx>`_"
 
-#: ../../quality/templates.rst:20 0758344320cb45d180ceb56a8bc1054b
+#: ../../quality/checklists.rst:22 022cd0b392e7437588f54a61c273f088
 #, fuzzy
 msgid "Form D1 – Electrical Basic Test"
 msgstr "表格 D1 – 电气基础测试"
 
-#: ../../quality/templates.rst:22 ca4d3162ee9c4f849317bf6876fae86d
+#: ../../quality/checklists.rst:24 29d2a873033248b298e13e1f12ab956d
 #, fuzzy
 msgid ""
 "`Form D1 – Electrical Basic Test [XLSX] "
@@ -81,24 +77,24 @@ msgstr ""
 "`Form D1 – Electrical Basic Test [XLSX] "
 "<../_static/files/Form_D1_Electrical_Basic_Test.xlsx>`_"
 
-#: ../../quality/templates.rst:25 fc1b7fa578644f8f942c7f71e5b3d701
+#: ../../quality/checklists.rst:27 13a16dac14a34d809abaa70cdcfc2322
 #, fuzzy
 msgid "Form E1 – Programming"
 msgstr "表格 E1 – 编程"
 
-#: ../../quality/templates.rst:27 8bf3e56cc4744a42a354e23fa3977457
+#: ../../quality/checklists.rst:29 2178a2d2bf2143879a2f205963f213aa
 #, fuzzy
 msgid ""
 "`Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_"
 msgstr ""
 "`Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_"
 
-#: ../../quality/templates.rst:30 8c45c15b76214c3094a6a0ad830e78db
+#: ../../quality/checklists.rst:32 083ac9906fc648419116c4fb4e430a68
 #, fuzzy
 msgid "Form F1 – Functional Test (FCT)"
 msgstr "表格 F1 – 功能测试 (FCT)"
 
-#: ../../quality/templates.rst:32 4e4f07c41c5a4971b4c07eea338a637d
+#: ../../quality/checklists.rst:34 b18bf2070caa4194a947018ba2c6d721
 #, fuzzy
 msgid ""
 "`Form F1 – Functional Test (FCT) [XLSX] "
@@ -107,12 +103,12 @@ msgstr ""
 "`Form F1 – Functional Test (FCT) [XLSX] "
 "<../_static/files/Form_F1_Functional_Test.xlsx>`_"
 
-#: ../../quality/templates.rst:35 f106abae425741fc82b3f0111b278eb1
+#: ../../quality/checklists.rst:37 8ef5c50d3ecc43528b5926d005b354a2
 #, fuzzy
 msgid "Form Q1 – Non Conformity Report"
 msgstr "表格Q1 – 不合格报告"
 
-#: ../../quality/templates.rst:37 836b3b188e2f4f5c923b2e04e86d7c24
+#: ../../quality/checklists.rst:39 d1fa8107e91b4ed88b1914aae8b9229d
 #, fuzzy
 msgid ""
 "`Form Q1 – Non Conformity Report (FCT) [XLSX] "
@@ -120,36 +116,3 @@ msgid ""
 msgstr ""
 "`Form Q1 – Non Conformity Report (FCT) [XLSX] "
 "<../_static/files/Form_F1_Functional_Test.xlsx>`_"
-
-#~ msgid ""
-#~ "Check item      Result (OK/NOK) Comment Inspector       Date "
-#~ "Packaging/ESD/humidity card Solder mask/legend/finish "
-#~ "Drills/milling/dimensions Markings (rev., date code) Electrical E‑test "
-#~ "provided"
-#~ msgstr ""
-#~ "检查项目 结果（OK/NOK） 注释 检查员 日期 包装/ESD/湿度卡 阻焊层/图例/表面处理 钻孔/铣削/尺寸 标记（修订版、日期代码） "
-#~ "提供电气电子测试"
-
-#~ msgid ""
-#~ "Pos.    MPN     Qty     Date/lot code   MSL     Check (OK/NOK)  Comment"
-#~ msgstr "位置 MPN 数量 日期/批号 MSL 检查 (OK/NOK) 备注"
-
-#~ msgid ""
-#~ "SN      Scope   IPC class       OK/NOK  Finding/photo ID        Inspector"
-#~ "       Date"
-#~ msgstr "SN 范围 IPC 等级 OK/NOK 发现/照片 ID 检查员 日期"
-
-#~ msgid ""
-#~ "SN      Shorts OK       Power‑on OK     Vref (V)        I_in (mA)       "
-#~ "Interfaces      OK/NOK  Inspector"
-#~ msgstr "SN 短路 OK 上电 OK Vref (V) I_in (mA) 接口 OK/NOK 检查器"
-
-#~ msgid ""
-#~ "SN      FW version      Tool/adapter    Erase   Program Verify  "
-#~ "Parameterization        OK/NOK  Timestamp"
-#~ msgstr "SN FW 版本工具/适配器擦除程序验证参数化 OK/NOK 时间戳"
-
-#~ msgid ""
-#~ "SN      Test script     Test points     Within limits   Duration        "
-#~ "OK/NOK  Log archived    Inspector"
-#~ msgstr "序列号 测试脚本 测试点 在限制范围内 持续时间 OK/NOK 日志存档 检查员"
