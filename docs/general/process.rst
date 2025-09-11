@@ -2,7 +2,7 @@ Process Overview
 ================
 
 .. image:: ../pics/Process_Diagram.png
-	   :scale: 50%
+	   :scale: 80%
 Edit Link: `Process Diagram`_
 
 .. _Process Diagram: https://cryptpad.disroot.org/diagram/#/2/diagram/edit/cgOYoZsNX4Ax2wKQQ-6QN+1V/p/
