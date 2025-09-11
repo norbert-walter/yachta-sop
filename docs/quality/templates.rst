@@ -4,34 +4,29 @@ Checklists & Templates
 Form A1 – PCB Incoming Inspection
 ---------------------------------
 
-Check item	Result (OK/NOK)	Comment	Inspector	Date
-Packaging/ESD/humidity card				
-Solder mask/legend/finish				
-Drills/milling/dimensions				
-Markings (rev., date code)				
-Electrical E‑test provided
+* `Form A1 – PCB Incoming Inspection [XLSX] <../_static/files/Form_A1_PCB_Incoming_Inspection.xlsx>`_
 				
 Form B1 – Component Incoming Inspection
 ---------------------------------------
 
-Pos.	MPN	Qty	Date/lot code	MSL	Check (OK/NOK)	Comment
+* `Form B1 – Component Incoming Inspection [XLSX] <../_static/files/Form_B1_Component_Incoming_Inspection.xlsx>`_
 
 Form C1 – Visual Inspection
 ---------------------------
 
-SN	Scope	IPC class	OK/NOK	Finding/photo ID	Inspector	Date
+* `Form C1 – Visual Inspection [XLSX] <../_static/files/Form_C1_Visual_Inspection.xlsx>`_
 
-Form D1 – Electrical Bring‑Up
------------------------------
+Form D1 – Electrical Basic Test
+-------------------------------
 
-SN	Shorts OK	Power‑on OK	Vref (V)	I_in (mA)	Interfaces	OK/NOK	Inspector
+* `Form D1 – Electrical Basic Test [XLSX] <../_static/files/Form_D1_Electrical_Basic_Test.xlsx>`_
 
 Form E1 – Programming
 ---------------------
 
-SN	FW version	Tool/adapter	Erase	Program	Verify	Parameterization	OK/NOK	Timestamp
+* `Form E1 – Programming [XLSX] <../_static/files/Form_E1_Programming.xlsx>`_
 
 Form F1 – Functional Test (FCT)
 -------------------------------
 
-SN	Test script	Test points	Within limits	Duration	OK/NOK	Log archived	Inspector
+* `Form F1 – Functional Test (FCT) [XLSX] <../_static/files/Form_F1_Functional_Test.xlsx>`_
