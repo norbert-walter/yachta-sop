@@ -71,6 +71,7 @@ This document relates to the production of a circuit board for the Yachta wind s
    :caption: Info
    :name: sec-info
 
+   Copyright <information/copyright>
    Glossar <information/glossar>
    Abou us <information/about_us>
    
