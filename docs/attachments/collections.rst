@@ -42,7 +42,8 @@ Online tool parts placing
 -------------------------
 
 .. link:: https://open-boat-projects.org/wp-content/uploads/2025/03/ibom_yachta_v2.1.html
-	.. image:: ../pics/Parts_Placing_Tool.png
+
+.. image:: ../pics/Parts_Placing_Tool.png
 	
 .. raw:: html
 
