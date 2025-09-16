@@ -35,7 +35,7 @@ msgid ""
 "requests. The project maintainer then grants approval."
 msgstr ""
 "文档的修改在原始英文文档中进行，主要通过 GitHub 仓库进行跟踪。必须使用有意义的提交描述。必须为每个责任级别创建单独的 GitHub "
-"用户，该用户可以通过拉取请求 (Pull Request) 对文档提出相应的修改建议。然后由项目维护者批准。"
+"用户，该用户可以通过拉取请求 (Pull Request) 提出相应的文档修改建议。然后由项目维护者批准。"
 
 #: ../../quality/history.rst:6 aef789dd1f664a9497f8c79730133ace
 #, fuzzy

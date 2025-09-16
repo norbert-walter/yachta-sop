@@ -110,7 +110,7 @@ msgstr "硬件"
 #: ../../information/copyright.rst:21 a5ae8dee5f45464294ebb2cb7c1d4de6
 #, fuzzy
 msgid "PCB layouts, 2D/3D CAD files"
-msgstr "PCB布局、2D/3D CAD文件"
+msgstr "PCB 布局、2D/3D CAD 文件"
 
 #: ../../information/copyright.rst:21 79d85fb8db8d429ea7fbdafa79a79f81
 #, fuzzy

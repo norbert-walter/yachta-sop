@@ -30,7 +30,7 @@ msgstr "清单和表格"
 msgid ""
 "The checklists and forms are stored centrally and, if possible, completed "
 "online. The access code can be requested from the project manager."
-msgstr "核对清单和表格集中存储，并尽可能在线填写。访问代码可向项目经理索取。"
+msgstr "清单和表格集中存储，如有可能，可在线填写。访问代码可向项目经理索取。"
 
 #: ../../quality/checklists.rst:8 b291539fdb1f40faae5fde3f5aa97571
 #, fuzzy

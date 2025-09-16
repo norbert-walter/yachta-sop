@@ -43,7 +43,7 @@ msgstr "**2)** 零部件采购和进货检验"
 #: ../../general/process.rst:14 a646cb59e8464ad2a38c7f1a3af44c21
 #, fuzzy
 msgid "**3)** Build preparation (stencil, solder paste, line setup)"
-msgstr "**3)** 构建准备（模板、焊膏、线路设置）"
+msgstr "**3）**构建准备（模板、焊膏、线路设置）"
 
 #: ../../general/process.rst:16 089e2a566e6341eba9de693315e4977d
 #, fuzzy
