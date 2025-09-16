@@ -44,7 +44,7 @@ Online tool parts placing
 .. raw:: html
 
        <a href="https://open-boat-projects.org/wp-content/uploads/2025/03/ibom_yachta_v2.1.html">
-           <img src="https://yachta-sop-en.readthedocs.io/en/latest/_images/Parts_Placing_Tool.png">
+           <img src="https://yachta-sop-en.readthedocs.io/en/latest/_images/Parts_Placing_Tool_2.png">
        </a>	
 	
 Fig.: Online parts placing tool
