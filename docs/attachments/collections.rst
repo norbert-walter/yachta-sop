@@ -41,6 +41,8 @@ Fig.: PCB top side 3D V2.1
 Online tool parts placing
 -------------------------
 
+` <../_static/files/Parts_Placing_Tool.png>`_
+
 .. raw:: html
 
        <a href="https://open-boat-projects.org/wp-content/uploads/2025/03/ibom_yachta_v2.1.html">
