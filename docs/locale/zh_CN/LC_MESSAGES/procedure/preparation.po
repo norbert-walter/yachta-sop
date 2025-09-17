@@ -40,7 +40,7 @@ msgstr "焊膏类型（例如，SAC305 无铅）、保质期/条件"
 msgid ""
 "Line setup: feeders to positions; cross‑check MPN ↔ BOM/CPL (four‑eyes "
 "principle)"
-msgstr "生产线设置：供料器到位置；交叉检查 MPN ↔ BOM/CPL（四眼原则）"
+msgstr "生产线设置：进料器到位置；交叉检查 MPN ↔ BOM/CPL（四眼原则）"
 
 #: ../../procedure/preparation.rst:7 d97307cbc5ec49ba9fc1609a98b7deaf
 #, fuzzy

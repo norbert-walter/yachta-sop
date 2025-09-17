@@ -54,7 +54,7 @@ msgstr "标记为“重要”的部分应给予特别关注。"
 #: ../../information/glossar.rst:16 1355f84001ad42f0a9af92c8db7d7e98
 #, fuzzy
 msgid "A tip makes it easier to deal with a situation."
-msgstr "小费可以让情况处理得更容易。"
+msgstr "小费可以让情况处理得更容易一些。"
 
 #: ../../information/glossar.rst:19 4a706194fe8849d98accf639920d5bed
 #, fuzzy
@@ -80,7 +80,7 @@ msgstr "警告表示不应执行的操作或情况。警告具有建议的性质
 msgid ""
 "Areas designated as hazardous can cause harm. You should strictly follow the"
 " instructions."
-msgstr "被指定为危险的区域可能会造成伤害。您应该严格遵循指示。"
+msgstr "危险区域可能会造成伤害。请严格遵守相关指示。"
 
 #: ../../information/glossar.rst:31 e70c41793fd44b56b5d8b9d08b7f049c
 #, fuzzy

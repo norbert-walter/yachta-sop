@@ -30,27 +30,27 @@ msgstr "清单和表格"
 msgid ""
 "The checklists and forms are stored centrally and, if possible, completed "
 "online. The access code can be requested from the project manager."
-msgstr "核对清单和表格集中存储，并尽可能在线填写。访问代码可向项目经理索取。"
+msgstr "清单和表格集中存储，并尽可能在线填写。访问代码可向项目经理索取。"
 
 #: ../../quality/checklists.rst:8 b291539fdb1f40faae5fde3f5aa97571
 #, fuzzy
 msgid "Form A1 – PCB Incoming Inspection"
-msgstr "表格A1 – PCB进货检验"
+msgstr "表格 A1 – PCB 进货检验"
 
 #: ../../quality/checklists.rst:10 09307ae4dfc34c8fb6a0fdd87aa5b382
 #, fuzzy
 msgid "`Form A1 – PCB Incoming Inspection`_ [XLSX]"
-msgstr "`表格A1 – PCB进货检验`_ [XLSX]"
+msgstr "`表格 A1 – PCB 进货检验`_ [XLSX]"
 
 #: ../../quality/checklists.rst:15 bff0a49bd213441293bbdc898a1c48ab
 #, fuzzy
 msgid "Form B1 – Component Incoming Inspection"
-msgstr "表格 B1 – 零部件进货检验"
+msgstr "B1表格——零部件进货检验"
 
 #: ../../quality/checklists.rst:17 a6404c9faa4d4ebd86d8359912250a4d
 #, fuzzy
 msgid "`Form B1 – Component Incoming Inspection`_ [XLSX]"
-msgstr "`表格 B1 – 零部件进货检验`_ [XLSX]"
+msgstr "`B1表格——零部件进货检验`_ [XLSX]"
 
 #: ../../quality/checklists.rst:22 fd99297d1def4f71acfc857cf1ffa34d
 #, fuzzy
@@ -100,7 +100,7 @@ msgstr "表格 Q1 – 不合格报告 (NCR)"
 #: ../../quality/checklists.rst:52 e3a27363ef0e4020b48f2288d35e37c6
 #, fuzzy
 msgid "`Form Q1 – Non Conformity Report`_ [XLSX]"
-msgstr "`表格Q1 – 不合格报告`_ [XLSX]"
+msgstr "`表格 Q1 – 不合格报告`_ [XLSX]"
 
 #~ msgid ""
 #~ "`Form B1 – Component Incoming Inspection [XLSX] "

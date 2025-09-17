@@ -43,7 +43,7 @@ msgstr "**2)** 零部件采购和进货检验"
 #: ../../general/process.rst:14 a646cb59e8464ad2a38c7f1a3af44c21
 #, fuzzy
 msgid "**3)** Build preparation (stencil, solder paste, line setup)"
-msgstr "**3)** 构建准备（模板、焊膏、线路设置）"
+msgstr "**3）** 构建准备（模板、焊膏、线路设置）"
 
 #: ../../general/process.rst:16 089e2a566e6341eba9de693315e4977d
 #, fuzzy
@@ -58,7 +58,7 @@ msgstr "**5）** THT 组装和焊接（选择性/波浪/手工）"
 #: ../../general/process.rst:20 0f83d25d8b934d46b6fa0b44a4cbd7b1
 #, fuzzy
 msgid "**6)** Visual inspection (AOI/manual)"
-msgstr "**6）**目视检查（AOI/手动）"
+msgstr "**6）** 目视检查（AOI/手动）"
 
 #: ../../general/process.rst:22 3e4bc57829734c40833b268895fbeacd
 #, fuzzy

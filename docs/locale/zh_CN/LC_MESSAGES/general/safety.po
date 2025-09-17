@@ -37,7 +37,7 @@ msgstr "仅在 ESD 保护区 (EPA) 内工作，并配备腕带、ESD 鞋/地板�
 msgid ""
 "PPE as per risk assessment (safety glasses, gloves, fume extraction for "
 "soldering/rework)."
-msgstr "根据风险评估的 PPE（安全眼镜、手套、焊接/返工的烟雾提取）。"
+msgstr "根据风险评估的 PPE（安全眼镜、手套、焊接/返工烟雾提取）。"
 
 #: ../../general/safety.rst:6 92295e312894418195178b8021f905bd
 #, fuzzy

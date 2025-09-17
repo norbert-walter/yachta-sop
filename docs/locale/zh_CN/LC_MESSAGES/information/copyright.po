@@ -35,7 +35,7 @@ msgid ""
 "exclusive commercial use."
 msgstr ""
 "复制风传感器时必须遵守版权和许可规定。任何人都可以免费复制，只要不用于商业目的或盈利。如果您有商业目的，请联系 Open Boat "
-"Projects。我们将与您沟通，探讨非独家商业使用的可能性。"
+"Projects。我们将与您沟通，并向您说明非独家商业使用的可能性。"
 
 #: ../../information/copyright.rst:7 520f17e5b5ba4f84a4a55a481cc8164b
 #, fuzzy
@@ -51,8 +51,8 @@ msgid ""
 " use. To ensure that all contributors and users understand their rights and "
 "obligations, the following licensing rules apply."
 msgstr ""
-"**Yachta 风力传感器** 项目是 **开放船舶项目** "
-"的一部分，提供用于风力传感的开放硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
+"**Yachta 风传感器** 项目是 **开放船舶项目** "
+"的一部分，提供用于风传感器的开放硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
 
 #: ../../information/copyright.rst:13 ed01db3558de4ffd9461a62b7d160fb7
 #, fuzzy
@@ -110,7 +110,7 @@ msgstr "硬件"
 #: ../../information/copyright.rst:21 a5ae8dee5f45464294ebb2cb7c1d4de6
 #, fuzzy
 msgid "PCB layouts, 2D/3D CAD files"
-msgstr "PCB 布局、2D/3D CAD 文件"
+msgstr "PCB布局、2D/3D CAD文件"
 
 #: ../../information/copyright.rst:21 79d85fb8db8d429ea7fbdafa79a79f81
 #, fuzzy
@@ -139,7 +139,7 @@ msgstr "固件、应用程序"
 msgid ""
 "Free to use, modify, and distribute, including commercially source code and "
 "license notes must be provided"
-msgstr "可以自由使用、修改和分发，包括必须提供商业源代码和许可证说明"
+msgstr "可以自由使用、修改和分发，包括必须提供商业源代码和许可说明"
 
 #: ../../information/copyright.rst:29 cd0af9796a784d6a9b690769a9f12082
 #, fuzzy
@@ -164,7 +164,7 @@ msgstr "NC = 仅限非商业用途使用。"
 #: ../../information/copyright.rst:34 2163db8adaad4ede98dd2618d926120c
 #, fuzzy
 msgid "SA = Modifications must be shared under the same license."
-msgstr "SA = 修改必须在同一许可证下共享。"
+msgstr "SA = 修改必须在同一许可下共享。"
 
 #: ../../information/copyright.rst:36 82c0259ea49c443abff8a6d15e2fdbcc
 #, fuzzy
@@ -232,7 +232,7 @@ msgid ""
 "Community contributions are welcome! Please note that all submitted changes,"
 " extensions, or documentation will also be published under the licenses "
 "mentioned above."
-msgstr "欢迎社区贡献！请注意，所有提交的更改、扩展或文档也将按照上述许可证发布。"
+msgstr "欢迎社区贡献！请注意，所有提交的更改、扩展或文档也将按照上述许可发布。"
 
 #~ msgid ""
 #~ "Area            | License       | Content                     | Conditions |"

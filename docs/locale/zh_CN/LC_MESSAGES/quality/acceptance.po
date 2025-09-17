@@ -28,7 +28,7 @@ msgstr "验收标准"
 #: ../../quality/acceptance.rst:4 d728b67c18234d89b620cf4ece2cdd3c
 #, fuzzy
 msgid "PCB quality per IPC‑A‑600 (class 2)"
-msgstr "PCB 质量符合 IPC-A-600（2 级）标准"
+msgstr "PCB 质量符合 IPC-A-600 标准（2 级）"
 
 #: ../../quality/acceptance.rst:5 c4d630999838443cb65bba01398f8133
 #, fuzzy
@@ -56,4 +56,4 @@ msgstr "FCT：所有测试均在限制范围内；没有未解决的问题/警�
 msgid ""
 "Visible inspections: No scratches and finger prints on PCB, no crooked "
 "labels"
-msgstr "可见检查：PCB 上无划痕和指纹，无弯曲标签"
+msgstr "可见检查：PCB 上无划痕和指纹，无弯曲的标签"

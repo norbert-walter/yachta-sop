@@ -28,7 +28,7 @@ msgstr "清单和表格"
 #: ../../quality/templates.rst:5 799b1d67211145cab7bfad9052e517c5
 #, fuzzy
 msgid "Form A1 – PCB Incoming Inspection"
-msgstr "表格A1 – PCB进货检验"
+msgstr "A1表格——PCB进货检验"
 
 #: ../../quality/templates.rst:7 3a543d96104e4af895f2d2afadc83b7c
 #, fuzzy
@@ -42,7 +42,7 @@ msgstr ""
 #: ../../quality/templates.rst:10 9068a2461a7a437d90abed3091a10b3c
 #, fuzzy
 msgid "Form B1 – Component Incoming Inspection"
-msgstr "表格 B1 – 零部件进货检验"
+msgstr "B1表格——零部件进货检验"
 
 #: ../../quality/templates.rst:12 c6447bef18c9436f97b046da23589079
 #, fuzzy
@@ -110,7 +110,7 @@ msgstr ""
 #: ../../quality/templates.rst:35 f106abae425741fc82b3f0111b278eb1
 #, fuzzy
 msgid "Form Q1 – Non Conformity Report"
-msgstr "表格Q1 – 不合格报告"
+msgstr "表格 Q1 – 不合格报告"
 
 #: ../../quality/templates.rst:37 836b3b188e2f4f5c923b2e04e86d7c24
 #, fuzzy

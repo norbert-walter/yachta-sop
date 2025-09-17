@@ -33,7 +33,7 @@ msgstr "插入零件；引线长度/间距按图纸确定"
 #: ../../procedure/tht_assembly.rst:5 70c2bb2a7f7442f8aaac8b3d1e4f59d6
 #, fuzzy
 msgid "Selective/wave solder with proper masking"
-msgstr "采用适当遮蔽的选择性/波峰焊"
+msgstr "具有适当遮蔽的选择性/波峰焊"
 
 #: ../../procedure/tht_assembly.rst:6 6a1c2e33e7f849b6833634bd12c07cf0
 #, fuzzy

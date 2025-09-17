@@ -49,7 +49,7 @@ msgstr "装配图（顶部/底部、极性、特殊说明）"
 #: ../../general/requirements.rst:8 5b9ca0a2cf6b49f8a4d1f07e93288a81
 #, fuzzy
 msgid "Test instruction (ICT/FCT), limits, fixture data"
-msgstr "测试说明（ICT/FCT）、限值、夹具数据"
+msgstr "测试说明（ICT/FCT）、限制、夹具数据"
 
 #: ../../general/requirements.rst:9 ad28d44ce3a04b6b8a14cd0ce6f8472a
 #, fuzzy
@@ -61,7 +61,7 @@ msgstr "编程包（HEX/BIN/ELF、偏移量、保险丝、引导加载程序、S
 #: ../../general/requirements.rst:10 7fac36488e7c491c8eef83eaed166520
 #, fuzzy
 msgid "Labeling/marking data (SN, Data‑Matrix/QR)"
-msgstr "标签/标记数据（SN、Data-Matrix/QR）"
+msgstr "标签/标记数据（SN、Data‑Matrix/QR）"
 
 #: ../../general/requirements.rst:12 6979c35d757448b2854e4bf6bdb88dd0
 #, fuzzy
@@ -81,7 +81,7 @@ msgstr "选择性焊接/波峰焊接（用于 THT）"
 #: ../../general/requirements.rst:15 b4f8457333a047eebc6375b06e992620
 #, fuzzy
 msgid "AOI/microscope, X‑ray for BGA as needed"
-msgstr "根据需要，AOI/显微镜、BGA X 射线"
+msgstr "AOI/显微镜、BGA X射线（按需）"
 
 #: ../../general/requirements.rst:16 11d5c5ee70eb483083a7174a2aa03a5e
 #, fuzzy
@@ -93,7 +93,7 @@ msgstr "ICT/飞针或钉床夹具、带电流限制的台式电源、数字万�
 #: ../../general/requirements.rst:17 c3aa0b38a6ce44489bc5d5b647f8fcfe
 #, fuzzy
 msgid "Programmer (e.g., J‑Link, ST‑LINK, AVR‑ISP, PICkit, etc.)"
-msgstr "编程器（例如 J-Link、ST-LINK、AVR-ISP、PICkit 等）"
+msgstr "编程器（例如 J‑Link、ST‑LINK、AVR‑ISP、PICkit 等）"
 
 #: ../../general/requirements.rst:18 47e1070f2f884a5793aa79550ab1b254
 #, fuzzy

@@ -73,7 +73,7 @@ msgstr "PCB制造"
 #: ../../index.rst:34
 #, fuzzy
 msgid "Component procurement & goods receipt"
-msgstr "零部件采购及货物收货"
+msgstr "零部件采购和货物收货"
 
 #: ../../index.rst:34
 #, fuzzy
@@ -217,7 +217,7 @@ msgid ""
 msgstr ""
 "SOP "
 "文件描述了子产品或成品制造的标准操作程序，并详细描述了特定任务或流程的逐步执行。该书面说明旨在标准化流程、最大限度地减少错误、提高效率并确保遵守公司政策和法律要求。SOP"
-" 在制造业中尤为重要，有助于确保一致性和质量。"
+" 在制造过程中尤为重要，有助于确保一致性和质量。"
 
 #: ../../index.rst:17 fd722241bb3d4d95acf071d5124e443c
 #, fuzzy

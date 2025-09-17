@@ -41,12 +41,12 @@ msgstr "根据 CPL 放置；验证极性/方向（二极管、IC 引脚 1、电�
 msgid ""
 "Reflow per profile: preheat/soak, peak temp and time above liquidus per "
 "alloy datasheet"
-msgstr "回流曲线：预热/保温、峰值温度和熔点以上时间（根据合金数据表）"
+msgstr "回流曲线：预热/保温、峰值温度和高于熔点的时间，根据合金数据表"
 
 #: ../../procedure/assembly.rst:7 78615413b01b4f3ca4c76232bf0f08b6
 #, fuzzy
 msgid "BGA/QFN: sample X‑ray for voids/bridges"
-msgstr "BGA/QFN：样品 X 射线检查空洞/桥接"
+msgstr "BGA/QFN：样品 X 射线检测空洞/桥接"
 
 #: ../../procedure/assembly.rst:8 d1bcf24cbba1457abf04b1ce4620dd5a
 #, fuzzy

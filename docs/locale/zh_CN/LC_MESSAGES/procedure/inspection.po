@@ -63,12 +63,12 @@ msgstr "桥梁"
 #: ../../procedure/inspection.rst:11 ec3701d87f474a02a6fb008a987298eb
 #, fuzzy
 msgid "tombstoning"
-msgstr "墓碑效应"
+msgstr "墓碑"
 
 #: ../../procedure/inspection.rst:12 379027f1656c4487b9ff2c9a92993a82
 #, fuzzy
 msgid "offset and missmatching"
-msgstr "偏移和错配"
+msgstr "偏移和不匹配"
 
 #: ../../procedure/inspection.rst:13 f050c5f8dcad48faac0e6627bf0e8fd2
 #, fuzzy
@@ -118,7 +118,7 @@ msgstr "切割时产生的锋利边缘"
 #: ../../procedure/inspection.rst:22 c914cd987aa94854b869d8e9b93de2f6
 #, fuzzy
 msgid "cutting rests"
-msgstr "切削刃"
+msgstr "切削刀架"
 
 #: ../../procedure/inspection.rst:23 3e4715e761424dd3a273f0863323ddea
 #, fuzzy
@@ -158,7 +158,7 @@ msgstr "关键快捷位置"
 #: ../../procedure/inspection.rst:33 876c234515eb4711b138ecff0b17ad0a
 #, fuzzy
 msgid "**U5 - High Voltage Protection**"
-msgstr "**U5-高压保护**"
+msgstr "**U5 - 高压保护**"
 
 #: ../../procedure/inspection.rst:35 97395469b7d94fc79de7e970a297d5b4
 #, python-format, fuzzy
@@ -167,7 +167,7 @@ msgid ""
 "could potentially lead to short circuits. Therefore, a 100% short-circuit "
 "test must be performed by the PCB manufacturer. Any problems that arise must"
 " be resolved immediately with the supplier."
-msgstr "焊嘴间距不符合焊接规范，可能导致短路。因此，PCB 制造商必须进行 100% 短路测试。如发现任何问题，必须立即与供应商联系解决。"
+msgstr "焊点间距不符合焊接规范，可能导致短路。因此，PCB 制造商必须进行 100% 短路测试。如出现任何问题，必须立即与供应商联系解决。"
 
 #: ../../procedure/inspection.rst:40 ../../procedure/inspection.rst:49
 #: ../../procedure/inspection.rst:58 7659b555bf2842d6931f0cf86a928d23
@@ -187,12 +187,12 @@ msgid ""
 "The spacing between the pins on Q3 is very tight. If Q3 is manually "
 "populated as an option, high-quality soldering is required there. Q3 is not "
 "normally populated."
-msgstr "Q3 上的引脚间距非常小。如果选择手动安装 Q3，则需要进行高质量的焊接。Q3 通常不进行安装。"
+msgstr "Q3 上的引脚间距非常小。如果选择手动安装 Q3，则需要高质量的焊接。Q3 通常不进行安装。"
 
 #: ../../procedure/inspection.rst:51 a00ff4ef1fb246b0b56198a4d81e526d
 #, fuzzy
 msgid "**U2 - Micro Controller**"
-msgstr "**U2——微控制器**"
+msgstr "**U2 - 微控制器**"
 
 #: ../../procedure/inspection.rst:53 f3e19cfd9cc04ef9be25c0160646cfcf
 #, fuzzy

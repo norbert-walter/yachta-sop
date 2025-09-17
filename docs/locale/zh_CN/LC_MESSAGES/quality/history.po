@@ -34,7 +34,7 @@ msgid ""
 " level, who can propose corresponding changes to the document via pull "
 "requests. The project maintainer then grants approval."
 msgstr ""
-"文档的修改在原始英文文档中进行，主要通过 GitHub 仓库进行跟踪。必须使用有意义的提交描述。必须为每个责任级别创建单独的 GitHub "
+"文档的修改均在英文原文中进行，并主要通过 GitHub 仓库进行跟踪。必须使用有意义的提交描述。必须为每个责任级别创建单独的 GitHub "
 "用户，该用户可以通过拉取请求 (Pull Request) 提出相应的文档修改建议。然后由项目维护者批准。"
 
 #: ../../quality/history.rst:6 aef789dd1f664a9497f8c79730133ace
@@ -43,7 +43,7 @@ msgid ""
 "Final versions of an SOP for a production run are marked with a label and "
 "released as a release. The releases must be entered in the list below. The "
 "initials of the person responsible for release must be provided."
-msgstr "生产运行的 SOP 的最终版本会贴上标签，并以发布形式发布。发布必须填写在下方列表中。必须提供负责发布人员的姓名首字母。"
+msgstr "生产运行的 SOP 的最终版本会贴上标签，并作为发布版本发布。发布版本必须填写在下方列表中。必须提供负责发布人员的姓名首字母。"
 
 #: ../../quality/history.rst:8 3c2e19ba9115480d93d81a8b61e866ab
 #, fuzzy

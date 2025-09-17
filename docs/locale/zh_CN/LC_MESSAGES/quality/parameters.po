@@ -38,7 +38,7 @@ msgstr "预热 120–170°C / 60–120秒"
 #: ../../quality/parameters.rst:6 fbbbc579f9d943b6a981163e65a8f7fa
 #, fuzzy
 msgid "Soak 150–180 °C / 60–120 s"
-msgstr "浸泡温度：150–180°C / 60–120秒"
+msgstr "浸泡温度 150–180°C / 60–120秒"
 
 #: ../../quality/parameters.rst:7 ba8b8aa2e59f45e695fc4b6b336704f7
 #, fuzzy
@@ -78,7 +78,7 @@ msgstr "ESD环境："
 #: ../../quality/parameters.rst:16 b8f786664b6949c795d142e5d6e16f0b
 #, fuzzy
 msgid "40–60 % RH"
-msgstr "40–60％ 相对湿度"
+msgstr "40–60% 相对湿度"
 
 #: ../../quality/parameters.rst:17 b398fdbe82fb4da7bc4f3940d315c7b4
 #, fuzzy
@@ -98,7 +98,7 @@ msgstr "每天测试腕带"
 #: ../../quality/parameters.rst:21 481368e2b1e742c28174565a5d59fc56
 #, fuzzy
 msgid "AQL (if applied):"
-msgstr "AQL（如适用）："
+msgstr "AQL（如果适用）："
 
 #: ../../quality/parameters.rst:22 e6e706b569e446c388222ccc4590ae1d
 #, fuzzy

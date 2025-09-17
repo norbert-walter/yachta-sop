@@ -179,7 +179,7 @@ msgstr "图：网页 devinfo"
 msgid ""
 "**4. Check WiFi connection quality (CQ: > 90% by short distance between "
 "router and PCB)**"
-msgstr "**4. 检查 WiFi 连接质量（CQ：路由器与 PCB 之间短距离连接时 CQ > 90%）**"
+msgstr "**4. 检查 WiFi 连接质量（CQ：路由器与 PCB 之间的短距离 > 90%）**"
 
 #: ../../procedure/functional_test.rst:52 a0f00b890de24faf870d1dac5d59127a
 #, fuzzy
@@ -189,7 +189,7 @@ msgstr "**5. 检查实际室温**"
 #: ../../procedure/functional_test.rst:53 41be64705e3248b29dbad1854eae72ed
 #, fuzzy
 msgid "Check value **Device Temperature** app. room temperature + 10°C"
-msgstr "检查值**设备温度**约为室温+10°C"
+msgstr "检查值**设备温度**约室温+10°C"
 
 #: ../../procedure/functional_test.rst:55 a912530aac8b4d72993ec4766d6d3d6c
 #, fuzzy
@@ -206,7 +206,7 @@ msgstr "检查值**风向**"
 #: ../../procedure/functional_test.rst:57 968704ff593f49d08a75700a10eebb1f
 #, fuzzy
 msgid "Values ​​must change by 90° for a 90° magnet change"
-msgstr "磁铁旋转 90° 时，数值必须改变 90°"
+msgstr "对于 90° 磁铁变化，值必须改变 90°"
 
 #: ../../procedure/functional_test.rst:58 a015b05c523f4bf6bda071177f8aee2e
 #, fuzzy
@@ -298,7 +298,7 @@ msgstr "WiFi连接已建立"
 #: ../../procedure/functional_test.rst:97 05b6a1fb5803473cb7c1b89de739c17b
 #, fuzzy
 msgid "WiFi connection quality > 90%"
-msgstr "WiFi连接质量> 90％"
+msgstr "WiFi连接质量>90%"
 
 #: ../../procedure/functional_test.rst:98 6b2fb6b1b33c4869889aa8b0542af902
 #, fuzzy

@@ -70,4 +70,4 @@ msgstr "合理性检查（样品测量电阻器/电容器）"
 #: ../../procedure/components.rst:15 7c7107d5b8b64f68ad24822ad879d744
 #, fuzzy
 msgid "Release/hold documented (Form B1)"
-msgstr "释放/扣留记录（表格 B1）"
+msgstr "已记录释放/扣留（表格 B1）"

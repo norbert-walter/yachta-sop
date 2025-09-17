@@ -98,7 +98,7 @@ msgstr "编程适配器（Open Boat Projects）"
 #: ../../procedure/basic_test.rst:19 98f3e008e4b14570918c617df995c54c
 #, fuzzy
 msgid "Digital voltmeter (measuring accuracy: 1 mA)"
-msgstr "数字电压表（测量精度：1mA）"
+msgstr "数字电压表（测量精度：1 mA）"
 
 #: ../../procedure/basic_test.rst:22 64757bf3992e4c8a9fb74a6afd77d426
 #, fuzzy
@@ -148,7 +148,7 @@ msgstr "编程适配器"
 #: ../../procedure/basic_test.rst:42 eff872985912483c893874284f6a1bc8
 #, fuzzy
 msgid "Connected to power source"
-msgstr "已连接电源"
+msgstr "已连接至电源"
 
 #: ../../procedure/basic_test.rst:43 6850b6b6bc004fe1a0cbd8d8c784d1c0
 #, fuzzy

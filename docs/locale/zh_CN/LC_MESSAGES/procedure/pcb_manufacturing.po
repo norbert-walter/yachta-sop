@@ -62,7 +62,7 @@ msgstr "使用认可的供应商；定义质量等级（IPC 等级）和证书�
 #: ../../procedure/pcb_manufacturing.rst:13 97c216aeda2643a2884ffe1ab53a3dcd
 #, fuzzy
 msgid "Define lot size, panelization, depanel method (V‑score/break‑tabs)"
-msgstr "定义批次大小、拼板、分板方法（V-score/break-tabs）"
+msgstr "定义批量大小、拼板、分板方法（V-score/break-tabs）"
 
 #: ../../procedure/pcb_manufacturing.rst:16 e1d55c6714db4e5d8785463cc510b037
 #, fuzzy
@@ -79,7 +79,7 @@ msgstr "检查包装（ESD、湿度卡、干燥剂、完整性）"
 msgid ""
 "Sample per IPC‑A‑600: solder mask registration, drill quality, vias, surface"
 " finish, dimensions, markings (date code, rev., UL)"
-msgstr "按照 IPC-A-600 进行采样：阻焊层对准、钻孔质量、通孔、表面光洁度、尺寸、标记（日期代码、修订版、UL）"
+msgstr "按照 IPC-A-600 进行采样：阻焊层配准、钻孔质量、通孔、表面光洁度、尺寸、标记（日期代码、修订版、UL）"
 
 #: ../../procedure/pcb_manufacturing.rst:19 524c7e00a4624a81b5cea74eea72ad44
 #, fuzzy
@@ -90,4 +90,4 @@ msgstr "确保包含电气测试 (E-test) 证书或通过样品验证"
 #: ../../procedure/pcb_manufacturing.rst:20 408267ca3eed4c62a8df1fb49687c54e
 #, fuzzy
 msgid "Release/hold in ERP/MES; record results (Form A1)"
-msgstr "在ERP/MES中发布/暂停；记录结果（表格A1）"
+msgstr "在 ERP/MES 中发布/暂停；记录结果（表格 A1）"

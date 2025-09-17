@@ -97,7 +97,7 @@ msgstr "**1. 将 PCB 放入拉链袋中，元件面朝上**"
 #: ../../procedure/packaging.rst:26 e2b307eb113f4950b455ab2845696291
 #, fuzzy
 msgid "Fig.: Parts for packaging"
-msgstr "图：包装部件"
+msgstr "图：包装零件"
 
 #: ../../procedure/packaging.rst:28 b99f8c3de3c84164ad967961f69e2cb7
 #, fuzzy

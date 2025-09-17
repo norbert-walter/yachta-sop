@@ -60,7 +60,7 @@ msgstr "USB连接"
 msgid ""
 "Erase → Program → Verify → Set option bytes/fuses → load defaults (Complete "
 "automatic sequence)"
-msgstr "擦除 → 编程 → 验证 → 设置选项字节/保险丝 → 加载默认值（完成自动序列）"
+msgstr "擦除→编程→验证→设置选项字节/保险丝→加载默认值（完成自动序列）"
 
 #: ../../procedure/programming.rst:11 9d4d5c5ac33040b39f391eb45be8a1f3
 #, fuzzy
@@ -80,7 +80,7 @@ msgstr "允许重试三次"
 #: ../../procedure/programming.rst:14 db52bfaf6fd54f48b439292756cc261c
 #, fuzzy
 msgid "Otherwise NCR and analysis"
-msgstr "否则 NCR 和分析"
+msgstr "否则NCR和分析"
 
 #: ../../procedure/programming.rst:17 e6e2de6c87374e1eb05aabc15af137d7
 #, fuzzy
@@ -97,7 +97,7 @@ msgid ""
 "transfer the firmware. Operating the device via USB is not possible."
 msgstr ""
 "`Web Flash 工具`_ 允许您通过 USB 连接使用 Web 浏览器将 Yachta PCB 的固件传输到设备。为此，请通过 USB-C "
-"端口将编程适配器连接到 PC 或笔记本电脑，然后启动 Chrome 或 Edge Web 浏览器。USB-C 线缆只能用于传输固件。无法通过 USB "
+"端口将编程适配器连接到 PC 或笔记本电脑，然后启动 Chrome 或 Edge Web 浏览器。USB-C 线缆仅可用于传输固件。无法通过 USB "
 "操作设备。"
 
 #: ../../procedure/programming.rst:24 402484247d1d43cb8d919f155981ee8c
@@ -154,7 +154,7 @@ msgstr "WiFi路由器"
 #: ../../procedure/programming.rst:38 466d934b1a1e426c98e7b76ccb64366b
 #, fuzzy
 msgid "PC mit Chrome browser (Win / Linux / Mac)"
-msgstr "带有 Chrome 浏览器的 PC（Win / Linux / Mac）"
+msgstr "装有 Chrome 浏览器的 PC（Win / Linux / Mac）"
 
 #: ../../procedure/programming.rst:39 e1e992591aa24578a0946133385eb159
 #, fuzzy
@@ -214,7 +214,7 @@ msgstr "密码：admin123468#！"
 #: ../../procedure/programming.rst:54 738536590ca74aeca84b31556e51ba2b
 #, fuzzy
 msgid "PC connected to any LAN ports"
-msgstr "连接至任意 LAN 端口的 PC"
+msgstr "连接到任意 LAN 端口的 PC"
 
 #: ../../procedure/programming.rst:55 c3a9dc10912d4884ac16b0a5b1c44f72
 #, fuzzy
@@ -224,7 +224,7 @@ msgstr "互联网连接到 WAN 端口"
 #: ../../procedure/programming.rst:56 954a2ca228d64465bf1c146f857eac38
 #, fuzzy
 msgid "WAN port has automatic DHCP"
-msgstr "WAN 端口具有自动 DHCP"
+msgstr "WAN 口具有自动 DHCP"
 
 #: ../../procedure/programming.rst:57 9ee63354473c404bbb90c2815f299e83
 #, fuzzy
@@ -276,7 +276,7 @@ msgstr "**4. 启动 Flashtool**"
 #: ../../procedure/programming.rst:76 06a367deab1a4b68b60a8d6a0545a6d7
 #, fuzzy
 msgid "Next, go to the `Web Flash Tool`_ website."
-msgstr "接下来，转到 `Web Flash 工具`_ 网站。"
+msgstr "接下来，请访问 `Web Flash 工具`_ 网站。"
 
 #: ../../procedure/programming.rst:80 fd0f14198b98449fb8ec27e95329a879
 #, fuzzy
@@ -316,9 +316,9 @@ msgid ""
 "`manufacturer's website`_. The driver is already installed on Linux "
 "operating systems."
 msgstr ""
-"请注意，系统中可能仍在使用其他串行端口。请选择将 Yachta PCB 连接到 USB "
-"端口后出现的端口。请勿使用现有端口；这些端口已被其他设备占用。如果 Wondows 11 操作系统无法识别编程适配器，则必须从 `制造商网站`_ 下载 "
-"FTDI232 的驱动程序。该驱动程序已安装在 Linux 操作系统上。"
+"请注意，系统中可能仍在使用其他串行端口。请选择将 Yachta PCB 连接到 USB 端口后出现的端口。请勿使用现有端口；它们已被其他设备占用。如果 "
+"Wondows 11 操作系统无法识别编程适配器，则必须从 `制造商网站`_ 下载 FTDI232 的驱动程序。该驱动程序已安装在 Linux "
+"操作系统上。"
 
 #: ../../procedure/programming.rst:96 4513302867d343e2a48dfc294f2d56cf
 #, fuzzy
@@ -358,7 +358,7 @@ msgid ""
 "Power off and then power on with the white button. The firmware starts. "
 "After a short time, the LED on the microcontroller board (U2) should light "
 "up."
-msgstr "关闭电源，然后按下白色按钮打开电源。固件启动。片刻之后，微控制器板（U2）上的 LED 灯应该会亮起。"
+msgstr "关机，然后按下白色按钮开机。固件启动。片刻之后，微控制器板（U2）上的 LED 灯应该会亮起。"
 
 #: ../../procedure/programming.rst:115 5c8aab440329437a9ddb86e04c708ba4
 #, fuzzy
