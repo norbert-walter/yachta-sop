@@ -22,7 +22,7 @@ Test Circuit
 ------------
 
 .. image:: /pics/Test_Schematic.png
-             :scale: 30%
+             :scale: 60%
 			 
 Pic.: Test circuit
 
