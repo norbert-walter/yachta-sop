@@ -21,7 +21,7 @@ Equipment
 Test Circuit
 ------------
 
-.. image:: /pics/U5.png
+.. image:: /pics/Test_Schematic.png
              :scale: 30%
 			 
 Pic.: Test circuit
