@@ -81,7 +81,7 @@ msgstr "选择性焊接/波峰焊接（用于 THT）"
 #: ../../general/requirements.rst:15 b4f8457333a047eebc6375b06e992620
 #, fuzzy
 msgid "AOI/microscope, X‑ray for BGA as needed"
-msgstr "AOI/显微镜、BGA X射线（按需）"
+msgstr "AOI/显微镜、BGA X射线（根据需要）"
 
 #: ../../general/requirements.rst:16 11d5c5ee70eb483083a7174a2aa03a5e
 #, fuzzy

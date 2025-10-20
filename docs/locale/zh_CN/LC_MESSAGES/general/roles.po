@@ -37,7 +37,7 @@ msgstr "**项目管理**：总体责任、审批、进度/成本控制。"
 msgid ""
 "**Hardware Engineering:** Provides and maintains manufacturing data, test "
 "instructions, programming packages."
-msgstr "**硬件工程**：提供和维护制造数据、测试说明、编程包。"
+msgstr "**硬件工程：**提供和维护制造数据、测试说明、编程包。"
 
 #: ../../general/roles.rst:6 4e372774eaf742eeb49f2903899ced1a
 #, fuzzy
@@ -58,7 +58,7 @@ msgstr "**制造（SMT/THT）：**根据标准进行粘贴印刷、放置、焊�
 msgid ""
 "**Quality Assurance (QA):** Incoming inspections, accept/reject versus "
 "criteria, release/hold."
-msgstr "**质量保证 (QA)**：进货检验、根据标准接受/拒绝、发布/保留。"
+msgstr "**质量保证 (QA)**：进货检验、根据标准接受/拒绝、放行/保留。"
 
 #: ../../general/roles.rst:9 9098037ae5c2432ba86ff12ea5777235
 #, fuzzy

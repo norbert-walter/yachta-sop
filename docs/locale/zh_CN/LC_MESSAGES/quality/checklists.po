@@ -40,7 +40,7 @@ msgstr "表格 A1 – PCB 进货检验"
 #: ../../quality/checklists.rst:10 09307ae4dfc34c8fb6a0fdd87aa5b382
 #, fuzzy
 msgid "`Form A1 – PCB Incoming Inspection`_ [XLSX]"
-msgstr "`表格 A1 – PCB 进货检验`_ [XLSX]"
+msgstr "`A1表格——PCB进货检验`_ [XLSX]"
 
 #: ../../quality/checklists.rst:15 bff0a49bd213441293bbdc898a1c48ab
 #, fuzzy

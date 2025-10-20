@@ -128,7 +128,7 @@ msgstr "|IMG|_"
 #: ../../attachments/collections.rst:46 8657a50ba63d468db5ab34caed7e8e2d
 #, fuzzy
 msgid "IMG"
-msgstr "图像"
+msgstr "图片"
 
 #: ../../attachments/collections.rst:50 9eb814e436c542619b2e411de0c3dda5
 #, fuzzy

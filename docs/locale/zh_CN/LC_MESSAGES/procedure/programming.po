@@ -316,9 +316,9 @@ msgid ""
 "`manufacturer's website`_. The driver is already installed on Linux "
 "operating systems."
 msgstr ""
-"请注意，系统中可能仍在使用其他串行端口。请选择将 Yachta PCB 连接到 USB 端口后出现的端口。请勿使用现有端口；它们已被其他设备占用。如果 "
-"Wondows 11 操作系统无法识别编程适配器，则必须从 `制造商网站`_ 下载 FTDI232 的驱动程序。该驱动程序已安装在 Linux "
-"操作系统上。"
+"请注意，系统中可能仍在使用其他串行端口。请选择将 Yachta PCB 连接到 USB "
+"端口后出现的端口。请勿使用现有端口；这些端口已被其他设备占用。如果 Wondows 11 操作系统无法识别编程适配器，则必须从 `制造商网站`_ 下载 "
+"FTDI232 的驱动程序。该驱动程序已安装在 Linux 操作系统上。"
 
 #: ../../procedure/programming.rst:96 4513302867d343e2a48dfc294f2d56cf
 #, fuzzy

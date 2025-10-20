@@ -139,7 +139,7 @@ msgstr "固件、应用程序"
 msgid ""
 "Free to use, modify, and distribute, including commercially source code and "
 "license notes must be provided"
-msgstr "可以自由使用、修改和分发，包括必须提供商业源代码和许可说明"
+msgstr "可以自由使用、修改和分发，包括必须提供商业源代码和许可证说明"
 
 #: ../../information/copyright.rst:29 cd0af9796a784d6a9b690769a9f12082
 #, fuzzy

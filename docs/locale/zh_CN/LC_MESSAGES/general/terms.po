@@ -28,7 +28,7 @@ msgstr "条款"
 #: ../../general/terms.rst:4 ef5de4a32ecd412f87d92557119dbc8b
 #, fuzzy
 msgid "**AOI** - Automated Optical Inspection"
-msgstr "AOI——自动光学检测"
+msgstr "**AOI** - 自动光学检测"
 
 #: ../../general/terms.rst:5 c1b9eef6c34d4101a539e8f20ed28e50
 #, fuzzy
