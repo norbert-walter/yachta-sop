@@ -28,22 +28,22 @@ msgstr "可追溯性和记录"
 #: ../../quality/trace.rst:4 743fd2b1e9244a399c8b88fba157e548
 #, fuzzy
 msgid "For each unit:"
-msgstr "对于每个单位："
+msgstr "对于每个单元："
 
 #: ../../quality/trace.rst:5 98e860f914b041529f0d7acf4f5d76c9
 #, fuzzy
 msgid "SN"
-msgstr "序号"
+msgstr "SN"
 
 #: ../../quality/trace.rst:6 b9101920d8a243d1a2b1759c56d884cd
 #, fuzzy
 msgid "PCB lot/date code"
-msgstr "PCB 批次/日期代码"
+msgstr "PCB批号/日期代码"
 
 #: ../../quality/trace.rst:7 3d300ca64394461a9ff273c701c18e32
 #, fuzzy
 msgid "Component lots (critical ICs)"
-msgstr "元件批次（关键 IC）"
+msgstr "组件批次（关键集成电路）"
 
 #: ../../quality/trace.rst:8 76dc94a4dcc64c7991c5e104b16ba51e
 #, fuzzy
@@ -53,7 +53,7 @@ msgstr "建造日期"
 #: ../../quality/trace.rst:9 b3c1a9e859f541efa3a5d46f13943e4a
 #, fuzzy
 msgid "Line/oven/profile ID"
-msgstr "生产线/炉子/型材 ID"
+msgstr "生产线/烤箱/型材标识"
 
 #: ../../quality/trace.rst:10 e59a690a664141c79cd10651bd20e743
 #, fuzzy
@@ -69,10 +69,10 @@ msgstr "检查/编程/测试日志"
 #, fuzzy
 msgid ""
 "Retention: at least (define period, e.g., 10 years) or per customer/standard"
-msgstr "保留：至少（定义期限，例如 10 年）或每个客户/标准"
+msgstr "保留期限：至少（定义期限，例如 10 年）或按客户/标准"
 
 #: ../../quality/trace.rst:13 215faa663f244bfe90d2b88547b68e51
 #, fuzzy
 msgid ""
 "Change control via ECN/ECO with version updates on layout/FW/test equipment"
-msgstr "通过 ECN/ECO 进行变更控制，并对布局/FW/测试设备进行版本更新"
+msgstr "通过 ECN/ECO 进行变更控制，并对布局/固件/测试设备进行版本更新。"

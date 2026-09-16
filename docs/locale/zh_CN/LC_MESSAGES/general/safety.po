@@ -30,21 +30,21 @@ msgstr "安全"
 msgid ""
 "Work only inside ESD protected areas (EPA) with wrist strap, ESD "
 "footwear/flooring, ESD furniture, grounded tools."
-msgstr "仅在 ESD 保护区 (EPA) 内工作，并配备腕带、ESD 鞋/地板、ESD 家具和接地工具。"
+msgstr "仅在防静电区域 (EPA) 内作业，并佩戴防静电腕带、防静电鞋/地板、防静电家具和接地工具。"
 
 #: ../../general/safety.rst:5 de023e6449064d9a915f7a8bc04021d5
 #, fuzzy
 msgid ""
 "PPE as per risk assessment (safety glasses, gloves, fume extraction for "
 "soldering/rework)."
-msgstr "根据风险评估的 PPE（安全眼镜、手套、焊接/返工烟雾提取）。"
+msgstr "根据风险评估提供个人防护装备（安全眼镜、手套、焊接/返工用烟雾抽排装置）。"
 
 #: ../../general/safety.rst:6 92295e312894418195178b8021f905bd
 #, fuzzy
 msgid "Handle chemicals (flux, cleaners) per SDS and dispose properly."
-msgstr "按照 SDS 处理化学品（助焊剂、清洁剂）并妥善处置。"
+msgstr "按照安全数据表 (SDS) 处理化学品（助焊剂、清洁剂），并妥善处置。"
 
 #: ../../general/safety.rst:7 181082faa8074c2fa74035e4f659b12d
 #, fuzzy
 msgid "Observe MSL handling; dry storage and bake per JEDEC as required."
-msgstr "遵守 MSL 处理；按 JEDEC 要求进行干燥储存和烘烤。"
+msgstr "遵守 MSL 处理规范；根据 JEDEC 要求进行干燥储存和烘烤。"

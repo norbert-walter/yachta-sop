@@ -33,7 +33,7 @@ msgstr "范围"
 #: ../../index.rst:20
 #, fuzzy
 msgid "References / Standards"
-msgstr "参考文献/标准"
+msgstr "参考资料/标准"
 
 #: ../../index.rst:20
 #, fuzzy
@@ -43,17 +43,17 @@ msgstr "术语和缩写"
 #: ../../index.rst:20
 #, fuzzy
 msgid "Roles & Responsibilities"
-msgstr "角色和职责"
+msgstr "角色与职责"
 
 #: ../../index.rst:20
 #, fuzzy
 msgid "Safety & ESD"
-msgstr "安全与 ESD"
+msgstr "安全与静电放电"
 
 #: ../../index.rst:20
 #, fuzzy
 msgid "Required input data & tools"
-msgstr "所需的输入数据和工具"
+msgstr "所需输入数据和工具"
 
 #: ../../index.rst:20
 #, fuzzy
@@ -73,7 +73,7 @@ msgstr "PCB制造"
 #: ../../index.rst:34
 #, fuzzy
 msgid "Component procurement & goods receipt"
-msgstr "零部件采购和货物收货"
+msgstr "零部件采购和收货"
 
 #: ../../index.rst:34
 #, fuzzy
@@ -83,7 +83,7 @@ msgstr "组装准备"
 #: ../../index.rst:34
 #, fuzzy
 msgid "SMT assembly & reflow"
-msgstr "SMT 组装和回流"
+msgstr "SMT组装和回流焊"
 
 #: ../../index.rst:34
 #, fuzzy
@@ -93,7 +93,7 @@ msgstr "THT组装和焊接"
 #: ../../index.rst:34
 #, fuzzy
 msgid "Visual inspection (AOI/manual)"
-msgstr "目视检查（AOI/手动）"
+msgstr "目视检查（AOI/人工）"
 
 #: ../../index.rst:34
 #, fuzzy
@@ -103,7 +103,7 @@ msgstr "基本电气测试"
 #: ../../index.rst:34
 #, fuzzy
 msgid "Programming (flashing)"
-msgstr "编程（闪烁）"
+msgstr "编程（刷写）"
 
 #: ../../index.rst:34
 #, fuzzy
@@ -133,7 +133,7 @@ msgstr "可追溯性和记录"
 #: ../../index.rst:50
 #, fuzzy
 msgid "NIO process / Deviations"
-msgstr "NIO 流程/偏差"
+msgstr "NIO流程/偏差"
 
 #: ../../index.rst:50
 #, fuzzy
@@ -148,7 +148,7 @@ msgstr "工艺参数"
 #: ../../index.rst:50
 #, fuzzy
 msgid "Change history"
-msgstr "变更历史记录"
+msgstr "更改历史记录"
 
 #: ../../index.rst:50
 #, fuzzy
@@ -188,7 +188,7 @@ msgstr "信息"
 #: ../../index.rst:3 ab0ed2c63a1e4bcb9dde1fda33150fb9
 #, fuzzy
 msgid "Yachta PCB SOP"
-msgstr "Yachta PCB SOP"
+msgstr "游艇PCB标准操作程序"
 
 #: ../../index.rst:4 be9d8b768c9c47328c5f8a37854d55c1
 #, fuzzy
@@ -215,13 +215,13 @@ msgid ""
 "ensure compliance with company policies and legal requirements. SOPs are "
 "particularly important in manufacturing to ensure consistency and quality."
 msgstr ""
-"SOP "
-"文件描述了子产品或成品制造的标准操作程序，并详细描述了特定任务或流程的逐步执行。该书面说明旨在标准化流程、最大限度地减少错误、提高效率并确保遵守公司政策和法律要求。SOP"
-" 在制造过程中尤为重要，有助于确保一致性和质量。"
+"标准操作规程 (SOP) "
+"文件描述了子产品或成品生产的标准操作程序，并详细描述了特定任务或流程的步骤。该书面指导旨在规范流程、最大限度地减少错误、提高效率，并确保符合公司政策和法律法规要求。SOP"
+" 在制造业中尤为重要，它能确保产品的一致性和质量。"
 
 #: ../../index.rst:17 fd722241bb3d4d95acf071d5124e443c
 #, fuzzy
 msgid ""
 "This document relates to the production of a circuit board for the Yachta "
 "wind sensor."
-msgstr "本文档涉及 Yachta 风传感器电路板的生产。"
+msgstr "本文档与游艇风传感器电路板的生产有关。"

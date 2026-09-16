@@ -43,7 +43,7 @@ msgstr "**BOM** – 物料清单"
 #: ../../general/terms.rst:7 35edbc3ef0284fb09637161037b92fa5
 #, fuzzy
 msgid "**CPL/XY** – Placement coordinates"
-msgstr "**CPL/XY** – 放置坐标"
+msgstr "**CPL/XY** – 定位坐标"
 
 #: ../../general/terms.rst:8 d28faed0fef04e6cb875fedf195914f6
 #, fuzzy
@@ -68,7 +68,7 @@ msgstr "**ESD** – 静电放电"
 #: ../../general/terms.rst:12 5ad9153f348e456895b601a0e9af8e6a
 #, fuzzy
 msgid "**FP/ICT** – Flying Probe / In‑Circuit Test"
-msgstr "**FP/ICT** – 飞针/在线测试"
+msgstr "**FP/ICT** – 飞针/电路内测试"
 
 #: ../../general/terms.rst:13 b8bc6ccf913e478d97f297d840530f39
 #, fuzzy
@@ -78,17 +78,17 @@ msgstr "**FCT** – 功能电路测试"
 #: ../../general/terms.rst:14 2cd11ab0ad004d28856f822132279f57
 #, fuzzy
 msgid "**ICT** - In Circuit Test"
-msgstr "**ICT** - 在线测试"
+msgstr "**ICT** - 电路测试"
 
 #: ../../general/terms.rst:15 a4f5cbdd0f6545c6afd865cb9bef8721
 #, fuzzy
 msgid "**MSL** – Moisture Sensitivity Level"
-msgstr "**MSL** – 湿度敏感度等级"
+msgstr "**MSL** – 水分敏感度"
 
 #: ../../general/terms.rst:16 4480ab8a8e5346c2b6a11cb24089d3d0
 #, fuzzy
 msgid "**NCR/NCMR** – Non-Conformance Report / Material Review"
-msgstr "**NCR/NCMR** – 不合格报告/材料审查"
+msgstr "**NCR/NCMR** – 不符合项报告/材料审查"
 
 #: ../../general/terms.rst:17 f6e8a9ae0ef5408d98a38483eeea5076
 #, fuzzy

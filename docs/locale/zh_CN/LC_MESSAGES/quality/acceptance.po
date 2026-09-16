@@ -28,32 +28,32 @@ msgstr "验收标准"
 #: ../../quality/acceptance.rst:4 d728b67c18234d89b620cf4ece2cdd3c
 #, fuzzy
 msgid "PCB quality per IPC‑A‑600 (class 2)"
-msgstr "PCB 质量符合 IPC-A-600 标准（2 级）"
+msgstr "PCB质量符合IPC-A-600（2级）标准"
 
 #: ../../quality/acceptance.rst:5 c4d630999838443cb65bba01398f8133
 #, fuzzy
 msgid "Solder joints/assemblies per IPC‑A‑610 (class 1)"
-msgstr "焊点/组件符合 IPC-A-610（1 级）标准"
+msgstr "符合 IPC-A-610（1 类）标准的焊点/组件"
 
 #: ../../quality/acceptance.rst:6 30aa5ddc1f7540518f3a18c6bdb6792e
 #, fuzzy
 msgid "No shorts/opens; current consumption within spec ± tolerance"
-msgstr "无短路/开路；电流消耗在规格±公差范围内"
+msgstr "无短路/开路；电流消耗在规格±容差范围内"
 
 #: ../../quality/acceptance.rst:7 d09ad0e4ea3e4f9ca3c0c76f094f6aae
 #, fuzzy
 msgid ""
 "Programming successful (verify OK), correct FW version, proper SN/parameters"
-msgstr "编程成功（验证OK），正确的FW版本，正确的SN/参数"
+msgstr "编程成功（验证通过），固件版本正确，序列号/参数正确"
 
 #: ../../quality/acceptance.rst:8 1836cd73a52f49a383197b6beda25664
 #, fuzzy
 msgid "FCT: All tests within limits; no open issues/warnings"
-msgstr "FCT：所有测试均在限制范围内；没有未解决的问题/警告"
+msgstr "FCT：所有测试均在限值范围内；无未解决的问题/警告"
 
 #: ../../quality/acceptance.rst:9 6ee6189851344c5b81c25206e025d5a2
 #, fuzzy
 msgid ""
 "Visible inspections: No scratches and finger prints on PCB, no crooked "
 "labels"
-msgstr "可见检查：PCB 上无划痕和指纹，无弯曲的标签"
+msgstr "目视检查：PCB板上无划痕和指纹，标签无歪斜。"

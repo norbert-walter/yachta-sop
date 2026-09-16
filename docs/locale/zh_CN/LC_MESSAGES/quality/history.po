@@ -34,8 +34,8 @@ msgid ""
 " level, who can propose corresponding changes to the document via pull "
 "requests. The project maintainer then grants approval."
 msgstr ""
-"文档的修改均在英文原文中进行，并主要通过 GitHub 仓库进行跟踪。必须使用有意义的提交描述。必须为每个责任级别创建单独的 GitHub "
-"用户，该用户可以通过拉取请求 (Pull Request) 提出相应的文档修改建议。然后由项目维护者批准。"
+"文档的修改均在英文原文档中进行，并主要通过 GitHub 代码库进行跟踪。必须使用清晰明确的提交描述。每个职责级别都需要创建一个单独的 GitHub "
+"用户，该用户可以通过拉取请求 (Pull Request) 提出相应的文档修改。项目维护者随后会批准这些修改。"
 
 #: ../../quality/history.rst:6 aef789dd1f664a9497f8c79730133ace
 #, fuzzy
@@ -43,7 +43,7 @@ msgid ""
 "Final versions of an SOP for a production run are marked with a label and "
 "released as a release. The releases must be entered in the list below. The "
 "initials of the person responsible for release must be provided."
-msgstr "生产运行的 SOP 的最终版本会贴上标签，并作为发布版本发布。发布版本必须填写在下方列表中。必须提供负责发布人员的姓名首字母。"
+msgstr "生产流程标准操作规程 (SOP) 的最终版本会贴上标签并发布。发布版本必须录入下方列表，并注明发布负责人姓名首字母。"
 
 #: ../../quality/history.rst:8 3c2e19ba9115480d93d81a8b61e866ab
 #, fuzzy
@@ -51,7 +51,7 @@ msgid ""
 "The document is automatically translated into the respective target "
 "languages ​​when changes are made. In case of ambiguities in the wording, "
 "the original English document must be used."
-msgstr "文档修改后会自动翻译成相应的目标语言。如遇措辞歧义，则必须使用英文原版文档。"
+msgstr "当文档内容发生更改时，系统会自动将其翻译成相应的目标语言。如果措辞存在歧义，则必须使用英文原文。"
 
 #: ../../quality/history.rst:11 b0650ca36dbe421d806e5228cb778aa0
 #, fuzzy
@@ -81,7 +81,7 @@ msgstr "0.1"
 #: ../../quality/history.rst:13 b39c21fbfff54467b7e91bb42f96b212
 #, fuzzy
 msgid "2025-08-27"
-msgstr "2025年8月27日"
+msgstr "2025-08-27"
 
 #: ../../quality/history.rst:13 2d0ed3b50fc94f9e9fdca8e7563911d6
 #, fuzzy
@@ -102,7 +102,7 @@ msgstr "0.2"
 #: ../../quality/history.rst:15 3ec8fc66cd0744b783cdc8d5f94891a6
 #, fuzzy
 msgid "2025-09-11"
-msgstr "2025年9月11日"
+msgstr "2025-09-11"
 
 #: ../../quality/history.rst:15 68f7caf406664624a643d95ad974541a
 #, fuzzy

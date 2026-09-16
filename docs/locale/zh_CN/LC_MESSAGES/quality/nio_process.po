@@ -28,7 +28,7 @@ msgstr "不合格/偏差"
 #: ../../quality/nio_process.rst:4 28eb759daa1d42e29094ea8131e067ec
 #, fuzzy
 msgid "Isolate NCR units in quarantine and inform clients"
-msgstr "隔离 NCR 单位并通知客户"
+msgstr "将NCR单位隔离检疫并通知客户"
 
 #: ../../quality/nio_process.rst:5 507a1df8bbdf4a9cb0f32f3f7dc5a26e
 #, fuzzy
@@ -38,4 +38,4 @@ msgstr "MRB：返工、报废、供应商索赔、偏差许可"
 #: ../../quality/nio_process.rst:6 4cd2b65865ae4be0899e34b3ed8860a0
 #, fuzzy
 msgid "8D/root cause analysis for recurring issues; record lessons learned"
-msgstr "8D/对重复出现的问题进行根本原因分析；记录经验教训"
+msgstr "对反复出现的问题进行8D/根本原因分析；记录经验教训"

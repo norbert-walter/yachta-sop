@@ -30,27 +30,27 @@ msgstr "清单和表格"
 msgid ""
 "The checklists and forms are stored centrally and, if possible, completed "
 "online. The access code can be requested from the project manager."
-msgstr "清单和表格集中存储，并尽可能在线填写。访问代码可向项目经理索取。"
+msgstr "所有清单和表格都集中存储，并尽可能在线填写。访问码可向项目经理申请。"
 
 #: ../../quality/checklists.rst:8 b291539fdb1f40faae5fde3f5aa97571
 #, fuzzy
 msgid "Form A1 – PCB Incoming Inspection"
-msgstr "表格 A1 – PCB 进货检验"
+msgstr "A1表 – PCB来料检验"
 
 #: ../../quality/checklists.rst:10 09307ae4dfc34c8fb6a0fdd87aa5b382
 #, fuzzy
 msgid "`Form A1 – PCB Incoming Inspection`_ [XLSX]"
-msgstr "`A1表格——PCB进货检验`_ [XLSX]"
+msgstr "`A1表 – PCB来料检验`_ [XLSX]"
 
 #: ../../quality/checklists.rst:15 bff0a49bd213441293bbdc898a1c48ab
 #, fuzzy
 msgid "Form B1 – Component Incoming Inspection"
-msgstr "B1表格——零部件进货检验"
+msgstr "表格 B1 – 零部件来料检验"
 
 #: ../../quality/checklists.rst:17 a6404c9faa4d4ebd86d8359912250a4d
 #, fuzzy
 msgid "`Form B1 – Component Incoming Inspection`_ [XLSX]"
-msgstr "`B1表格——零部件进货检验`_ [XLSX]"
+msgstr "`表格 B1 – 零部件来料检验`_ [XLSX]"
 
 #: ../../quality/checklists.rst:22 fd99297d1def4f71acfc857cf1ffa34d
 #, fuzzy
@@ -65,42 +65,42 @@ msgstr "`表格 C1 – 目视检查`_ [XLSX]"
 #: ../../quality/checklists.rst:29 36e0f4c1d5e24513ac1b6ee3714adcb9
 #, fuzzy
 msgid "Form D1 – Electrical Basic Test"
-msgstr "表格 D1 – 电气基础测试"
+msgstr "D1 表格 – 电气基础测试"
 
 #: ../../quality/checklists.rst:31 c5b3c7e082844c6eac6d28b0b88f202c
 #, fuzzy
 msgid "`Form D1 – Electrical Basic Test`_ [XLSX]"
-msgstr "`表格 D1 – 电气基础测试`_ [XLSX]"
+msgstr "`D1 表格 – 电气基础测试`_ [XLSX]"
 
 #: ../../quality/checklists.rst:36 6736e2bb82a94863986c68400bab2911
 #, fuzzy
 msgid "Form E1 – Programming"
-msgstr "表格 E1 – 编程"
+msgstr "E1表格 – 编程"
 
 #: ../../quality/checklists.rst:38 613347e051684afa95e5531bad9bfa51
 #, fuzzy
 msgid "`Form E1 – Programming`_ [XLSX]"
-msgstr "`表格 E1 – 编程`_ [XLSX]"
+msgstr "`E1表格 – 编程`_ [XLSX]"
 
 #: ../../quality/checklists.rst:43 781557080eb34f018013bdb5b85e6594
 #, fuzzy
 msgid "Form F1 – Functional Test (FCT)"
-msgstr "表格 F1 – 功能测试 (FCT)"
+msgstr "F1 表格 – 功能测试 (FCT)"
 
 #: ../../quality/checklists.rst:45 bd282aae14774ca9b281a35249269f81
 #, fuzzy
 msgid "`Form F1 – Functional Test`_ [XLSX]"
-msgstr "`表格 F1 – 功能测试`_ [XLSX]"
+msgstr "`F1 表格 – 功能测试`_ [XLSX]"
 
 #: ../../quality/checklists.rst:50 3c699091197e4359a3b0f99b4ac09da8
 #, fuzzy
 msgid "Form Q1 – Non Conformity Report (NCR)"
-msgstr "表格 Q1 – 不合格报告 (NCR)"
+msgstr "表格 Q1 – 不符合项报告 (NCR)"
 
 #: ../../quality/checklists.rst:52 e3a27363ef0e4020b48f2288d35e37c6
 #, fuzzy
 msgid "`Form Q1 – Non Conformity Report`_ [XLSX]"
-msgstr "`表格 Q1 – 不合格报告`_ [XLSX]"
+msgstr "`表格 Q1 – 不符合项报告`_ [XLSX]"
 
 #~ msgid ""
 #~ "`Form B1 – Component Incoming Inspection [XLSX] "

@@ -23,31 +23,31 @@ msgstr ""
 #: ../../procedure/preparation.rst:2 b9f62b7caad8415eabcb2b00ed6e01ee
 #, fuzzy
 msgid "Build Preparation"
-msgstr "构建准备"
+msgstr "建设准备"
 
 #: ../../procedure/preparation.rst:4 cbd3065d80f842a5b083935f1d11b71a
 #, fuzzy
 msgid "Verify stencil (thickness, apertures)"
-msgstr "验证模板（厚度、孔径）"
+msgstr "检查模板（厚度、孔径）"
 
 #: ../../procedure/preparation.rst:5 7d74b87136144f37a883a6aee1aeace5
 #, fuzzy
 msgid "Solder paste type (e.g., SAC305 lead‑free), shelf life/conditioning"
-msgstr "焊膏类型（例如，SAC305 无铅）、保质期/条件"
+msgstr "焊膏类型（例如，SAC305 无铅焊膏）、保质期/保养"
 
 #: ../../procedure/preparation.rst:6 9c2107f0427f4dfd82f1aae57f252c91
 #, fuzzy
 msgid ""
 "Line setup: feeders to positions; cross‑check MPN ↔ BOM/CPL (four‑eyes "
 "principle)"
-msgstr "生产线设置：进料器到位置；交叉检查 MPN ↔ BOM/CPL（四眼原则）"
+msgstr "生产线设置：将送料器送至指定位置；交叉核对 MPN ↔ BOM/CPL（四眼原则）"
 
 #: ../../procedure/preparation.rst:7 d97307cbc5ec49ba9fc1609a98b7deaf
 #, fuzzy
 msgid ""
 "First article run (1–5 boards) to optimize paste/placement/reflow profile "
 "(record & archive)"
-msgstr "首次运行（1-5 块电路板）以优化粘贴/放置/回流曲线（记录和存档）"
+msgstr "首批试生产（1-5块电路板）用于优化焊膏/焊盘放置/回流焊工艺（记录并存档）"
 
 #: ../../procedure/preparation.rst:8 929e0405c9b6467ca57bf1fccdcd463e
 #, fuzzy

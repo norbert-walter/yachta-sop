@@ -34,27 +34,27 @@ msgid ""
 "yellow and red colors indicate important and dangerous practices that should"
 " be avoided."
 msgstr ""
-"这里展示了文中突出显示的内容及其含义。突出显示的内容以彩色框显示。颜色遵循交通信号灯原则。绿色代表注意事项和建议，黄色和红色表示重要且危险的做法，应避免。"
+"此处列出了文中重点内容及其含义。重点内容以彩色方框标示，颜色遵循交通信号灯原则。绿色代表注释和建议，黄色和红色则表示应避免的重要且危险的做法。"
 
 #: ../../information/glossar.rst:7 adb186cffff848e0a44aaba7d016b548
 #, fuzzy
 msgid "A remark highlights a particular fact."
-msgstr "一条评论强调了某一特定事实。"
+msgstr "这句话强调了某个特定事实。"
 
 #: ../../information/glossar.rst:10 e07b846df4bb466c93fdc09d08a53999
 #, fuzzy
 msgid "A note serves as an aid."
-msgstr "注释起到辅助作用。"
+msgstr "笔记可以起到辅助作用。"
 
 #: ../../information/glossar.rst:13 55941cef8f1b4663892f4aaf867e66bb
 #, fuzzy
 msgid "Sections marked as Important should be given special attention."
-msgstr "标记为“重要”的部分应给予特别关注。"
+msgstr "标有“重要”字样的章节应特别注意。"
 
 #: ../../information/glossar.rst:16 1355f84001ad42f0a9af92c8db7d7e98
 #, fuzzy
 msgid "A tip makes it easier to deal with a situation."
-msgstr "小费可以让情况处理得更容易。"
+msgstr "小费能让人更容易应对某种情况。"
 
 #: ../../information/glossar.rst:19 4a706194fe8849d98accf639920d5bed
 #, fuzzy
@@ -66,7 +66,7 @@ msgstr "警告表示可能发生的特定情况。"
 msgid ""
 "Caution indicates procedures that should be avoided and could become "
 "critical."
-msgstr "警告表示应避免某些程序，并且这些程序可能会变得很严重。"
+msgstr "谨慎表示应该避免执行可能造成严重后果的操作。"
 
 #: ../../information/glossar.rst:25 31356a5187eb4ac0b9ecf14c26783162
 #, fuzzy
@@ -80,10 +80,10 @@ msgstr "警告表示不应执行的操作或情况。警告具有建议的性质
 msgid ""
 "Areas designated as hazardous can cause harm. You should strictly follow the"
 " instructions."
-msgstr "危险区域可能会造成伤害。请严格遵守相关指示。"
+msgstr "被划为危险区域的地方可能会造成伤害。请务必严格遵守相关说明。"
 
 #: ../../information/glossar.rst:31 e70c41793fd44b56b5d8b9d08b7f049c
 #, fuzzy
 msgid ""
 "Places marked with errors show how errors occur and how they can be avoided."
-msgstr "标有错误的地方显示了错误是如何发生的以及如何避免错误。"
+msgstr "标有错误的地方说明了错误是如何发生的以及如何避免错误的。"

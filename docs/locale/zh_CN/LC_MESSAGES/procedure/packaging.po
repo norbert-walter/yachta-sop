@@ -23,31 +23,31 @@ msgstr ""
 #: ../../procedure/packaging.rst:2 9b99904de9b542289349fad23ac72e3d
 #, fuzzy
 msgid "Final Acceptance & Packaging"
-msgstr "最终验收和包装"
+msgstr "最终验收及包装"
 
 #: ../../procedure/packaging.rst:4 fa10d62e53f54b268537c7d30f9312a9
 #, fuzzy
 msgid ""
 "Completeness: all checks “pass”, labels applied, protective covers/spacers "
 "installed (if specified)"
-msgstr "完整性：所有检查均“通过”，标签已贴，保护盖/垫片已安装（如指定）"
+msgstr "完整性：所有检查均“通过”，标签已贴好，保护盖/垫片已安装（如已指定）。"
 
 #: ../../procedure/packaging.rst:5 cd54e44456334f7486f8a29a86601690
 #, fuzzy
 msgid "Cleaning/conformal coating (if required) performed and documented"
-msgstr "执行并记录清洁/保形涂层（如果需要）"
+msgstr "已完成并记录清洁/保形涂层（如需要）"
 
 #: ../../procedure/packaging.rst:6 2e13916e21b345d49b991fc0625dfaa1
 #, fuzzy
 msgid ""
 "ESD‑safe packaging (ESD bag, desiccant, markings), packing slip with "
 "SN/Rev./FW version"
-msgstr "ESD 安全包装（ESD 袋、干燥剂、标记）、带有 SN/Rev./FW 版本的装箱单"
+msgstr "防静电包装（防静电袋、干燥剂、标识）、带有序列号/版本号/固件版本的装箱单"
 
 #: ../../procedure/packaging.rst:7 c16b463b90e84d24a9b881c6d840ae26
 #, fuzzy
 msgid "Handover to stock/shipping with full data set"
-msgstr "交付库存/发货，并附带完整数据集"
+msgstr "交接至库存/发货部门，并附上完整数据集"
 
 #: ../../procedure/packaging.rst:10 a6c1ff706c61475da177e93d8e7d98b0
 #, fuzzy
@@ -62,17 +62,17 @@ msgstr "热焊接机"
 #: ../../procedure/packaging.rst:13 40109a55628c4aa0ab09c1b7741adba2
 #, fuzzy
 msgid "Ziplock bags (size L x W, 120x80 mm, electrostatic safe)"
-msgstr "自封袋（尺寸长 x 宽，120x80 毫米，防静电）"
+msgstr "自封袋（尺寸：长 x 宽，120x80 毫米，防静电）"
 
 #: ../../procedure/packaging.rst:14 8ca4d4d3f5b34ddf9e27c0d791296559
 #, fuzzy
 msgid "Yachta PCBs"
-msgstr "Yachta PCB"
+msgstr "游艇PCB"
 
 #: ../../procedure/packaging.rst:15 a61ccacfcf9948fd9c483cba4f3ed088
 #, fuzzy
 msgid "Cube magnets 5x5x5 mm"
-msgstr "立方体磁铁 5x5x5 毫米"
+msgstr "5x5x5毫米立方体磁铁"
 
 #: ../../procedure/packaging.rst:16 6f8205ac72ea412fa92199d57f5a28c9
 #, fuzzy
@@ -92,22 +92,22 @@ msgstr "程序"
 #: ../../procedure/packaging.rst:22 559e29ed13554c6292695c65a7b06940
 #, fuzzy
 msgid "**1. Insert the PCB in Zip bag with the component side facing up**"
-msgstr "**1. 将 PCB 放入拉链袋中，元件面朝上**"
+msgstr "**1. 将PCB板放入密封袋中，元件面朝上**"
 
 #: ../../procedure/packaging.rst:26 e2b307eb113f4950b455ab2845696291
 #, fuzzy
 msgid "Fig.: Parts for packaging"
-msgstr "图：包装零件"
+msgstr "图：包装部件"
 
 #: ../../procedure/packaging.rst:28 b99f8c3de3c84164ad967961f69e2cb7
 #, fuzzy
 msgid "**2. Seal the ziplock bag hermetically**"
-msgstr "**2. 将密封袋密封**"
+msgstr "**2. 将自封袋密封好**"
 
 #: ../../procedure/packaging.rst:29 4472647c8f9d413a9b7a9915a72d18bd
 #, fuzzy
 msgid "The seal must be completely sealed and continuous"
-msgstr "封口必须完全密封且连续"
+msgstr "密封必须完全密封且连续。"
 
 #: ../../procedure/packaging.rst:33 5b5be52b1b7045119b7d0379eefda168
 #, fuzzy
@@ -117,37 +117,37 @@ msgstr "图：密封的自封袋"
 #: ../../procedure/packaging.rst:35 ee0cd1b9d7884181877cd3f0e2224604
 #, fuzzy
 msgid "**3. Insert the magnets**"
-msgstr "**3. 插入磁铁**"
+msgstr "3. 插入磁铁"
 
 #: ../../procedure/packaging.rst:36 2c17472cc89943ffba0587551c52565d
 #, fuzzy
 msgid "1x cube magnet 5x5x5 mm"
-msgstr "1x 立方体磁铁 5x5x5 毫米"
+msgstr "1 个 5x5x5 毫米的立方体磁铁"
 
 #: ../../procedure/packaging.rst:37 8793b331fe5f4770adb0f87c87a9f5b5
 #, fuzzy
 msgid "4x cylinder magnets D3x4 mm"
-msgstr "4x 圆柱形磁铁 D3x4 毫米"
+msgstr "4 个圆柱形磁铁，直径 3 毫米，尺寸 4 毫米"
 
 #: ../../procedure/packaging.rst:38 0e6fbc95fda540f788f21908b972f18f
 #, fuzzy
 msgid "All magnets must adhere to each other"
-msgstr "所有磁铁必须相互吸附"
+msgstr "所有磁铁必须相互吸引。"
 
 #: ../../procedure/packaging.rst:40 bcd763bc78b942178f73bea7bc3f3e05
 #, fuzzy
 msgid "**4. Close the ziplock**"
-msgstr "**4. 盖上密封袋**"
+msgstr "4. 封好自封袋"
 
 #: ../../procedure/packaging.rst:42 f36d28d8fedf4c32a29db82c8da566be
 #, fuzzy
 msgid "**5. Attach the label to the back**"
-msgstr "**5. 将标签贴到背面**"
+msgstr "5. 将标签贴在背面"
 
 #: ../../procedure/packaging.rst:44 89dc8b407ed94822ac94fdbe12ab74d9
 #, fuzzy
 msgid "**6. Final quality check**"
-msgstr "**6. 最终质量检查**"
+msgstr "6. 最终质量检查"
 
 #: ../../procedure/packaging.rst:48 3a3aeefcfed94a27bd5fae2a30cd6b56
 #, fuzzy
@@ -162,17 +162,17 @@ msgstr "验收"
 #: ../../procedure/packaging.rst:55 9e6c7f73ee8240eaa214deaf81a0553d
 #, fuzzy
 msgid "Uniform orientation of the boards"
-msgstr "板的统一方向"
+msgstr "板材方向一致"
 
 #: ../../procedure/packaging.rst:56 6b5ba9789161451fb046ac837548b0d0
 #, fuzzy
 msgid "Only tested and successfully inspected boards in the bag"
-msgstr "袋子里只有经过测试并成功检验的电路板"
+msgstr "袋子里只有经过测试和合格检验的电路板。"
 
 #: ../../procedure/packaging.rst:57 582fccbb0d754c438e9d98ea7fbdc618
 #, fuzzy
 msgid "Correct number of parts"
-msgstr "正确的零件数量"
+msgstr "零件数量正确"
 
 #: ../../procedure/packaging.rst:58 64d9eae48d2e4875b883ce98ad6009e8
 #, fuzzy
@@ -187,9 +187,9 @@ msgstr "焊缝上方的磁铁"
 #: ../../procedure/packaging.rst:60 a78ac07fe261431f8a1035e805b3f73e
 #, fuzzy
 msgid "No magnets in the board area"
-msgstr "电路板区域内无磁铁"
+msgstr "板面区域内没有磁铁"
 
 #: ../../procedure/packaging.rst:61 f5326dfa8bda4045a9c3725129672192
 #, fuzzy
 msgid "Correctly sealed bag"
-msgstr "正确密封的袋子"
+msgstr "密封良好的袋子"

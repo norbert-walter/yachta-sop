@@ -42,7 +42,7 @@ msgstr ""
 #: ../../attachments/collections.rst:10 a6d3d9edacff4c7f82b14c87712eba0d
 #, fuzzy
 msgid "BOM and pick and place list"
-msgstr "BOM 和拾取放置清单"
+msgstr "物料清单和拣货放置清单"
 
 #: ../../attachments/collections.rst:12 458669fbde544b939feb2e6844a3f050
 #, fuzzy
@@ -84,7 +84,7 @@ msgstr ""
 #: ../../attachments/collections.rst:22 4de368ce146e45c594ced4b2c84696ee
 #, fuzzy
 msgid "Schematic"
-msgstr "示意图"
+msgstr "原理图"
 
 #: ../../attachments/collections.rst:24 2dfae94b896d4ed881517351b512cec7
 #, fuzzy
@@ -103,17 +103,17 @@ msgstr "游艇PCB"
 #: ../../attachments/collections.rst:31 2f00f6134f0e43ffafb6f29545bf1d9f
 #, fuzzy
 msgid "Fig.: PCB top side V2.1"
-msgstr "图：PCB 正面 V2.1"
+msgstr "图：PCB顶面V2.1"
 
 #: ../../attachments/collections.rst:35 e9b51ead1777444298a7b27cb1125816
 #, fuzzy
 msgid "Fig.: PCB bottom side V2.1"
-msgstr "图：PCB 底部 V2.1"
+msgstr "图：PCB底面V2.1"
 
 #: ../../attachments/collections.rst:39 e0ac92f0fa1e4a5db9cf747832d06558
 #, fuzzy
 msgid "Fig.: PCB top side 3D V2.1"
-msgstr "图：PCB 正面 3D V2.1"
+msgstr "图：PCB顶面3D图V2.1"
 
 #: ../../attachments/collections.rst:42 59e24ecd77b2497f915604e549b18e22
 #, fuzzy
@@ -128,7 +128,7 @@ msgstr "|IMG|_"
 #: ../../attachments/collections.rst:46 8657a50ba63d468db5ab34caed7e8e2d
 #, fuzzy
 msgid "IMG"
-msgstr "图片"
+msgstr "IMG"
 
 #: ../../attachments/collections.rst:50 9eb814e436c542619b2e411de0c3dda5
 #, fuzzy

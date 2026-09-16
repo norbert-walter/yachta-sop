@@ -28,7 +28,7 @@ msgstr "清单和表格"
 #: ../../quality/templates.rst:5 799b1d67211145cab7bfad9052e517c5
 #, fuzzy
 msgid "Form A1 – PCB Incoming Inspection"
-msgstr "A1表格——PCB进货检验"
+msgstr "A1表 – PCB来料检验"
 
 #: ../../quality/templates.rst:7 3a543d96104e4af895f2d2afadc83b7c
 #, fuzzy
@@ -42,7 +42,7 @@ msgstr ""
 #: ../../quality/templates.rst:10 9068a2461a7a437d90abed3091a10b3c
 #, fuzzy
 msgid "Form B1 – Component Incoming Inspection"
-msgstr "B1表格——零部件进货检验"
+msgstr "表格 B1 – 零部件来料检验"
 
 #: ../../quality/templates.rst:12 c6447bef18c9436f97b046da23589079
 #, fuzzy
@@ -70,7 +70,7 @@ msgstr ""
 #: ../../quality/templates.rst:20 0758344320cb45d180ceb56a8bc1054b
 #, fuzzy
 msgid "Form D1 – Electrical Basic Test"
-msgstr "表格 D1 – 电气基础测试"
+msgstr "D1 表格 – 电气基础测试"
 
 #: ../../quality/templates.rst:22 ca4d3162ee9c4f849317bf6876fae86d
 #, fuzzy
@@ -84,7 +84,7 @@ msgstr ""
 #: ../../quality/templates.rst:25 fc1b7fa578644f8f942c7f71e5b3d701
 #, fuzzy
 msgid "Form E1 – Programming"
-msgstr "表格 E1 – 编程"
+msgstr "E1表格 – 编程"
 
 #: ../../quality/templates.rst:27 8bf3e56cc4744a42a354e23fa3977457
 #, fuzzy
@@ -96,7 +96,7 @@ msgstr ""
 #: ../../quality/templates.rst:30 8c45c15b76214c3094a6a0ad830e78db
 #, fuzzy
 msgid "Form F1 – Functional Test (FCT)"
-msgstr "表格 F1 – 功能测试 (FCT)"
+msgstr "F1 表格 – 功能测试 (FCT)"
 
 #: ../../quality/templates.rst:32 4e4f07c41c5a4971b4c07eea338a637d
 #, fuzzy
@@ -110,7 +110,7 @@ msgstr ""
 #: ../../quality/templates.rst:35 f106abae425741fc82b3f0111b278eb1
 #, fuzzy
 msgid "Form Q1 – Non Conformity Report"
-msgstr "表格 Q1 – 不合格报告"
+msgstr "表格 Q1 – 不符合项报告"
 
 #: ../../quality/templates.rst:37 836b3b188e2f4f5c923b2e04e86d7c24
 #, fuzzy

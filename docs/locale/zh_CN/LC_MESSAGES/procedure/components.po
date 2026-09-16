@@ -23,7 +23,7 @@ msgstr ""
 #: ../../procedure/components.rst:2 bde49da8e79f4fed91708e0435fe85b0
 #, fuzzy
 msgid "Component Sourcing & Incoming Inspection"
-msgstr "零部件采购和进货检验"
+msgstr "零部件采购及来料检验"
 
 #: ../../procedure/components.rst:5 f095a08f5dc24ee9aa8ce7ce9b73f35d
 #, fuzzy
@@ -34,40 +34,40 @@ msgstr "采购"
 #, fuzzy
 msgid ""
 "Check BOM for obsolescence; confirm MPN, package, tolerances, temp ranges"
-msgstr "检查 BOM 是否过时；确认 MPN、封装、公差、温度范围"
+msgstr "检查物料清单（BOM）是否存在过时产品；确认制造商零件编号（MPN）、封装、公差和温度范围。"
 
 #: ../../procedure/components.rst:7 83039afa9ce24d68b2829a04dafd8c29
 #, fuzzy
 msgid ""
 "Purchase from authorized distributors/OEMs; document approved alternates"
-msgstr "从授权经销商/OEM 购买；记录批准的替代品"
+msgstr "从授权经销商/原始设备制造商处采购；记录已批准的替代品。"
 
 #: ../../procedure/components.rst:10 78b72c367b724a23a2a6d7224f0a65b1
 #, fuzzy
 msgid "Incoming inspection"
-msgstr "进货检验"
+msgstr "来料检验"
 
 #: ../../procedure/components.rst:11 61ab46d856494c8e8144867e72a8c17d
 #, fuzzy
 msgid "Label check: manufacturer, MPN, qty, lot/date code, RoHS/REACH"
-msgstr "标签检查：制造商、MPN、数量、批号/日期代码、RoHS/REACH"
+msgstr "标签检查：制造商、MPN、数量、批号/日期代码、RoHS/REACH 法规"
 
 #: ../../procedure/components.rst:12 09f604fcad144e278f6aa603a17d0c46
 #, fuzzy
 msgid "Visual check: package damage, leads, MSL bag/indicator"
-msgstr "目视检查：包装损坏、引线、MSL 袋/指示器"
+msgstr "目视检查：包装损坏、导线、MSL袋/指示器"
 
 #: ../../procedure/components.rst:13 fcdde49b7314428793f9b858f27db6d6
 #, fuzzy
 msgid "Verify MSL; observe moisture handling (dry storage/bake per JEDEC)"
-msgstr "验证 MSL；观察防潮处理（按照 JEDEC 进行干燥储存/烘烤）"
+msgstr "核实MSL；注意水分处理（按照JEDEC标准进行干燥储存/烘烤）"
 
 #: ../../procedure/components.rst:14 6072fb8570f74553ae03ab7064907c30
 #, fuzzy
 msgid "Plausibility checks (sample measure resistors/capacitors)"
-msgstr "合理性检查（样品测量电阻器/电容器）"
+msgstr "合理性检查（抽样测量电阻器/电容器）"
 
 #: ../../procedure/components.rst:15 7c7107d5b8b64f68ad24822ad879d744
 #, fuzzy
 msgid "Release/hold documented (Form B1)"
-msgstr "已记录释放/扣留（表格 B1）"
+msgstr "已记录的释放/保留文件（B1 表格）"

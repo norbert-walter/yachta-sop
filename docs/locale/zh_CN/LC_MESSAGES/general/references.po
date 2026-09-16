@@ -23,7 +23,7 @@ msgstr ""
 #: ../../general/references.rst:2 c3431011d8884a30b3c78fafb6abda51
 #, fuzzy
 msgid "References / Standards"
-msgstr "参考文献/标准"
+msgstr "参考资料/标准"
 
 #: ../../general/references.rst:4 9e9d5dd1c0af44f088b606ec863ad26b
 #, fuzzy
@@ -50,12 +50,12 @@ msgstr "IPC-7711/7721：返工、修改和维修"
 #: ../../general/references.rst:8 50525911a58f43958e4ced6125eb5e25
 #, fuzzy
 msgid "IEC 61340‑5‑1: ESD control in electronics manufacturing"
-msgstr "IEC 61340-5-1：电子制造中的 ESD 控制"
+msgstr "IEC 61340-5-1：电子制造中的静电放电控制"
 
 #: ../../general/references.rst:9 6187e7f592ea4987af7269df7b17f294
 #, fuzzy
 msgid "JEDEC J‑STD‑033: Handling of moisture sensitive devices (MSL)"
-msgstr "JEDEC J‑STD‑033：湿敏器件（MSL）的处理"
+msgstr "JEDEC J‑STD‑033：湿度敏感器件（MSL）的处理"
 
 #: ../../general/references.rst:10 be9e9793eadb45f4800fbf571482b43d
 #, fuzzy

@@ -34,8 +34,8 @@ msgid ""
 "contact Open Boat Projects. We will then clarify the possibilities for non-"
 "exclusive commercial use."
 msgstr ""
-"复制风传感器时必须遵守版权和许可规定。任何人都可以免费复制，只要不用于商业目的或盈利。如果您有商业目的，请联系 Open Boat "
-"Projects。我们将与您沟通，并向您说明非独家商业使用的可能性。"
+"复制风速传感器时必须遵守版权和许可协议。任何人都可以免费复制，但不得用于商业用途或牟利。如果您有商业用途，请联系 Open Boat "
+"Projects。我们将与您探讨非独家商业使用的可能性。"
 
 #: ../../information/copyright.rst:7 520f17e5b5ba4f84a4a55a481cc8164b
 #, fuzzy
@@ -51,8 +51,8 @@ msgid ""
 " use. To ensure that all contributors and users understand their rights and "
 "obligations, the following licensing rules apply."
 msgstr ""
-"**Yachta 风传感器** 项目是 **开放船舶项目** "
-"的一部分，提供用于风传感器的开放硬件和软件解决方案。该项目旨在鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，适用以下许可规则。"
+"Yachta 风速传感器项目是 Open Boat Projects "
+"的一部分，提供用于风速传感的开源软硬件解决方案。该项目的目标是鼓励复制、进一步开发和社区使用。为确保所有贡献者和用户了解其权利和义务，特此制定以下许可规则。"
 
 #: ../../information/copyright.rst:13 ed01db3558de4ffd9461a62b7d160fb7
 #, fuzzy
@@ -100,7 +100,7 @@ msgstr "手册、印刷材料"
 msgid ""
 "Free use for non-commercial purposes attribution required sharing only under"
 " the same license"
-msgstr "非商业用途免费使用，需署名，仅在同一许可下共享"
+msgstr "免费用于非商业用途，需注明出处，且仅可在相同许可协议下分享。"
 
 #: ../../information/copyright.rst:21 2e3d9072cfe64fe5922af3c76dabf731
 #, fuzzy
@@ -110,14 +110,14 @@ msgstr "硬件"
 #: ../../information/copyright.rst:21 a5ae8dee5f45464294ebb2cb7c1d4de6
 #, fuzzy
 msgid "PCB layouts, 2D/3D CAD files"
-msgstr "PCB布局、2D/3D CAD文件"
+msgstr "PCB布局图、2D/3D CAD文件"
 
 #: ../../information/copyright.rst:21 79d85fb8db8d429ea7fbdafa79a79f81
 #, fuzzy
 msgid ""
 "Free replication for private, non-commercial use commercial use only with "
 "permission from Open-Boat-Projects"
-msgstr "仅供私人、非商业用途免费复制，商业用途需获得 Open-Boat-Projects 的许可"
+msgstr "免费复制供私人非商业用途，商业用途需获得 Open-Boat-Projects 的许可。"
 
 #: ../../information/copyright.rst:24 b9088a8dea124a9a8d8b6a19e9ee89cb
 #, fuzzy
@@ -139,7 +139,7 @@ msgstr "固件、应用程序"
 msgid ""
 "Free to use, modify, and distribute, including commercially source code and "
 "license notes must be provided"
-msgstr "可以自由使用、修改和分发，包括必须提供商业源代码和许可证说明"
+msgstr "可免费使用、修改和分发，包括商业用途，但必须提供源代码和许可说明。"
 
 #: ../../information/copyright.rst:29 cd0af9796a784d6a9b690769a9f12082
 #, fuzzy
@@ -154,17 +154,17 @@ msgstr "CC-BY-NC-SA 4.0："
 #: ../../information/copyright.rst:32 1839add01eac47abb5216643f79721cf
 #, fuzzy
 msgid "BY = Attribution is required."
-msgstr "BY = 需要署名。"
+msgstr "BY = 必须注明出处。"
 
 #: ../../information/copyright.rst:33 1ac41bd0bcae42edb3a1319d7b505fac
 #, fuzzy
 msgid "NC = Use is limited to non-commercial purposes."
-msgstr "NC = 仅限非商业用途使用。"
+msgstr "NC = 仅限非商业用途。"
 
 #: ../../information/copyright.rst:34 2163db8adaad4ede98dd2618d926120c
 #, fuzzy
 msgid "SA = Modifications must be shared under the same license."
-msgstr "SA = 修改必须在同一许可下共享。"
+msgstr "SA = 修改后的版本必须在同一许可证下共享。"
 
 #: ../../information/copyright.rst:36 82c0259ea49c443abff8a6d15e2fdbcc
 #, fuzzy
@@ -174,17 +174,17 @@ msgstr "GPL v3.0："
 #: ../../information/copyright.rst:37 ff3a732030464c3bb6af4392c423ddcc
 #, fuzzy
 msgid "Free use, modification, and distribution, including commercial use."
-msgstr "免费使用、修改和分发，包括商业使用。"
+msgstr "免费使用、修改和分发，包括商业用途。"
 
 #: ../../information/copyright.rst:38 abf3bbc4e2ae4c36abebf5382481f476
 #, fuzzy
 msgid "The source code must remain accessible."
-msgstr "源代码必须保持可访问。"
+msgstr "源代码必须保持可访问性。"
 
 #: ../../information/copyright.rst:39 27f5f15b5ec547a082b50c1edcb407f6
 #, fuzzy
 msgid "License notes may not be removed."
-msgstr "许可证说明不得被删除。"
+msgstr "许可说明不得移除。"
 
 #: ../../information/copyright.rst:42 02fffee7502c4e8ea46bd156dc29b273
 #, fuzzy
@@ -198,7 +198,7 @@ msgid ""
 "(e.g., selling sensors or integrating into commercial products), please "
 "contact **Open Boat Projects** via `contact form`_."
 msgstr ""
-"始终允许非商业用途的免费使用。如需商业利用（例如，出售传感器或集成到商业产品中），请通过 `联系表格`_ 联系 **Open Boat "
+"非商业性、免费使用始终允许。如需商业用途（例如，销售传感器或集成到商业产品中），请通过 [[RTDREF0]0] 联系 **Open Boat "
 "Projects**。"
 
 #: ../../information/copyright.rst:49 7062094aacde44ffb2b821a3635cb175
@@ -206,7 +206,7 @@ msgstr ""
 msgid ""
 "We will then determine possible options for a non-exclusive commercial "
 "license."
-msgstr "然后，我们将确定非独占商业许可的可能选择。"
+msgstr "然后我们将确定非独占商业许可的可能方案。"
 
 #: ../../information/copyright.rst:52 f58e929c52cb4c15888a85806e5a5bab
 #, fuzzy
@@ -219,7 +219,7 @@ msgid ""
 "The use of the provided documentation, hardware designs, and software is at "
 "your own risk. No liability is assumed for any damages arising from "
 "replication, use, or further development."
-msgstr "使用所提供的文档、硬件设计和软件的风险由您自行承担。对于因复制、使用或进一步开发而造成的任何损害，我们概不负责。"
+msgstr "使用所提供的文档、硬件设计和软件需自行承担风险。对于因复制、使用或进一步开发而造成的任何损失，我们概不负责。"
 
 #: ../../information/copyright.rst:58 ed090bbffad44aa3898e944498f965ad
 #, fuzzy
@@ -232,7 +232,7 @@ msgid ""
 "Community contributions are welcome! Please note that all submitted changes,"
 " extensions, or documentation will also be published under the licenses "
 "mentioned above."
-msgstr "欢迎社区贡献！请注意，所有提交的更改、扩展或文档也将按照上述许可发布。"
+msgstr "欢迎社区贡献！请注意，所有提交的更改、扩展或文档也将根据上述许可证发布。"
 
 #~ msgid ""
 #~ "Area            | License       | Content                     | Conditions |"
