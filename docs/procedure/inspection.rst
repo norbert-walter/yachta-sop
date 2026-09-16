@@ -46,7 +46,7 @@ The spacing between the pins on Q3 is very tight. If Q3 is manually populated as
 .. image:: /pics/Q3.png
              :scale: 30%
 			 
-Fig.: U5 passive high voltage protection
+Fig.: Q3 pin spacing
 
 **U2 - Micro Controller**
 
@@ -55,4 +55,4 @@ U2 must not mismatch the solder pads. All pins must be evenly and centered on th
 .. image:: /pics/U2.png
              :scale: 30%
 			 
-Fig.: U5 passive high voltage protection
+Fig.: Antenna distance
